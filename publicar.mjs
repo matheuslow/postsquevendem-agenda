@@ -55,6 +55,12 @@ async function publicaFB(p) {
   return (await api(`${PAGE}/feed`, params)).id;
 }
 
+if (process.env.TESTE) {
+  const me = await api(IG, { fields: "username,followers_count,media_count" }, "GET");
+  const lim = await api(`${IG}/content_publishing_limit`, { fields: "quota_usage,config" }, "GET");
+  console.log("TESTE OK", JSON.stringify(me), JSON.stringify(lim));
+  process.exit(0);
+}
 const agora = Date.now();
 const vencidos = agenda.filter((p) => new Date(p.quando).getTime() <= agora && (!p.ig || !p.fb)).slice(0, MAX);
 console.log(`${vencidos.length} pra publicar agora`);
