@@ -32,6 +32,16 @@
   "via": "business_suite"
  },
  {
+  "id": "D01-10h00-story",
+  "quando": "2026-10-05T10:00:00-03:00",
+  "etapa": "story",
+  "tipo": "story",
+  "arquivos": [
+   "midia/D01-10h00-story/1-ideia-do-dia.jpg"
+  ],
+  "legenda": "(story da ideia do dia, sem legenda)"
+ },
+ {
   "id": "D01-11h00",
   "quando": "2026-10-05T11:00:00-03:00",
   "etapa": "topo",
@@ -80,6 +90,16 @@
   "via": "business_suite"
  },
  {
+  "id": "D01-15h00-story",
+  "quando": "2026-10-05T15:00:00-03:00",
+  "etapa": "story",
+  "tipo": "manual",
+  "arquivos": [
+   "midia/D01-15h00-story/2-enquete.jpg"
+  ],
+  "legenda": "Segunda 05/10\n\n10h  1-ideia-do-dia.jpg (sem figurinha)\n15h  2-enquete.jpg · figurinha ENQUETE no espaço tracejado\n     Pergunta: Qual é o dia mais fraco da sua pizzaria?\n     Opções: Seg ou ter / Qua ou qui\n17h  3-link.jpg · figurinha de LINK no espaço tracejado: pertinho.club/pizza\nDepois de publicar o post/reel do dia: compartilhe no story.\n\nLink da figurinha: https://pertinho.club/pizza?utm_source=instagram&utm_medium=organico&utm_campaign=stories&utm_content=d01"
+ },
+ {
   "id": "D01-16h00",
   "quando": "2026-10-05T16:00:00-03:00",
   "etapa": "topo",
@@ -97,6 +117,16 @@
   "ig": "business_suite",
   "fb": "business_suite",
   "via": "business_suite"
+ },
+ {
+  "id": "D01-17h00-story",
+  "quando": "2026-10-05T17:00:00-03:00",
+  "etapa": "story",
+  "tipo": "manual",
+  "arquivos": [
+   "midia/D01-17h00-story/3-link.jpg"
+  ],
+  "legenda": "Segunda 05/10\n\n10h  1-ideia-do-dia.jpg (sem figurinha)\n15h  2-enquete.jpg · figurinha ENQUETE no espaço tracejado\n     Pergunta: Qual é o dia mais fraco da sua pizzaria?\n     Opções: Seg ou ter / Qua ou qui\n17h  3-link.jpg · figurinha de LINK no espaço tracejado: pertinho.club/pizza\nDepois de publicar o post/reel do dia: compartilhe no story.\n\nLink da figurinha: https://pertinho.club/pizza?utm_source=instagram&utm_medium=organico&utm_campaign=stories&utm_content=d01"
  },
  {
   "id": "D01-18h00",
@@ -192,6 +222,16 @@
   "via": "business_suite"
  },
  {
+  "id": "D02-10h00-story",
+  "quando": "2026-10-06T10:00:00-03:00",
+  "etapa": "story",
+  "tipo": "story",
+  "arquivos": [
+   "midia/D02-10h00-story/1-ideia-do-dia.jpg"
+  ],
+  "legenda": "(story da ideia do dia, sem legenda)"
+ },
+ {
   "id": "D02-11h00",
   "quando": "2026-10-06T11:00:00-03:00",
   "etapa": "topo",
@@ -241,6 +281,16 @@
   "via": "business_suite"
  },
  {
+  "id": "D02-15h00-story",
+  "quando": "2026-10-06T15:00:00-03:00",
+  "etapa": "story",
+  "tipo": "manual",
+  "arquivos": [
+   "midia/D02-15h00-story/2-caixinha.jpg"
+  ],
+  "legenda": "Terça 06/10\n\n10h  1-ideia-do-dia.jpg (sem figurinha)\n15h  2-caixinha.jpg · figurinha CAIXINHA no espaço tracejado\n     Pergunta: Qual promoção já funcionou aí?\n     Opções: caixinha de perguntas\n17h  3-link.jpg · figurinha de LINK no espaço tracejado: pertinho.club/pizza\nDepois de publicar o post/reel do dia: compartilhe no story.\n\nLink da figurinha: https://pertinho.club/pizza?utm_source=instagram&utm_medium=organico&utm_campaign=stories&utm_content=d02"
+ },
+ {
   "id": "D02-16h00",
   "quando": "2026-10-06T16:00:00-03:00",
   "etapa": "topo",
@@ -258,6 +308,16 @@
   "ig": "business_suite",
   "fb": "business_suite",
   "via": "business_suite"
+ },
+ {
+  "id": "D02-17h00-story",
+  "quando": "2026-10-06T17:00:00-03:00",
+  "etapa": "story",
+  "tipo": "manual",
+  "arquivos": [
+   "midia/D02-17h00-story/3-link.jpg"
+  ],
+  "legenda": "Terça 06/10\n\n10h  1-ideia-do-dia.jpg (sem figurinha)\n15h  2-caixinha.jpg · figurinha CAIXINHA no espaço tracejado\n     Pergunta: Qual promoção já funcionou aí?\n     Opções: caixinha de perguntas\n17h  3-link.jpg · figurinha de LINK no espaço tracejado: pertinho.club/pizza\nDepois de publicar o post/reel do dia: compartilhe no story.\n\nLink da figurinha: https://pertinho.club/pizza?utm_source=instagram&utm_medium=organico&utm_campaign=stories&utm_content=d02"
  },
  {
   "id": "D02-18h00",
@@ -351,6 +411,16 @@
   "via": "business_suite"
  },
  {
+  "id": "D03-10h00-story",
+  "quando": "2026-10-07T10:00:00-03:00",
+  "etapa": "story",
+  "tipo": "story",
+  "arquivos": [
+   "midia/D03-10h00-story/1-ideia-do-dia.jpg"
+  ],
+  "legenda": "(story da ideia do dia, sem legenda)"
+ },
+ {
   "id": "D03-11h00",
   "quando": "2026-10-07T11:00:00-03:00",
   "etapa": "topo",
@@ -394,6 +464,16 @@
   "via": "business_suite"
  },
  {
+  "id": "D03-15h00-story",
+  "quando": "2026-10-07T15:00:00-03:00",
+  "etapa": "story",
+  "tipo": "manual",
+  "arquivos": [
+   "midia/D03-15h00-story/2-enquete.jpg"
+  ],
+  "legenda": "Quarta 07/10\n\n10h  1-ideia-do-dia.jpg (sem figurinha)\n15h  2-enquete.jpg · figurinha ENQUETE no espaço tracejado\n     Pergunta: Você posta todo dia?\n     Opções: Sim / Quando dá\n17h  3-link.jpg · figurinha de LINK no espaço tracejado: pertinho.club/pizza\nDepois de publicar o post/reel do dia: compartilhe no story.\n\nLink da figurinha: https://pertinho.club/pizza?utm_source=instagram&utm_medium=organico&utm_campaign=stories&utm_content=d03"
+ },
+ {
   "id": "D03-16h00",
   "quando": "2026-10-07T16:00:00-03:00",
   "etapa": "topo",
@@ -411,6 +491,16 @@
   "ig": "business_suite",
   "fb": "business_suite",
   "via": "business_suite"
+ },
+ {
+  "id": "D03-17h00-story",
+  "quando": "2026-10-07T17:00:00-03:00",
+  "etapa": "story",
+  "tipo": "manual",
+  "arquivos": [
+   "midia/D03-17h00-story/3-link.jpg"
+  ],
+  "legenda": "Quarta 07/10\n\n10h  1-ideia-do-dia.jpg (sem figurinha)\n15h  2-enquete.jpg · figurinha ENQUETE no espaço tracejado\n     Pergunta: Você posta todo dia?\n     Opções: Sim / Quando dá\n17h  3-link.jpg · figurinha de LINK no espaço tracejado: pertinho.club/pizza\nDepois de publicar o post/reel do dia: compartilhe no story.\n\nLink da figurinha: https://pertinho.club/pizza?utm_source=instagram&utm_medium=organico&utm_campaign=stories&utm_content=d03"
  },
  {
   "id": "D03-18h00",
@@ -502,6 +592,16 @@
   "legenda": "Ideia de post pra hoje (quinta): refri grátis na compra da grande. Combo fechado decide rápido.\n\nPost e story já prontos no app. Você coloca a sua marca uma vez e baixa.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
  },
  {
+  "id": "D04-10h00-story",
+  "quando": "2026-10-08T10:00:00-03:00",
+  "etapa": "story",
+  "tipo": "story",
+  "arquivos": [
+   "midia/D04-10h00-story/1-ideia-do-dia.jpg"
+  ],
+  "legenda": "(story da ideia do dia, sem legenda)"
+ },
+ {
   "id": "D04-11h00",
   "quando": "2026-10-08T11:00:00-03:00",
   "etapa": "topo",
@@ -539,6 +639,16 @@
   "legenda": "R$ 67,80 ÷ 90 artes = R$ 0,75 por arte, com a versão Story de cada uma. E você reposta trocando dia, preço e sabor quando quiser. Não é mensalidade.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
  },
  {
+  "id": "D04-15h00-story",
+  "quando": "2026-10-08T15:00:00-03:00",
+  "etapa": "story",
+  "tipo": "manual",
+  "arquivos": [
+   "midia/D04-15h00-story/2-slider.jpg"
+  ],
+  "legenda": "Quinta 08/10\n\n10h  1-ideia-do-dia.jpg (sem figurinha)\n15h  2-slider.jpg · figurinha SLIDER no espaço tracejado\n     Pergunta: Quanto você gosta de fazer arte no Canva?\n     Opções: emoji 😩\n17h  3-link.jpg · figurinha de LINK no espaço tracejado: pertinho.club/pizza\nDepois de publicar o post/reel do dia: compartilhe no story.\n\nLink da figurinha: https://pertinho.club/pizza?utm_source=instagram&utm_medium=organico&utm_campaign=stories&utm_content=d04"
+ },
+ {
   "id": "D04-16h00",
   "quando": "2026-10-08T16:00:00-03:00",
   "etapa": "topo",
@@ -551,6 +661,16 @@
    "midia/D04-16h00/5.jpg"
   ],
   "legenda": "Ranking iFood do 1º semestre de 2026:\n\n1. Calabresa\n2. Frango com requeijão\n3. Marguerita (subiu do 5º)\n4. Muçarela\n5. Portuguesa\n\nE 8 em cada 10 são meio a meio ou personalizadas.\n\nQual mais sai na sua pizzaria? 👇\n\nFonte: InfoMoney, 10/07/2026.\n\nMarca aqui quem tem pizzaria e precisa ver isso 👇\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
+ },
+ {
+  "id": "D04-17h00-story",
+  "quando": "2026-10-08T17:00:00-03:00",
+  "etapa": "story",
+  "tipo": "manual",
+  "arquivos": [
+   "midia/D04-17h00-story/3-link.jpg"
+  ],
+  "legenda": "Quinta 08/10\n\n10h  1-ideia-do-dia.jpg (sem figurinha)\n15h  2-slider.jpg · figurinha SLIDER no espaço tracejado\n     Pergunta: Quanto você gosta de fazer arte no Canva?\n     Opções: emoji 😩\n17h  3-link.jpg · figurinha de LINK no espaço tracejado: pertinho.club/pizza\nDepois de publicar o post/reel do dia: compartilhe no story.\n\nLink da figurinha: https://pertinho.club/pizza?utm_source=instagram&utm_medium=organico&utm_campaign=stories&utm_content=d04"
  },
  {
   "id": "D04-18h00",
@@ -631,6 +751,16 @@
   "legenda": "Ideia de post pra hoje (sexta): \"Sextou, peça até 23h\". Lembra o horário e puxa o pedido antes do pico.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
  },
  {
+  "id": "D05-10h00-story",
+  "quando": "2026-10-09T10:00:00-03:00",
+  "etapa": "story",
+  "tipo": "story",
+  "arquivos": [
+   "midia/D05-10h00-story/1-ideia-do-dia.jpg"
+  ],
+  "legenda": "(story da ideia do dia, sem legenda)"
+ },
+ {
   "id": "D05-11h00",
   "quando": "2026-10-09T11:00:00-03:00",
   "etapa": "topo",
@@ -669,6 +799,16 @@
   "legenda": "O app por dentro: sobe a logo (até foto do cardápio serve), escolhe as cores e toca no dia, no sabor e no preço. Baixa em PNG no tamanho certo.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
  },
  {
+  "id": "D05-15h00-story",
+  "quando": "2026-10-09T15:00:00-03:00",
+  "etapa": "story",
+  "tipo": "manual",
+  "arquivos": [
+   "midia/D05-15h00-story/2-enquete.jpg"
+  ],
+  "legenda": "Sexta 09/10\n\n10h  1-ideia-do-dia.jpg (sem figurinha)\n15h  2-enquete.jpg · figurinha ENQUETE no espaço tracejado\n     Pergunta: Seu delivery vem mais de onde?\n     Opções: App de entrega / WhatsApp\n17h  3-link.jpg · figurinha de LINK no espaço tracejado: pertinho.club/pizza\nDepois de publicar o post/reel do dia: compartilhe no story.\n\nLink da figurinha: https://pertinho.club/pizza?utm_source=instagram&utm_medium=organico&utm_campaign=stories&utm_content=d05"
+ },
+ {
   "id": "D05-16h00",
   "quando": "2026-10-09T16:00:00-03:00",
   "etapa": "topo",
@@ -682,6 +822,16 @@
    "midia/D05-16h00/6.jpg"
   ],
   "legenda": "A Di Blasi nasceu de uma observação: num chá de bebê, Arnaldo Di Blasi viu que os convidados deixavam a borda no prato. Criou uma pizza fininha, quase sem borda, e foi pro delivery. Hoje são 50 unidades e R$ 60 milhões de faturamento.\n\nO que sobra no prato do seu cliente?\n\nFonte: TradeMap, 24/08/2026.\n\nMarca aqui quem tem pizzaria e precisa ver isso 👇\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
+ },
+ {
+  "id": "D05-17h00-story",
+  "quando": "2026-10-09T17:00:00-03:00",
+  "etapa": "story",
+  "tipo": "manual",
+  "arquivos": [
+   "midia/D05-17h00-story/3-link.jpg"
+  ],
+  "legenda": "Sexta 09/10\n\n10h  1-ideia-do-dia.jpg (sem figurinha)\n15h  2-enquete.jpg · figurinha ENQUETE no espaço tracejado\n     Pergunta: Seu delivery vem mais de onde?\n     Opções: App de entrega / WhatsApp\n17h  3-link.jpg · figurinha de LINK no espaço tracejado: pertinho.club/pizza\nDepois de publicar o post/reel do dia: compartilhe no story.\n\nLink da figurinha: https://pertinho.club/pizza?utm_source=instagram&utm_medium=organico&utm_campaign=stories&utm_content=d05"
  },
  {
   "id": "D05-18h00",
@@ -760,6 +910,16 @@
   "legenda": "Segunda (12/10) é feriado e Dia das Crianças. Posta hoje ou amanhã pra família já decidir o jantar: broto doce de presente, criança não paga ou combo família.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
  },
  {
+  "id": "D06-10h00-story",
+  "quando": "2026-10-10T10:00:00-03:00",
+  "etapa": "story",
+  "tipo": "story",
+  "arquivos": [
+   "midia/D06-10h00-story/1-ideia-do-dia.jpg"
+  ],
+  "legenda": "(story da ideia do dia, sem legenda)"
+ },
+ {
   "id": "D06-11h00",
   "quando": "2026-10-10T11:00:00-03:00",
   "etapa": "topo",
@@ -797,6 +957,16 @@
   "legenda": "\"E se eu não gostar?\" Você tem 7 dias de garantia pra testar com a sua marca.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
  },
  {
+  "id": "D06-15h00-story",
+  "quando": "2026-10-10T15:00:00-03:00",
+  "etapa": "story",
+  "tipo": "manual",
+  "arquivos": [
+   "midia/D06-15h00-story/2-caixinha.jpg"
+  ],
+  "legenda": "Sábado 10/10\n\n10h  1-ideia-do-dia.jpg (sem figurinha)\n15h  2-caixinha.jpg · figurinha CAIXINHA no espaço tracejado\n     Pergunta: Qual sabor mais sai aí?\n     Opções: caixinha de perguntas\n17h  3-link.jpg · figurinha de LINK no espaço tracejado: pertinho.club/pizza\nDepois de publicar o post/reel do dia: compartilhe no story.\n\nLink da figurinha: https://pertinho.club/pizza?utm_source=instagram&utm_medium=organico&utm_campaign=stories&utm_content=d06"
+ },
+ {
   "id": "D06-16h00",
   "quando": "2026-10-10T16:00:00-03:00",
   "etapa": "topo",
@@ -809,6 +979,16 @@
    "midia/D06-16h00/5.jpg"
   ],
   "legenda": "50 Top Pizza América Latina 2026: a Leggera (SP) é a melhor pela 3ª vez seguida. QT Pizza Bar em 3º, A Pizza da Mooca em 7º, Unica em 8º, Bento (RJ) em 11º, Veridiana em 12º. O Brasil tem 22 das 50.\n\nQual pizzaria você colocaria nessa lista? 👇\n\nFontes: 50toppizza.it e Money Times.\n\nMarca aqui quem tem pizzaria e precisa ver isso 👇\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
+ },
+ {
+  "id": "D06-17h00-story",
+  "quando": "2026-10-10T17:00:00-03:00",
+  "etapa": "story",
+  "tipo": "manual",
+  "arquivos": [
+   "midia/D06-17h00-story/3-link.jpg"
+  ],
+  "legenda": "Sábado 10/10\n\n10h  1-ideia-do-dia.jpg (sem figurinha)\n15h  2-caixinha.jpg · figurinha CAIXINHA no espaço tracejado\n     Pergunta: Qual sabor mais sai aí?\n     Opções: caixinha de perguntas\n17h  3-link.jpg · figurinha de LINK no espaço tracejado: pertinho.club/pizza\nDepois de publicar o post/reel do dia: compartilhe no story.\n\nLink da figurinha: https://pertinho.club/pizza?utm_source=instagram&utm_medium=organico&utm_campaign=stories&utm_content=d06"
  },
  {
   "id": "D06-18h00",
@@ -893,6 +1073,16 @@
   "legenda": "Ideia de post pra hoje (domingo): combo família, porque domingo é o dia do pedido em grupo.\n\nPost e story já prontos no app, com a sua marca.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
  },
  {
+  "id": "D07-10h00-story",
+  "quando": "2026-10-11T10:00:00-03:00",
+  "etapa": "story",
+  "tipo": "story",
+  "arquivos": [
+   "midia/D07-10h00-story/1-ideia-do-dia.jpg"
+  ],
+  "legenda": "(story da ideia do dia, sem legenda)"
+ },
+ {
   "id": "D07-11h00",
   "quando": "2026-10-11T11:00:00-03:00",
   "etapa": "topo",
@@ -930,6 +1120,16 @@
   "legenda": "Os 90 posts vêm separados: promoções, dias da semana, sabores, combos, delivery, datas especiais e bastidores. Todo dia tem o que postar, e cada um vem também na versão Story.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
  },
  {
+  "id": "D07-15h00-story",
+  "quando": "2026-10-11T15:00:00-03:00",
+  "etapa": "story",
+  "tipo": "manual",
+  "arquivos": [
+   "midia/D07-15h00-story/2-enquete.jpg"
+  ],
+  "legenda": "Domingo 11/10\n\n10h  1-ideia-do-dia.jpg (sem figurinha)\n15h  2-enquete.jpg · figurinha ENQUETE no espaço tracejado\n     Pergunta: Abre no feriado?\n     Opções: Abro / Fecho\n17h  3-link.jpg · figurinha de LINK no espaço tracejado: pertinho.club/pizza\nDepois de publicar o post/reel do dia: compartilhe no story.\n\nLink da figurinha: https://pertinho.club/pizza?utm_source=instagram&utm_medium=organico&utm_campaign=stories&utm_content=d07"
+ },
+ {
   "id": "D07-16h00",
   "quando": "2026-10-11T16:00:00-03:00",
   "etapa": "topo",
@@ -942,6 +1142,16 @@
    "midia/D07-16h00/5.jpg"
   ],
   "legenda": "Ranking iFood do 1º semestre de 2026: SP, RJ, PR, MG e SC são os estados que mais pedem pizza. E onde mais cresceu: Amazonas (+31%), Pará (+19%) e Ceará (+19%).\n\nDe onde é a sua pizzaria? 👇\n\nFonte: InfoMoney, 10/07/2026.\n\nMarca aqui quem tem pizzaria e precisa ver isso 👇\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
+ },
+ {
+  "id": "D07-17h00-story",
+  "quando": "2026-10-11T17:00:00-03:00",
+  "etapa": "story",
+  "tipo": "manual",
+  "arquivos": [
+   "midia/D07-17h00-story/3-link.jpg"
+  ],
+  "legenda": "Domingo 11/10\n\n10h  1-ideia-do-dia.jpg (sem figurinha)\n15h  2-enquete.jpg · figurinha ENQUETE no espaço tracejado\n     Pergunta: Abre no feriado?\n     Opções: Abro / Fecho\n17h  3-link.jpg · figurinha de LINK no espaço tracejado: pertinho.club/pizza\nDepois de publicar o post/reel do dia: compartilhe no story.\n\nLink da figurinha: https://pertinho.club/pizza?utm_source=instagram&utm_medium=organico&utm_campaign=stories&utm_content=d07"
  },
  {
   "id": "D07-18h00",
@@ -1019,6 +1229,16 @@
   "legenda": "Ideia de post pra hoje (feriado): Dia das Crianças com broto doce de presente.\n\nPost e story já prontos no app, com a sua marca.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
  },
  {
+  "id": "D08-10h00-story",
+  "quando": "2026-10-12T10:00:00-03:00",
+  "etapa": "story",
+  "tipo": "story",
+  "arquivos": [
+   "midia/D08-10h00-story/1-ideia-do-dia.jpg"
+  ],
+  "legenda": "(story da ideia do dia, sem legenda)"
+ },
+ {
   "id": "D08-11h00",
   "quando": "2026-10-12T11:00:00-03:00",
   "etapa": "topo",
@@ -1054,6 +1274,16 @@
   "legenda": "Feriado e Dia das Crianças no mesmo dia. Muita família em casa se perguntando: \"a pizzaria abre hoje?\"\n\nPosta antes das 17h: estamos abertos + horário + uma promoção pra criançada (broto doce de presente, criança não paga).\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #marketingparapizzaria #delivery"
  },
  {
+  "id": "D08-15h00-story",
+  "quando": "2026-10-12T15:00:00-03:00",
+  "etapa": "story",
+  "tipo": "manual",
+  "arquivos": [
+   "midia/D08-15h00-story/2-quiz.jpg"
+  ],
+  "legenda": "Segunda 12/10\n\n10h  1-ideia-do-dia.jpg (sem figurinha)\n15h  2-quiz.jpg · figurinha QUIZ no espaço tracejado\n     Pergunta: O que faz o cliente parar no post?\n     Opções: Foto que dá fome (certa) / Muito emoji / Texto longo\n17h  3-link.jpg · figurinha de LINK no espaço tracejado: pertinho.club/pizza\nDepois de publicar o post/reel do dia: compartilhe no story.\n\nLink da figurinha: https://pertinho.club/pizza?utm_source=instagram&utm_medium=organico&utm_campaign=stories&utm_content=d08"
+ },
+ {
   "id": "D08-16h00",
   "quando": "2026-10-12T16:00:00-03:00",
   "etapa": "topo",
@@ -1068,6 +1298,16 @@
    "midia/D08-16h00/7.jpg"
   ],
   "legenda": "5 fatos de pizza:\n\n1. 1910: a Santa Genoveva, no Brás, já vendia meio a meio\n2. 1924: a Castelões é a mais antiga ainda aberta\n3. Catupiry nasceu em 1911 em Lambari (MG) e quer dizer \"excelente\" em tupi\n4. O Dia da Pizza nasceu em 1985 em SP\n5. 195 pizzas por minuto no iFood em 2026\n\nFontes: Wikipedia, Gazeta SP, CNN Brasil, Mercado & Consumo.\n\nMarca aqui quem tem pizzaria e precisa ver isso 👇\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
+ },
+ {
+  "id": "D08-17h00-story",
+  "quando": "2026-10-12T17:00:00-03:00",
+  "etapa": "story",
+  "tipo": "manual",
+  "arquivos": [
+   "midia/D08-17h00-story/3-link.jpg"
+  ],
+  "legenda": "Segunda 12/10\n\n10h  1-ideia-do-dia.jpg (sem figurinha)\n15h  2-quiz.jpg · figurinha QUIZ no espaço tracejado\n     Pergunta: O que faz o cliente parar no post?\n     Opções: Foto que dá fome (certa) / Muito emoji / Texto longo\n17h  3-link.jpg · figurinha de LINK no espaço tracejado: pertinho.club/pizza\nDepois de publicar o post/reel do dia: compartilhe no story.\n\nLink da figurinha: https://pertinho.club/pizza?utm_source=instagram&utm_medium=organico&utm_campaign=stories&utm_content=d08"
  },
  {
   "id": "D08-18h00",
@@ -1145,6 +1385,16 @@
   "legenda": "Ideia de post pra hoje (terça): frete grátis pra puxar pedido no começo da semana.\n\nPost e story já prontos no app, com a sua marca.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
  },
  {
+  "id": "D09-10h00-story",
+  "quando": "2026-10-13T10:00:00-03:00",
+  "etapa": "story",
+  "tipo": "story",
+  "arquivos": [
+   "midia/D09-10h00-story/1-ideia-do-dia.jpg"
+  ],
+  "legenda": "(story da ideia do dia, sem legenda)"
+ },
+ {
   "id": "D09-11h00",
   "quando": "2026-10-13T11:00:00-03:00",
   "etapa": "topo",
@@ -1185,6 +1435,16 @@
   "legenda": "Não gostou do texto? Escreve o que quiser, em cima e embaixo. O texto se ajusta sozinho e você baixa no tamanho certo.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
  },
  {
+  "id": "D09-15h00-story",
+  "quando": "2026-10-13T15:00:00-03:00",
+  "etapa": "story",
+  "tipo": "manual",
+  "arquivos": [
+   "midia/D09-15h00-story/2-enquete.jpg"
+  ],
+  "legenda": "Terça 13/10\n\n10h  1-ideia-do-dia.jpg (sem figurinha)\n15h  2-enquete.jpg · figurinha ENQUETE no espaço tracejado\n     Pergunta: Você coloca preço no post?\n     Opções: Sempre / Às vezes\n17h  3-link.jpg · figurinha de LINK no espaço tracejado: pertinho.club/pizza\nDepois de publicar o post/reel do dia: compartilhe no story.\n\nLink da figurinha: https://pertinho.club/pizza?utm_source=instagram&utm_medium=organico&utm_campaign=stories&utm_content=d09"
+ },
+ {
   "id": "D09-16h00",
   "quando": "2026-10-13T16:00:00-03:00",
   "etapa": "topo",
@@ -1196,6 +1456,16 @@
    "midia/D09-16h00/4.jpg"
   ],
   "legenda": "De janeiro a maio de 2026 abriram 1.990 pizzarias no Brasil, 6,1% a mais que no mesmo período de 2025 (Apubra). Dá uns 13 por dia.\n\nO cliente não prova antes de escolher. Ele escolhe pelo que vê. Perfil parado parece pizzaria fechada.\n\nFonte: Apubra, via Forbes e GiroNews.\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
+ },
+ {
+  "id": "D09-17h00-story",
+  "quando": "2026-10-13T17:00:00-03:00",
+  "etapa": "story",
+  "tipo": "manual",
+  "arquivos": [
+   "midia/D09-17h00-story/3-link.jpg"
+  ],
+  "legenda": "Terça 13/10\n\n10h  1-ideia-do-dia.jpg (sem figurinha)\n15h  2-enquete.jpg · figurinha ENQUETE no espaço tracejado\n     Pergunta: Você coloca preço no post?\n     Opções: Sempre / Às vezes\n17h  3-link.jpg · figurinha de LINK no espaço tracejado: pertinho.club/pizza\nDepois de publicar o post/reel do dia: compartilhe no story.\n\nLink da figurinha: https://pertinho.club/pizza?utm_source=instagram&utm_medium=organico&utm_campaign=stories&utm_content=d09"
  },
  {
   "id": "D09-18h00",
@@ -1275,6 +1545,16 @@
   "legenda": "Ideia de post pra hoje (terça): as promoções da semana num post só, pro cliente já planejar o pedido.\n\nPost e story já prontos no app, com a sua marca.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
  },
  {
+  "id": "D16-10h00-story",
+  "quando": "2026-10-20T10:00:00-03:00",
+  "etapa": "story",
+  "tipo": "story",
+  "arquivos": [
+   "midia/D16-10h00-story/1-ideia-do-dia.jpg"
+  ],
+  "legenda": "(story da ideia do dia, sem legenda)"
+ },
+ {
   "id": "D16-11h00",
   "quando": "2026-10-20T11:00:00-03:00",
   "etapa": "topo",
@@ -1313,6 +1593,16 @@
   "legenda": "R$ 67,80 ÷ 90 posts = R$ 0,75 por arte, e cada uma vem com a versão Story. Ou 10x de R$ 6,78. Pagamento único: não é mensalidade.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
  },
  {
+  "id": "D16-15h00-story",
+  "quando": "2026-10-20T15:00:00-03:00",
+  "etapa": "story",
+  "tipo": "manual",
+  "arquivos": [
+   "midia/D16-15h00-story/2-enquete.jpg"
+  ],
+  "legenda": "Terça 20/10\n\n10h  1-ideia-do-dia.jpg (sem figurinha)\n15h  2-enquete.jpg · figurinha ENQUETE no espaço tracejado\n     Pergunta: Tem logo da pizzaria?\n     Opções: Tenho / Ainda não\n17h  3-link.jpg · figurinha de LINK no espaço tracejado: pertinho.club/pizza\nDepois de publicar o post/reel do dia: compartilhe no story.\n\nLink da figurinha: https://pertinho.club/pizza?utm_source=instagram&utm_medium=organico&utm_campaign=stories&utm_content=d16"
+ },
+ {
   "id": "D16-16h00",
   "quando": "2026-10-20T16:00:00-03:00",
   "etapa": "topo",
@@ -1327,6 +1617,16 @@
    "midia/D16-16h00/7.jpg"
   ],
   "legenda": "Em 2011, Fellipe Zanuto assumiu o ponto que era do padrasto, na Mooca, e apostou na pizza napolitana, um estilo que quase ninguém fazia em São Paulo, justo no bairro símbolo da pizza paulistana.\n\nEstudou gastronomia, passou pelo Le Cordon Bleu e trabalhou a massa até ficar mais hidratada e fermentada. Hoje A Pizza da Mooca tem 3 casas e é a 41ª melhor pizzaria do mundo no 50 Top Pizza 2026.\n\nFontes: Forbes Brasil (04/2025) e GiroNews (16/09/2026).\n\nMarca aqui quem tem pizzaria e precisa ver isso 👇\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
+ },
+ {
+  "id": "D16-17h00-story",
+  "quando": "2026-10-20T17:00:00-03:00",
+  "etapa": "story",
+  "tipo": "manual",
+  "arquivos": [
+   "midia/D16-17h00-story/3-link.jpg"
+  ],
+  "legenda": "Terça 20/10\n\n10h  1-ideia-do-dia.jpg (sem figurinha)\n15h  2-enquete.jpg · figurinha ENQUETE no espaço tracejado\n     Pergunta: Tem logo da pizzaria?\n     Opções: Tenho / Ainda não\n17h  3-link.jpg · figurinha de LINK no espaço tracejado: pertinho.club/pizza\nDepois de publicar o post/reel do dia: compartilhe no story.\n\nLink da figurinha: https://pertinho.club/pizza?utm_source=instagram&utm_medium=organico&utm_campaign=stories&utm_content=d16"
  },
  {
   "id": "D16-18h00",
@@ -1406,6 +1706,16 @@
   "legenda": "Ideia de post pra hoje (quarta): o sabor da quarta, pra criar o hábito de pedir no meio da semana.\n\nPost e story já prontos no app, com a sua marca.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
  },
  {
+  "id": "D17-10h00-story",
+  "quando": "2026-10-21T10:00:00-03:00",
+  "etapa": "story",
+  "tipo": "story",
+  "arquivos": [
+   "midia/D17-10h00-story/1-ideia-do-dia.jpg"
+  ],
+  "legenda": "(story da ideia do dia, sem legenda)"
+ },
+ {
   "id": "D17-11h00",
   "quando": "2026-10-21T11:00:00-03:00",
   "etapa": "topo",
@@ -1444,6 +1754,16 @@
   "legenda": "O app por dentro, em 4 toques:\n\n1. Nome da pizzaria, @ e WhatsApp\n2. Sua logo (o app tira o fundo branco)\n3. Suas cores, sugeridas a partir da logo\n4. Pronto: os 90 posts já com a sua cara\n\nFunciona no navegador do celular, sem instalar nada.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
  },
  {
+  "id": "D17-15h00-story",
+  "quando": "2026-10-21T15:00:00-03:00",
+  "etapa": "story",
+  "tipo": "manual",
+  "arquivos": [
+   "midia/D17-15h00-story/2-caixinha.jpg"
+  ],
+  "legenda": "Quarta 21/10\n\n10h  1-ideia-do-dia.jpg (sem figurinha)\n15h  2-caixinha.jpg · figurinha CAIXINHA no espaço tracejado\n     Pergunta: O que te impede de postar todo dia?\n     Opções: caixinha de perguntas\n17h  3-link.jpg · figurinha de LINK no espaço tracejado: pertinho.club/pizza\nDepois de publicar o post/reel do dia: compartilhe no story.\n\nLink da figurinha: https://pertinho.club/pizza?utm_source=instagram&utm_medium=organico&utm_campaign=stories&utm_content=d17"
+ },
+ {
   "id": "D17-16h00",
   "quando": "2026-10-21T16:00:00-03:00",
   "etapa": "topo",
@@ -1458,6 +1778,16 @@
    "midia/D17-16h00/7.jpg"
   ],
   "legenda": "Os sócios da Soffio seguiam o pizzaiolo Dani Branca nas redes sociais. Chamaram pra uma consultoria, ele ajudou a comprar masseira e forno, e acabou convidado a ficar. A Soffio abriu em 2024 em São Paulo e Dani Branca ficou em 42º no The Best Pizza Awards 2026.\n\nO Instagram não traz só cliente.\n\nFonte: NeoFeed, 01/08/2026.\n\nMarca aqui quem tem pizzaria e precisa ver isso 👇\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
+ },
+ {
+  "id": "D17-17h00-story",
+  "quando": "2026-10-21T17:00:00-03:00",
+  "etapa": "story",
+  "tipo": "manual",
+  "arquivos": [
+   "midia/D17-17h00-story/3-link.jpg"
+  ],
+  "legenda": "Quarta 21/10\n\n10h  1-ideia-do-dia.jpg (sem figurinha)\n15h  2-caixinha.jpg · figurinha CAIXINHA no espaço tracejado\n     Pergunta: O que te impede de postar todo dia?\n     Opções: caixinha de perguntas\n17h  3-link.jpg · figurinha de LINK no espaço tracejado: pertinho.club/pizza\nDepois de publicar o post/reel do dia: compartilhe no story.\n\nLink da figurinha: https://pertinho.club/pizza?utm_source=instagram&utm_medium=organico&utm_campaign=stories&utm_content=d17"
  },
  {
   "id": "D17-18h00",
@@ -1538,6 +1868,16 @@
   "legenda": "Ideia de post pra hoje (quinta): happy hour da pizza, pra puxar pedido antes do pico.\n\nPost e story já prontos no app, com a sua marca.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
  },
  {
+  "id": "D18-10h00-story",
+  "quando": "2026-10-22T10:00:00-03:00",
+  "etapa": "story",
+  "tipo": "story",
+  "arquivos": [
+   "midia/D18-10h00-story/1-ideia-do-dia.jpg"
+  ],
+  "legenda": "(story da ideia do dia, sem legenda)"
+ },
+ {
   "id": "D18-11h00",
   "quando": "2026-10-22T11:00:00-03:00",
   "etapa": "topo",
@@ -1574,6 +1914,16 @@
   "legenda": "\"Mas eu não sei mexer no Canva.\" Não precisa.\n\nNo app você só toca: dia da semana, sabor, bebida, tamanho, preço. O texto se ajusta sozinho e o post sai no tamanho certo do Instagram. Funciona no navegador do celular, sem instalar nada.\n\nTem outra dúvida? Manda aqui nos comentários.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #marketingparapizzaria #delivery"
  },
  {
+  "id": "D18-15h00-story",
+  "quando": "2026-10-22T15:00:00-03:00",
+  "etapa": "story",
+  "tipo": "manual",
+  "arquivos": [
+   "midia/D18-15h00-story/2-enquete.jpg"
+  ],
+  "legenda": "Quinta 22/10\n\n10h  1-ideia-do-dia.jpg (sem figurinha)\n15h  2-enquete.jpg · figurinha ENQUETE no espaço tracejado\n     Pergunta: Cupom ou desconto direto?\n     Opções: Cupom / Desconto\n17h  3-link.jpg · figurinha de LINK no espaço tracejado: pertinho.club/pizza\nDepois de publicar o post/reel do dia: compartilhe no story.\n\nLink da figurinha: https://pertinho.club/pizza?utm_source=instagram&utm_medium=organico&utm_campaign=stories&utm_content=d18"
+ },
+ {
   "id": "D18-16h00",
   "quando": "2026-10-22T16:00:00-03:00",
   "etapa": "topo",
@@ -1587,6 +1937,16 @@
    "midia/D18-16h00/6.jpg"
   ],
   "legenda": "Brasileiras no 50 Top Pizza World 2026:\n\n6º Leggera\n17º QT\n41º A Pizza da Mooca\n46º Unica\n70º Bento\n75º Veridiana\n\nE a Leggera é a 1ª da América Latina pelo 3º ano. Qual você já provou? 👇\n\nFonte: GiroNews, 16/09/2026.\n\nMarca aqui quem tem pizzaria e precisa ver isso 👇\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
+ },
+ {
+  "id": "D18-17h00-story",
+  "quando": "2026-10-22T17:00:00-03:00",
+  "etapa": "story",
+  "tipo": "manual",
+  "arquivos": [
+   "midia/D18-17h00-story/3-link.jpg"
+  ],
+  "legenda": "Quinta 22/10\n\n10h  1-ideia-do-dia.jpg (sem figurinha)\n15h  2-enquete.jpg · figurinha ENQUETE no espaço tracejado\n     Pergunta: Cupom ou desconto direto?\n     Opções: Cupom / Desconto\n17h  3-link.jpg · figurinha de LINK no espaço tracejado: pertinho.club/pizza\nDepois de publicar o post/reel do dia: compartilhe no story.\n\nLink da figurinha: https://pertinho.club/pizza?utm_source=instagram&utm_medium=organico&utm_campaign=stories&utm_content=d18"
  },
  {
   "id": "D18-18h00",
@@ -1666,6 +2026,16 @@
   "legenda": "Ideia de post pra hoje (sexta): fim de semana com pizza, pra entrar no radar da sexta ao domingo.\n\nPost e story já prontos no app, com a sua marca.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
  },
  {
+  "id": "D19-10h00-story",
+  "quando": "2026-10-23T10:00:00-03:00",
+  "etapa": "story",
+  "tipo": "story",
+  "arquivos": [
+   "midia/D19-10h00-story/1-ideia-do-dia.jpg"
+  ],
+  "legenda": "(story da ideia do dia, sem legenda)"
+ },
+ {
   "id": "D19-11h00",
   "quando": "2026-10-23T11:00:00-03:00",
   "etapa": "topo",
@@ -1705,6 +2075,16 @@
   "legenda": "O mesmo combo da noite em pizzarias diferentes (marcas de exemplo): cada uma com a sua logo, a sua cor, a sua bebida e o seu preço. O cliente reconhece que é você.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
  },
  {
+  "id": "D19-15h00-story",
+  "quando": "2026-10-23T15:00:00-03:00",
+  "etapa": "story",
+  "tipo": "manual",
+  "arquivos": [
+   "midia/D19-15h00-story/2-enquete.jpg"
+  ],
+  "legenda": "Sexta 23/10\n\n10h  1-ideia-do-dia.jpg (sem figurinha)\n15h  2-enquete.jpg · figurinha ENQUETE no espaço tracejado\n     Pergunta: Pizza doce vende aí?\n     Opções: Muito / Pouco\n17h  3-link.jpg · figurinha de LINK no espaço tracejado: pertinho.club/pizza\nDepois de publicar o post/reel do dia: compartilhe no story.\n\nLink da figurinha: https://pertinho.club/pizza?utm_source=instagram&utm_medium=organico&utm_campaign=stories&utm_content=d19"
+ },
+ {
   "id": "D19-16h00",
   "quando": "2026-10-23T16:00:00-03:00",
   "etapa": "topo",
@@ -1719,6 +2099,16 @@
    "midia/D19-16h00/7.jpg"
   ],
   "legenda": "A Bráz nasceu em 1998 em Moema, do mesmo grupo de amigos do bar Original. Quase 30 anos depois, o grupo tem 52 casas, todas próprias, nenhuma franquia, e cresce com dinheiro próprio. Em 2025 abriu 4 casas, fechou 2 e chamou de o melhor ano da companhia.\n\nCrescer devagar também é estratégia.\n\nFonte: Mercado & Consumo, 02/09/2026.\n\nMarca aqui quem tem pizzaria e precisa ver isso 👇\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
+ },
+ {
+  "id": "D19-17h00-story",
+  "quando": "2026-10-23T17:00:00-03:00",
+  "etapa": "story",
+  "tipo": "manual",
+  "arquivos": [
+   "midia/D19-17h00-story/3-link.jpg"
+  ],
+  "legenda": "Sexta 23/10\n\n10h  1-ideia-do-dia.jpg (sem figurinha)\n15h  2-enquete.jpg · figurinha ENQUETE no espaço tracejado\n     Pergunta: Pizza doce vende aí?\n     Opções: Muito / Pouco\n17h  3-link.jpg · figurinha de LINK no espaço tracejado: pertinho.club/pizza\nDepois de publicar o post/reel do dia: compartilhe no story.\n\nLink da figurinha: https://pertinho.club/pizza?utm_source=instagram&utm_medium=organico&utm_campaign=stories&utm_content=d19"
  },
  {
   "id": "D19-18h00",
@@ -1798,6 +2188,16 @@
   "legenda": "Ideia de post pra hoje (sábado): sábado à noite, o dia mais forte da semana.\n\nPost e story já prontos no app, com a sua marca.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
  },
  {
+  "id": "D20-10h00-story",
+  "quando": "2026-10-24T10:00:00-03:00",
+  "etapa": "story",
+  "tipo": "story",
+  "arquivos": [
+   "midia/D20-10h00-story/1-ideia-do-dia.jpg"
+  ],
+  "legenda": "(story da ideia do dia, sem legenda)"
+ },
+ {
   "id": "D20-11h00",
   "quando": "2026-10-24T11:00:00-03:00",
   "etapa": "topo",
@@ -1838,6 +2238,16 @@
   "legenda": "No app, o mesmo post serve pra semana inteira: toca no dia, escreve a promoção do jeito que você vende e baixa em PNG no tamanho certo, com a legenda pronta pra copiar.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
  },
  {
+  "id": "D20-15h00-story",
+  "quando": "2026-10-24T15:00:00-03:00",
+  "etapa": "story",
+  "tipo": "manual",
+  "arquivos": [
+   "midia/D20-15h00-story/2-caixinha.jpg"
+  ],
+  "legenda": "Sábado 24/10\n\n10h  1-ideia-do-dia.jpg (sem figurinha)\n15h  2-caixinha.jpg · figurinha CAIXINHA no espaço tracejado\n     Pergunta: Manda o @ da sua pizzaria\n     Opções: caixinha (pra visitar e comentar)\n17h  3-link.jpg · figurinha de LINK no espaço tracejado: pertinho.club/pizza\nDepois de publicar o post/reel do dia: compartilhe no story.\n\nLink da figurinha: https://pertinho.club/pizza?utm_source=instagram&utm_medium=organico&utm_campaign=stories&utm_content=d20"
+ },
+ {
   "id": "D20-16h00",
   "quando": "2026-10-24T16:00:00-03:00",
   "etapa": "topo",
@@ -1850,6 +2260,16 @@
    "midia/D20-16h00/5.jpg"
   ],
   "legenda": "68% dos consumidores preferem pizza de massa fina, e 48% dos pedidos saem entre 18h e 22h (pesquisa VR).\n\nE na sua pizzaria, fina ou grossa? 👇\n\nFonte: Seu Dinheiro, jul/2026.\n\nMarca aqui quem tem pizzaria e precisa ver isso 👇\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
+ },
+ {
+  "id": "D20-17h00-story",
+  "quando": "2026-10-24T17:00:00-03:00",
+  "etapa": "story",
+  "tipo": "manual",
+  "arquivos": [
+   "midia/D20-17h00-story/3-link.jpg"
+  ],
+  "legenda": "Sábado 24/10\n\n10h  1-ideia-do-dia.jpg (sem figurinha)\n15h  2-caixinha.jpg · figurinha CAIXINHA no espaço tracejado\n     Pergunta: Manda o @ da sua pizzaria\n     Opções: caixinha (pra visitar e comentar)\n17h  3-link.jpg · figurinha de LINK no espaço tracejado: pertinho.club/pizza\nDepois de publicar o post/reel do dia: compartilhe no story.\n\nLink da figurinha: https://pertinho.club/pizza?utm_source=instagram&utm_medium=organico&utm_campaign=stories&utm_content=d20"
  },
  {
   "id": "D20-18h00",
@@ -1928,6 +2348,16 @@
   "legenda": "Ideia de post pra hoje (domingo): combo família pra noite de apuração, com todo mundo em casa.\n\nPost e story já prontos no app, com a sua marca.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
  },
  {
+  "id": "D21-10h00-story",
+  "quando": "2026-10-25T10:00:00-03:00",
+  "etapa": "story",
+  "tipo": "story",
+  "arquivos": [
+   "midia/D21-10h00-story/1-ideia-do-dia.jpg"
+  ],
+  "legenda": "(story da ideia do dia, sem legenda)"
+ },
+ {
   "id": "D21-11h00",
   "quando": "2026-10-25T11:00:00-03:00",
   "etapa": "topo",
@@ -1963,6 +2393,16 @@
   "legenda": "Antes de pedir, o cliente olha o perfil. Combo, sabor, família e delivery aberto, tudo com a mesma cara: a sua.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
  },
  {
+  "id": "D21-15h00-story",
+  "quando": "2026-10-25T15:00:00-03:00",
+  "etapa": "story",
+  "tipo": "manual",
+  "arquivos": [
+   "midia/D21-15h00-story/2-enquete.jpg"
+  ],
+  "legenda": "Domingo 25/10\n\n10h  1-ideia-do-dia.jpg (sem figurinha)\n15h  2-enquete.jpg · figurinha ENQUETE no espaço tracejado\n     Pergunta: Story: foto ou promoção?\n     Opções: Foto / Promoção\n17h  3-link.jpg · figurinha de LINK no espaço tracejado: pertinho.club/pizza\nDepois de publicar o post/reel do dia: compartilhe no story.\n\nLink da figurinha: https://pertinho.club/pizza?utm_source=instagram&utm_medium=organico&utm_campaign=stories&utm_content=d21"
+ },
+ {
   "id": "D21-16h00",
   "quando": "2026-10-25T16:00:00-03:00",
   "etapa": "topo",
@@ -1976,6 +2416,16 @@
    "midia/D21-16h00/6.jpg"
   ],
   "legenda": "A Domino's Brasil tem 220 lojas, faturou R$ 650 milhões em 2025 e cerca de 25% das vendas vêm do app próprio. Pra crescer com os juros altos, baixou o investimento mínimo da franquia de R$ 1 milhão pra R$ 300 mil.\n\nA lição pra pizzaria pequena: cada pedido que chega direto no seu WhatsApp é um pedido sem comissão.\n\nFonte: InvestNews, 05/06/2026.\n\nMarca aqui quem tem pizzaria e precisa ver isso 👇\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
+ },
+ {
+  "id": "D21-17h00-story",
+  "quando": "2026-10-25T17:00:00-03:00",
+  "etapa": "story",
+  "tipo": "manual",
+  "arquivos": [
+   "midia/D21-17h00-story/3-link.jpg"
+  ],
+  "legenda": "Domingo 25/10\n\n10h  1-ideia-do-dia.jpg (sem figurinha)\n15h  2-enquete.jpg · figurinha ENQUETE no espaço tracejado\n     Pergunta: Story: foto ou promoção?\n     Opções: Foto / Promoção\n17h  3-link.jpg · figurinha de LINK no espaço tracejado: pertinho.club/pizza\nDepois de publicar o post/reel do dia: compartilhe no story.\n\nLink da figurinha: https://pertinho.club/pizza?utm_source=instagram&utm_medium=organico&utm_campaign=stories&utm_content=d21"
  },
  {
   "id": "D21-18h00",
@@ -2056,6 +2506,16 @@
   "legenda": "Ideia de post pra hoje (segunda): borda recheada grátis na grande, pra puxar o dia mais parado da semana.\n\nPost e story já prontos no app, com a sua marca.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
  },
  {
+  "id": "D22-10h00-story",
+  "quando": "2026-10-26T10:00:00-03:00",
+  "etapa": "story",
+  "tipo": "story",
+  "arquivos": [
+   "midia/D22-10h00-story/1-ideia-do-dia.jpg"
+  ],
+  "legenda": "(story da ideia do dia, sem legenda)"
+ },
+ {
   "id": "D22-11h00",
   "quando": "2026-10-26T11:00:00-03:00",
   "etapa": "topo",
@@ -2094,6 +2554,16 @@
   "legenda": "Faz a conta: R$ 67,80 dividido por 90 artes dá R$ 0,75 por arte. E cada uma vem também na versão Story.\n\nVocê troca dia, preço e sabor e reposta quando quiser. Pagamento único.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
  },
  {
+  "id": "D22-15h00-story",
+  "quando": "2026-10-26T15:00:00-03:00",
+  "etapa": "story",
+  "tipo": "manual",
+  "arquivos": [
+   "midia/D22-15h00-story/2-enquete.jpg"
+  ],
+  "legenda": "Segunda 26/10\n\n10h  1-ideia-do-dia.jpg (sem figurinha)\n15h  2-enquete.jpg · figurinha ENQUETE no espaço tracejado\n     Pergunta: Que horas você posta?\n     Opções: Antes de abrir / Quando lembro\n17h  3-link.jpg · figurinha de LINK no espaço tracejado: pertinho.club/pizza\nDepois de publicar o post/reel do dia: compartilhe no story.\n\nLink da figurinha: https://pertinho.club/pizza?utm_source=instagram&utm_medium=organico&utm_campaign=stories&utm_content=d22"
+ },
+ {
   "id": "D22-16h00",
   "quando": "2026-10-26T16:00:00-03:00",
   "etapa": "topo",
@@ -2107,6 +2577,16 @@
    "midia/D22-16h00/6.jpg"
   ],
   "legenda": "Os números da Apubra (via GiroNews, 02/07/2026):\n\n• 4.109 pizzarias abertas no Brasil em 2025\n• 40.332 ativas no fim de 2025 (+10,29%)\n• 1.990 abertas de janeiro a maio de 2026, cerca de 13 por dia\n• São Paulo concentra 28% das aberturas\n\nQuantas abriram no seu bairro esse ano? 👇\n\nMarca aqui quem tem pizzaria e precisa ver isso 👇\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
+ },
+ {
+  "id": "D22-17h00-story",
+  "quando": "2026-10-26T17:00:00-03:00",
+  "etapa": "story",
+  "tipo": "manual",
+  "arquivos": [
+   "midia/D22-17h00-story/3-link.jpg"
+  ],
+  "legenda": "Segunda 26/10\n\n10h  1-ideia-do-dia.jpg (sem figurinha)\n15h  2-enquete.jpg · figurinha ENQUETE no espaço tracejado\n     Pergunta: Que horas você posta?\n     Opções: Antes de abrir / Quando lembro\n17h  3-link.jpg · figurinha de LINK no espaço tracejado: pertinho.club/pizza\nDepois de publicar o post/reel do dia: compartilhe no story.\n\nLink da figurinha: https://pertinho.club/pizza?utm_source=instagram&utm_medium=organico&utm_campaign=stories&utm_content=d22"
  },
  {
   "id": "D22-18h00",
@@ -2190,6 +2670,16 @@
   "legenda": "Ideia de post pra hoje (terça): frete grátis com cupom pra puxar pedido na terça.\n\nPost e story já prontos no app, com a sua marca.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
  },
  {
+  "id": "D23-10h00-story",
+  "quando": "2026-10-27T10:00:00-03:00",
+  "etapa": "story",
+  "tipo": "story",
+  "arquivos": [
+   "midia/D23-10h00-story/1-ideia-do-dia.jpg"
+  ],
+  "legenda": "(story da ideia do dia, sem legenda)"
+ },
+ {
   "id": "D23-11h00",
   "quando": "2026-10-27T11:00:00-03:00",
   "etapa": "topo",
@@ -2230,6 +2720,16 @@
   "legenda": "O app por dentro, em 3 toques:\n\n1. Nome da pizzaria, @ e WhatsApp\n2. Cores (tiradas da sua logo)\n3. Toca no dia, no sabor e no preço e baixa\n\nFunciona no navegador do celular, sem instalar nada.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
  },
  {
+  "id": "D23-15h00-story",
+  "quando": "2026-10-27T15:00:00-03:00",
+  "etapa": "story",
+  "tipo": "manual",
+  "arquivos": [
+   "midia/D23-15h00-story/2-slider.jpg"
+  ],
+  "legenda": "Terça 27/10\n\n10h  1-ideia-do-dia.jpg (sem figurinha)\n15h  2-slider.jpg · figurinha SLIDER no espaço tracejado\n     Pergunta: Quanto o dia fraco te preocupa?\n     Opções: emoji 😬\n17h  3-link.jpg · figurinha de LINK no espaço tracejado: pertinho.club/pizza\nDepois de publicar o post/reel do dia: compartilhe no story.\n\nLink da figurinha: https://pertinho.club/pizza?utm_source=instagram&utm_medium=organico&utm_campaign=stories&utm_content=d23"
+ },
+ {
   "id": "D23-16h00",
   "quando": "2026-10-27T16:00:00-03:00",
   "etapa": "topo",
@@ -2244,6 +2744,16 @@
    "midia/D23-16h00/7.jpg"
   ],
   "legenda": "5 frases que todo dono de pizzaria já ouviu:\n\n1. \"Manda uma borda de brinde aí, sou cliente antigo\"\n2. \"Meio calabresa, meio frango e meio portuguesa\"\n3. \"Já saiu?\" (5 minutos depois)\n4. \"Tira a cebola, põe mais queijo, mesmo preço né?\"\n5. \"Tem promoção hoje?\"\n\nQual você mais escuta? 👇\n\nMarca aqui quem tem pizzaria e precisa ver isso 👇\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
+ },
+ {
+  "id": "D23-17h00-story",
+  "quando": "2026-10-27T17:00:00-03:00",
+  "etapa": "story",
+  "tipo": "manual",
+  "arquivos": [
+   "midia/D23-17h00-story/3-link.jpg"
+  ],
+  "legenda": "Terça 27/10\n\n10h  1-ideia-do-dia.jpg (sem figurinha)\n15h  2-slider.jpg · figurinha SLIDER no espaço tracejado\n     Pergunta: Quanto o dia fraco te preocupa?\n     Opções: emoji 😬\n17h  3-link.jpg · figurinha de LINK no espaço tracejado: pertinho.club/pizza\nDepois de publicar o post/reel do dia: compartilhe no story.\n\nLink da figurinha: https://pertinho.club/pizza?utm_source=instagram&utm_medium=organico&utm_campaign=stories&utm_content=d23"
  },
  {
   "id": "D23-18h00",
@@ -2322,6 +2832,16 @@
   "legenda": "Ideia de post pra hoje (quarta): \"Quarta do sabor\" com preço fechado pra qualquer tradicional.\n\nPost e story já prontos no app, com a sua marca.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
  },
  {
+  "id": "D24-10h00-story",
+  "quando": "2026-10-28T10:00:00-03:00",
+  "etapa": "story",
+  "tipo": "story",
+  "arquivos": [
+   "midia/D24-10h00-story/1-ideia-do-dia.jpg"
+  ],
+  "legenda": "(story da ideia do dia, sem legenda)"
+ },
+ {
   "id": "D24-11h00",
   "quando": "2026-10-28T11:00:00-03:00",
   "etapa": "topo",
@@ -2359,6 +2879,16 @@
   "legenda": "Antes de pedir, o cliente olha o perfil. Com os posts prontos, o seu feed fica com uma cara só, profissional, todo dia.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
  },
  {
+  "id": "D24-15h00-story",
+  "quando": "2026-10-28T15:00:00-03:00",
+  "etapa": "story",
+  "tipo": "manual",
+  "arquivos": [
+   "midia/D24-15h00-story/2-enquete.jpg"
+  ],
+  "legenda": "Quarta 28/10\n\n10h  1-ideia-do-dia.jpg (sem figurinha)\n15h  2-enquete.jpg · figurinha ENQUETE no espaço tracejado\n     Pergunta: Combo com bebida vende mais aí?\n     Opções: Vende / Não faz diferença\n17h  3-link.jpg · figurinha de LINK no espaço tracejado: pertinho.club/pizza\nDepois de publicar o post/reel do dia: compartilhe no story.\n\nLink da figurinha: https://pertinho.club/pizza?utm_source=instagram&utm_medium=organico&utm_campaign=stories&utm_content=d24"
+ },
+ {
   "id": "D24-16h00",
   "quando": "2026-10-28T16:00:00-03:00",
   "etapa": "topo",
@@ -2373,6 +2903,16 @@
    "midia/D24-16h00/7.jpg"
   ],
   "legenda": "Di Fara, Brooklyn, 1965: Domenico DeMarco fez pessoalmente cada pizza da casa por décadas. Virou lenda, com fila na porta e reconhecimento no país inteiro.\n\nO outro lado: tudo dependia de uma pessoa só. Ele morreu em 2022, aos 85 anos.\n\nA lição: talento atrai fila, processo deixa você descansar. Padroniza o que dá: ficha técnica, massa e até o post.\n\nFontes: Wikipedia (Domenico DeMarco) e NPR, 18/03/2022.\n\nMarca aqui quem tem pizzaria e precisa ver isso 👇\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
+ },
+ {
+  "id": "D24-17h00-story",
+  "quando": "2026-10-28T17:00:00-03:00",
+  "etapa": "story",
+  "tipo": "manual",
+  "arquivos": [
+   "midia/D24-17h00-story/3-link.jpg"
+  ],
+  "legenda": "Quarta 28/10\n\n10h  1-ideia-do-dia.jpg (sem figurinha)\n15h  2-enquete.jpg · figurinha ENQUETE no espaço tracejado\n     Pergunta: Combo com bebida vende mais aí?\n     Opções: Vende / Não faz diferença\n17h  3-link.jpg · figurinha de LINK no espaço tracejado: pertinho.club/pizza\nDepois de publicar o post/reel do dia: compartilhe no story.\n\nLink da figurinha: https://pertinho.club/pizza?utm_source=instagram&utm_medium=organico&utm_campaign=stories&utm_content=d24"
  },
  {
   "id": "D24-18h00",
@@ -2450,6 +2990,16 @@
   "legenda": "Ideia de post pra hoje (quinta): \"Quinta do rodízio\" com preço por pessoa bem grande.\n\nPost e story já prontos no app, com a sua marca.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
  },
  {
+  "id": "D25-10h00-story",
+  "quando": "2026-10-29T10:00:00-03:00",
+  "etapa": "story",
+  "tipo": "story",
+  "arquivos": [
+   "midia/D25-10h00-story/1-ideia-do-dia.jpg"
+  ],
+  "legenda": "(story da ideia do dia, sem legenda)"
+ },
+ {
   "id": "D25-11h00",
   "quando": "2026-10-29T11:00:00-03:00",
   "etapa": "topo",
@@ -2490,6 +3040,16 @@
   "legenda": "Black Friday (27/11), Natal (25/12) e Réveillon (31/12): os posts já estão no app, cada um com a versão Story. Você coloca a sua marca, troca a data de encomenda e baixa.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
  },
  {
+  "id": "D25-15h00-story",
+  "quando": "2026-10-29T15:00:00-03:00",
+  "etapa": "story",
+  "tipo": "manual",
+  "arquivos": [
+   "midia/D25-15h00-story/2-caixinha.jpg"
+  ],
+  "legenda": "Quinta 29/10\n\n10h  1-ideia-do-dia.jpg (sem figurinha)\n15h  2-caixinha.jpg · figurinha CAIXINHA no espaço tracejado\n     Pergunta: Que promoção você quer ver pronta?\n     Opções: caixinha de perguntas\n17h  3-link.jpg · figurinha de LINK no espaço tracejado: pertinho.club/pizza\nDepois de publicar o post/reel do dia: compartilhe no story.\n\nLink da figurinha: https://pertinho.club/pizza?utm_source=instagram&utm_medium=organico&utm_campaign=stories&utm_content=d25"
+ },
+ {
   "id": "D25-16h00",
   "quando": "2026-10-29T16:00:00-03:00",
   "etapa": "topo",
@@ -2503,6 +3063,16 @@
    "midia/D25-16h00/6.jpg"
   ],
   "legenda": "O que as grandes redes fazem que dá pra copiar:\n\n1. Canal direto: na Domino's Brasil, 25% das vendas vêm do app próprio (InvestNews, 05/06/2026). Você não precisa de app: WhatsApp, link na bio e cupom de pedido direto.\n2. Foco: a Super Pizza Pan começou numa garagem em Guarulhos, só com pizza pan, e chegou a 20 unidades (Portal do Franchising, 27/09/2023).\n3. Mesma cara em tudo: post com a sua marca, todo dia.\n\nQual dos 3 você já faz? 👇\n\nMarca aqui quem tem pizzaria e precisa ver isso 👇\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
+ },
+ {
+  "id": "D25-17h00-story",
+  "quando": "2026-10-29T17:00:00-03:00",
+  "etapa": "story",
+  "tipo": "manual",
+  "arquivos": [
+   "midia/D25-17h00-story/3-link.jpg"
+  ],
+  "legenda": "Quinta 29/10\n\n10h  1-ideia-do-dia.jpg (sem figurinha)\n15h  2-caixinha.jpg · figurinha CAIXINHA no espaço tracejado\n     Pergunta: Que promoção você quer ver pronta?\n     Opções: caixinha de perguntas\n17h  3-link.jpg · figurinha de LINK no espaço tracejado: pertinho.club/pizza\nDepois de publicar o post/reel do dia: compartilhe no story.\n\nLink da figurinha: https://pertinho.club/pizza?utm_source=instagram&utm_medium=organico&utm_campaign=stories&utm_content=d25"
  },
  {
   "id": "D25-18h00",
@@ -2584,6 +3154,16 @@
   "legenda": "Ideia de post pra hoje (sexta): \"Sextou, peça a sua até 23h\" com o horário bem grande.\n\nPost e story já prontos no app, com a sua marca.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
  },
  {
+  "id": "D26-10h00-story",
+  "quando": "2026-10-30T10:00:00-03:00",
+  "etapa": "story",
+  "tipo": "story",
+  "arquivos": [
+   "midia/D26-10h00-story/1-ideia-do-dia.jpg"
+  ],
+  "legenda": "(story da ideia do dia, sem legenda)"
+ },
+ {
   "id": "D26-11h00",
   "quando": "2026-10-30T11:00:00-03:00",
   "etapa": "topo",
@@ -2625,6 +3205,16 @@
   "legenda": "A mesma promoção (compre 1, leve 2) em 5 pizzarias de exemplo, cada uma com a própria logo, as próprias cores e o próprio dia.\n\nO cliente reconhece que é você, não uma arte genérica.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
  },
  {
+  "id": "D26-15h00-story",
+  "quando": "2026-10-30T15:00:00-03:00",
+  "etapa": "story",
+  "tipo": "manual",
+  "arquivos": [
+   "midia/D26-15h00-story/2-enquete.jpg"
+  ],
+  "legenda": "Sexta 30/10\n\n10h  1-ideia-do-dia.jpg (sem figurinha)\n15h  2-enquete.jpg · figurinha ENQUETE no espaço tracejado\n     Pergunta: Faz promoção de Black Friday?\n     Opções: Vou fazer / Não faço\n17h  3-link.jpg · figurinha de LINK no espaço tracejado: pertinho.club/pizza\nDepois de publicar o post/reel do dia: compartilhe no story.\n\nLink da figurinha: https://pertinho.club/pizza?utm_source=instagram&utm_medium=organico&utm_campaign=stories&utm_content=d26"
+ },
+ {
   "id": "D26-16h00",
   "quando": "2026-10-30T16:00:00-03:00",
   "etapa": "topo",
@@ -2638,6 +3228,16 @@
    "midia/D26-16h00/6.jpg"
   ],
   "legenda": "Os números do Sebrae-SP sobre pizzaria no Brasil:\n\n• R$ 24,4 bilhões de faturamento em 2024\n• R$ 8,8 bilhões vieram de operações enxutas, ligadas às plataformas digitais\n• Pizzarias independentes passaram de 27 mil (2021) para 33,6 mil (2024), e 73% operam só com delivery ou retirada\n\nA sua é de salão, de delivery ou dos dois? 👇\n\nFonte: Sebrae-SP, via Acionista (acionista.com.br).\n\nMarca aqui quem tem pizzaria e precisa ver isso 👇\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
+ },
+ {
+  "id": "D26-17h00-story",
+  "quando": "2026-10-30T17:00:00-03:00",
+  "etapa": "story",
+  "tipo": "manual",
+  "arquivos": [
+   "midia/D26-17h00-story/3-link.jpg"
+  ],
+  "legenda": "Sexta 30/10\n\n10h  1-ideia-do-dia.jpg (sem figurinha)\n15h  2-enquete.jpg · figurinha ENQUETE no espaço tracejado\n     Pergunta: Faz promoção de Black Friday?\n     Opções: Vou fazer / Não faço\n17h  3-link.jpg · figurinha de LINK no espaço tracejado: pertinho.club/pizza\nDepois de publicar o post/reel do dia: compartilhe no story.\n\nLink da figurinha: https://pertinho.club/pizza?utm_source=instagram&utm_medium=organico&utm_campaign=stories&utm_content=d26"
  },
  {
   "id": "D26-18h00",
@@ -2714,6 +3314,16 @@
   "legenda": "Ideia de post pra hoje: \"Fim de semana com pizza\".\n\nFoto que dá fome, a sua logo e o WhatsApp no rodapé. Posta às 17h, antes do pico, e repete no story às 19h.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #marketingparapizzaria #delivery"
  },
  {
+  "id": "D27-10h00-story",
+  "quando": "2026-10-31T10:00:00-03:00",
+  "etapa": "story",
+  "tipo": "story",
+  "arquivos": [
+   "midia/D27-10h00-story/1-ideia-do-dia.jpg"
+  ],
+  "legenda": "(story da ideia do dia, sem legenda)"
+ },
+ {
   "id": "D27-11h00",
   "quando": "2026-10-31T11:00:00-03:00",
   "etapa": "topo",
@@ -2754,6 +3364,16 @@
   "legenda": "Mudou a promoção? Troca o dia, o texto e o preço tocando, e baixa no tamanho certo do Feed e do Story. Uma arte serve pra muitas semanas.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
  },
  {
+  "id": "D27-15h00-story",
+  "quando": "2026-10-31T15:00:00-03:00",
+  "etapa": "story",
+  "tipo": "manual",
+  "arquivos": [
+   "midia/D27-15h00-story/2-enquete.jpg"
+  ],
+  "legenda": "Sábado 31/10\n\n10h  1-ideia-do-dia.jpg (sem figurinha)\n15h  2-enquete.jpg · figurinha ENQUETE no espaço tracejado\n     Pergunta: Sábado lota?\n     Opções: Lota / Nem sempre\n17h  3-link.jpg · figurinha de LINK no espaço tracejado: pertinho.club/pizza\nDepois de publicar o post/reel do dia: compartilhe no story.\n\nLink da figurinha: https://pertinho.club/pizza?utm_source=instagram&utm_medium=organico&utm_campaign=stories&utm_content=d27"
+ },
+ {
   "id": "D27-16h00",
   "quando": "2026-10-31T16:00:00-03:00",
   "etapa": "topo",
@@ -2768,6 +3388,16 @@
    "midia/D27-16h00/7.jpg"
   ],
   "legenda": "5 pedidos que dão medo em qualquer pizzaria 👻\n\n1. \"Meio calabresa, meio frango e meio portuguesa\"\n2. \"Perto da padaria, casa do portão azul\"\n3. \"Capricha no queijo, mas sem cobrar a mais\"\n4. Cancelou com o motoboy na porta\n5. \"Ainda dá tempo?\" às 23h59\n\nQual assusta mais aí? 👇\n\nMarca aqui quem tem pizzaria e precisa ver isso 👇\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
+ },
+ {
+  "id": "D27-17h00-story",
+  "quando": "2026-10-31T17:00:00-03:00",
+  "etapa": "story",
+  "tipo": "manual",
+  "arquivos": [
+   "midia/D27-17h00-story/3-link.jpg"
+  ],
+  "legenda": "Sábado 31/10\n\n10h  1-ideia-do-dia.jpg (sem figurinha)\n15h  2-enquete.jpg · figurinha ENQUETE no espaço tracejado\n     Pergunta: Sábado lota?\n     Opções: Lota / Nem sempre\n17h  3-link.jpg · figurinha de LINK no espaço tracejado: pertinho.club/pizza\nDepois de publicar o post/reel do dia: compartilhe no story.\n\nLink da figurinha: https://pertinho.club/pizza?utm_source=instagram&utm_medium=organico&utm_campaign=stories&utm_content=d27"
  },
  {
   "id": "D27-18h00",
@@ -2844,6 +3474,16 @@
   "legenda": "Ideia de post pra hoje (domingo): \"É dia de pizza em família\", porque domingo é dia de mesa cheia.\n\nPost e story já prontos no app, com a sua marca.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
  },
  {
+  "id": "D28-10h00-story",
+  "quando": "2026-11-01T10:00:00-03:00",
+  "etapa": "story",
+  "tipo": "story",
+  "arquivos": [
+   "midia/D28-10h00-story/1-ideia-do-dia.jpg"
+  ],
+  "legenda": "(story da ideia do dia, sem legenda)"
+ },
+ {
   "id": "D28-11h00",
   "quando": "2026-11-01T11:00:00-03:00",
   "etapa": "topo",
@@ -2882,6 +3522,16 @@
   "legenda": "Postar todo dia durante 3 meses: R$ 67,80 ÷ 90 dias dá R$ 0,75 por dia. E cada post vem também na versão Story.\n\nPagamento único, acesso pra sempre.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
  },
  {
+  "id": "D28-15h00-story",
+  "quando": "2026-11-01T15:00:00-03:00",
+  "etapa": "story",
+  "tipo": "manual",
+  "arquivos": [
+   "midia/D28-15h00-story/2-enquete.jpg"
+  ],
+  "legenda": "Domingo 01/11\n\n10h  1-ideia-do-dia.jpg (sem figurinha)\n15h  2-enquete.jpg · figurinha ENQUETE no espaço tracejado\n     Pergunta: Já tem os posts de novembro?\n     Opções: Tenho / Ainda não\n17h  3-link.jpg · figurinha de LINK no espaço tracejado: pertinho.club/pizza\nDepois de publicar o post/reel do dia: compartilhe no story.\n\nLink da figurinha: https://pertinho.club/pizza?utm_source=instagram&utm_medium=organico&utm_campaign=stories&utm_content=d28"
+ },
+ {
   "id": "D28-16h00",
   "quando": "2026-11-01T16:00:00-03:00",
   "etapa": "topo",
@@ -2895,6 +3545,16 @@
    "midia/D28-16h00/6.jpg"
   ],
   "legenda": "Mito ou verdade?\n\n1. Meio a meio é exceção: MITO. 80% das pizzas pedidas no iFood são meio a meio ou personalizadas\n2. Pizza é jantar: VERDADE. 95% dos pedidos acontecem no jantar\n3. Pizza doce é nicho: MITO. 73% das pizzarias têm pizza doce, e chocolate entrou no top 5 do iFood em 2025\n\nFontes: iFood 1º sem 2026 (InfoMoney e Mercado & Consumo, 10/07/2026); Apubra e Galunion 2024; ranking iFood 2025.\n\nQual você achava que era o contrário? 👇\n\nMarca aqui quem tem pizzaria e precisa ver isso 👇\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
+ },
+ {
+  "id": "D28-17h00-story",
+  "quando": "2026-11-01T17:00:00-03:00",
+  "etapa": "story",
+  "tipo": "manual",
+  "arquivos": [
+   "midia/D28-17h00-story/3-link.jpg"
+  ],
+  "legenda": "Domingo 01/11\n\n10h  1-ideia-do-dia.jpg (sem figurinha)\n15h  2-enquete.jpg · figurinha ENQUETE no espaço tracejado\n     Pergunta: Já tem os posts de novembro?\n     Opções: Tenho / Ainda não\n17h  3-link.jpg · figurinha de LINK no espaço tracejado: pertinho.club/pizza\nDepois de publicar o post/reel do dia: compartilhe no story.\n\nLink da figurinha: https://pertinho.club/pizza?utm_source=instagram&utm_medium=organico&utm_campaign=stories&utm_content=d28"
  },
  {
   "id": "D28-18h00",
@@ -2976,6 +3636,16 @@
   "legenda": "Ideia de post pra hoje (feriado): se for fechar no feriado, um aviso simples com o horário de volta.\n\nPost e story já prontos no app, com a sua marca.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
  },
  {
+  "id": "D29-10h00-story",
+  "quando": "2026-11-02T10:00:00-03:00",
+  "etapa": "story",
+  "tipo": "story",
+  "arquivos": [
+   "midia/D29-10h00-story/1-ideia-do-dia.jpg"
+  ],
+  "legenda": "(story da ideia do dia, sem legenda)"
+ },
+ {
   "id": "D29-11h00",
   "quando": "2026-11-02T11:00:00-03:00",
   "etapa": "topo",
@@ -3015,6 +3685,16 @@
   "legenda": "Feriado com horário diferente? No app você troca o aviso tocando (aberto, fechado ou horário especial) e baixa o post e o story com a sua marca.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
  },
  {
+  "id": "D29-15h00-story",
+  "quando": "2026-11-02T15:00:00-03:00",
+  "etapa": "story",
+  "tipo": "manual",
+  "arquivos": [
+   "midia/D29-15h00-story/2-quiz.jpg"
+  ],
+  "legenda": "Segunda 02/11\n\n10h  1-ideia-do-dia.jpg (sem figurinha)\n15h  2-quiz.jpg · figurinha QUIZ no espaço tracejado\n     Pergunta: No feriado, o que postar antes das 17h?\n     Opções: Estamos abertos + horário (certa) / Nada / Só foto\n17h  3-link.jpg · figurinha de LINK no espaço tracejado: pertinho.club/pizza\nDepois de publicar o post/reel do dia: compartilhe no story.\n\nLink da figurinha: https://pertinho.club/pizza?utm_source=instagram&utm_medium=organico&utm_campaign=stories&utm_content=d29"
+ },
+ {
   "id": "D29-16h00",
   "quando": "2026-11-02T16:00:00-03:00",
   "etapa": "topo",
@@ -3025,6 +3705,16 @@
    "midia/D29-16h00/3.jpg"
   ],
   "legenda": "Por que o perfil da rede parece mais confiável que o da pizzaria do bairro? Padrão: toda arte com a mesma cara, preço claro e foto boa.\n\nDá pra ter isso sem agência.\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
+ },
+ {
+  "id": "D29-17h00-story",
+  "quando": "2026-11-02T17:00:00-03:00",
+  "etapa": "story",
+  "tipo": "manual",
+  "arquivos": [
+   "midia/D29-17h00-story/3-link.jpg"
+  ],
+  "legenda": "Segunda 02/11\n\n10h  1-ideia-do-dia.jpg (sem figurinha)\n15h  2-quiz.jpg · figurinha QUIZ no espaço tracejado\n     Pergunta: No feriado, o que postar antes das 17h?\n     Opções: Estamos abertos + horário (certa) / Nada / Só foto\n17h  3-link.jpg · figurinha de LINK no espaço tracejado: pertinho.club/pizza\nDepois de publicar o post/reel do dia: compartilhe no story.\n\nLink da figurinha: https://pertinho.club/pizza?utm_source=instagram&utm_medium=organico&utm_campaign=stories&utm_content=d29"
  },
  {
   "id": "D29-18h00",
@@ -3104,6 +3794,16 @@
   "legenda": "Ideia de post pra hoje (terça): \"Toda terça, compre 1, leve 2\" com a regra bem clara.\n\nPost e story já prontos no app, com a sua marca.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
  },
  {
+  "id": "D30-10h00-story",
+  "quando": "2026-11-03T10:00:00-03:00",
+  "etapa": "story",
+  "tipo": "story",
+  "arquivos": [
+   "midia/D30-10h00-story/1-ideia-do-dia.jpg"
+  ],
+  "legenda": "(story da ideia do dia, sem legenda)"
+ },
+ {
   "id": "D30-11h00",
   "quando": "2026-11-03T11:00:00-03:00",
   "etapa": "topo",
@@ -3139,6 +3839,16 @@
   "legenda": "Qual dos dois faz o cliente pedir na terça? A promoção com regra clara e a cara da pizzaria resolve antes da pergunta.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
  },
  {
+  "id": "D30-15h00-story",
+  "quando": "2026-11-03T15:00:00-03:00",
+  "etapa": "story",
+  "tipo": "manual",
+  "arquivos": [
+   "midia/D30-15h00-story/2-caixinha.jpg"
+  ],
+  "legenda": "Terça 03/11\n\n10h  1-ideia-do-dia.jpg (sem figurinha)\n15h  2-caixinha.jpg · figurinha CAIXINHA no espaço tracejado\n     Pergunta: Conta: o que mudou no seu Instagram este mês?\n     Opções: caixinha de perguntas\n17h  3-link.jpg · figurinha de LINK no espaço tracejado: pertinho.club/pizza\nDepois de publicar o post/reel do dia: compartilhe no story.\n\nLink da figurinha: https://pertinho.club/pizza?utm_source=instagram&utm_medium=organico&utm_campaign=stories&utm_content=d30"
+ },
+ {
   "id": "D30-16h00",
   "quando": "2026-11-03T16:00:00-03:00",
   "etapa": "topo",
@@ -3151,6 +3861,16 @@
    "midia/D30-16h00/5.jpg"
   ],
   "legenda": "6 pizzarias brasileiras no 50 Top Pizza World 2026: Leggera (6º), QT Pizza Bar (17º), A Pizza da Mooca (41º), Unica (46º), Bento (70º) e Veridiana (75º).\n\nFonte: GiroNews, 16/09/2026.\n\nQual pizzaria do Brasil você colocaria nessa lista? 👇\n\nMarca aqui quem tem pizzaria e precisa ver isso 👇\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
+ },
+ {
+  "id": "D30-17h00-story",
+  "quando": "2026-11-03T17:00:00-03:00",
+  "etapa": "story",
+  "tipo": "manual",
+  "arquivos": [
+   "midia/D30-17h00-story/3-link.jpg"
+  ],
+  "legenda": "Terça 03/11\n\n10h  1-ideia-do-dia.jpg (sem figurinha)\n15h  2-caixinha.jpg · figurinha CAIXINHA no espaço tracejado\n     Pergunta: Conta: o que mudou no seu Instagram este mês?\n     Opções: caixinha de perguntas\n17h  3-link.jpg · figurinha de LINK no espaço tracejado: pertinho.club/pizza\nDepois de publicar o post/reel do dia: compartilhe no story.\n\nLink da figurinha: https://pertinho.club/pizza?utm_source=instagram&utm_medium=organico&utm_campaign=stories&utm_content=d30"
  },
  {
   "id": "D30-18h00",
