@@ -1,5 +1,59 @@
 [
  {
+  "id": "DH-17h00",
+  "quando": "2026-10-03T17:00:00-03:00",
+  "etapa": "fundo",
+  "tipo": "carrossel",
+  "arquivos": [
+   "midia/DH-17h00/1.jpg",
+   "midia/DH-17h00/2.jpg",
+   "midia/DH-17h00/3.jpg",
+   "midia/DH-17h00/4.jpg",
+   "midia/DH-17h00/5.jpg"
+  ],
+  "legenda": "O app por dentro, em 3 passos:\n\n1. Nome da pizzaria, @ e WhatsApp\n2. Logo e cores (sem logo? o app monta uma)\n3. Abre o post, toca no dia e baixa\n\nFunciona no navegador do celular, sem instalar nada.\n\n💬 Comenta POST que eu te mando no direct o link com tudo que vem (90 posts + 90 stories com a sua marca). Ou toca no link da bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
+ },
+ {
+  "id": "DH-18h30",
+  "quando": "2026-10-03T18:30:00-03:00",
+  "etapa": "fundo",
+  "tipo": "carrossel",
+  "arquivos": [
+   "midia/DH-18h30/1.jpg",
+   "midia/DH-18h30/2.jpg",
+   "midia/DH-18h30/3.jpg",
+   "midia/DH-18h30/4.jpg",
+   "midia/DH-18h30/5.jpg",
+   "midia/DH-18h30/6.jpg"
+  ],
+  "legenda": "O mesmo post de calabresa em 5 pizzarias (marcas de exemplo). Cada uma com a própria logo e as próprias cores.\n\nÉ isso que separa post pronto de pasta do Drive: o seu cliente reconhece que é você.\n\n💬 Comenta POST que eu te mando no direct o link com tudo que vem (90 posts + 90 stories com a sua marca). Ou toca no link da bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
+ },
+ {
+  "id": "DH-20h00",
+  "quando": "2026-10-03T20:00:00-03:00",
+  "etapa": "fundo",
+  "tipo": "carrossel",
+  "arquivos": [
+   "midia/DH-20h00/1.jpg",
+   "midia/DH-20h00/2.jpg",
+   "midia/DH-20h00/3.jpg"
+  ],
+  "legenda": "Ideia de post pra hoje (sábado): noite de pizza: sábado é o dia mais forte da semana, aparece logo cedo.\n\nNo app, esse post e o story já estão prontos. Você coloca a sua marca uma vez, troca o preço se quiser e baixa.\n\n💬 Comenta POST que eu te mando no direct o link com tudo que vem (90 posts + 90 stories com a sua marca). Ou toca no link da bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
+ },
+ {
+  "id": "DH-21h30",
+  "quando": "2026-10-03T21:30:00-03:00",
+  "etapa": "fundo",
+  "tipo": "carrossel",
+  "arquivos": [
+   "midia/DH-21h30/1.jpg",
+   "midia/DH-21h30/2.jpg",
+   "midia/DH-21h30/3.jpg",
+   "midia/DH-21h30/4.jpg"
+  ],
+  "legenda": "Sem letra miúda:\n\n• 90 posts + 90 stories\n• A sua logo, cores, @ e WhatsApp em todos\n• Troca dia, preço, sabor e texto\n• Acesso pra sempre\n\nCom a sua marca: R$ 67,80 ou 10x de R$ 8,78. Sem personalização: R$ 37,80. Pix ou cartão, 7 dias de garantia.\n\n💬 Comenta POST que eu te mando no direct o link com tudo que vem (90 posts + 90 stories com a sua marca). Ou toca no link da bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
+ },
+ {
   "id": "D00-07h00",
   "quando": "2026-10-04T07:00:00-03:00",
   "etapa": "meio",
@@ -127,7 +181,7 @@
    "midia/D00-22h00/2.jpg",
    "midia/D00-22h00/3.jpg"
   ],
-  "legenda": "\"Vou começar a postar segunda.\" Segunda é amanhã.\n\nSão 90 posts + 90 stories com a sua marca, um por dia. Ativa hoje e o post de amanhã cedo já está pronto.\n\nR$ 67,80 com a sua marca (ou 10x de R$ 6,78), ou R$ 37,80 sem personalização. Pagamento único, acesso pra sempre, 7 dias de garantia.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
+  "legenda": "\"Vou começar a postar segunda.\" Segunda é amanhã.\n\nSão 90 posts + 90 stories com a sua marca, um por dia. Ativa hoje e o post de amanhã cedo já está pronto.\n\nR$ 67,80 com a sua marca (ou 10x de R$ 8,78), ou R$ 37,80 sem personalização. Pagamento único, acesso pra sempre, 7 dias de garantia.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
  },
  {
   "id": "D01-07h00",
@@ -861,7 +915,7 @@
    "midia/D05-22h00/3.jpg",
    "midia/D05-22h00/4.jpg"
   ],
-  "legenda": "Sem letra miúda: 90 posts + 90 stories, com a sua logo, cores, @ e WhatsApp, troca dia, preço, sabor e texto. Com a sua marca: R$ 67,80 ou 10x de R$ 6,78. Sem personalização: R$ 37,80. Acesso pra sempre e 7 dias de garantia.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
+  "legenda": "Sem letra miúda: 90 posts + 90 stories, com a sua logo, cores, @ e WhatsApp, troca dia, preço, sabor e texto. Com a sua marca: R$ 67,80 ou 10x de R$ 8,78. Sem personalização: R$ 37,80. Acesso pra sempre e 7 dias de garantia.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
  },
  {
   "id": "D06-07h00",
@@ -1120,7 +1174,7 @@
    "midia/D07-22h00/2.jpg",
    "midia/D07-22h00/3.jpg"
   ],
-  "legenda": "\"Tenho que pagar todo mês?\" Não. Pagamento único e acesso pra sempre: R$ 67,80 com a sua marca (ou 10x de R$ 6,78).\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
+  "legenda": "\"Tenho que pagar todo mês?\" Não. Pagamento único e acesso pra sempre: R$ 67,80 com a sua marca (ou 10x de R$ 8,78).\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
  },
  {
   "id": "D08-07h00",
@@ -1710,7 +1764,7 @@
    "midia/D12-14h00/4.jpg",
    "midia/D12-14h00/5.jpg"
   ],
-  "legenda": "Sem letra miúda:\n\n• 90 posts + 90 stories\n• 16 sabores com foto\n• A sua logo, cores, @ e WhatsApp em todos\n• Acesso pra sempre\n\nCom a sua marca: R$ 67,80 ou 10x de R$ 6,78. Sem personalização: R$ 37,80. Pix ou cartão, 7 dias de garantia.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
+  "legenda": "Sem letra miúda:\n\n• 90 posts + 90 stories\n• 16 sabores com foto\n• A sua logo, cores, @ e WhatsApp em todos\n• Acesso pra sempre\n\nCom a sua marca: R$ 67,80 ou 10x de R$ 8,78. Sem personalização: R$ 37,80. Pix ou cartão, 7 dias de garantia.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
  },
  {
   "id": "D12-16h00",
@@ -2234,7 +2288,7 @@
    "midia/D16-14h00/3.jpg",
    "midia/D16-14h00/4.jpg"
   ],
-  "legenda": "R$ 67,80 ÷ 90 posts = R$ 0,75 por arte, e cada uma vem com a versão Story. Ou 10x de R$ 6,78. Pagamento único: não é mensalidade.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
+  "legenda": "R$ 67,80 ÷ 90 posts = R$ 0,75 por arte, e cada uma vem com a versão Story. Ou 10x de R$ 8,78. Pagamento único: não é mensalidade.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
  },
  {
   "id": "D16-16h00",
@@ -2420,7 +2474,7 @@
    "midia/D17-20h30/3.jpg",
    "midia/D17-20h30/4.jpg"
   ],
-  "legenda": "Sem letra miúda:\n\n• 90 posts + 90 stories\n• A sua logo, cores, @ e WhatsApp em todos, em 1 minuto\n• Acesso pra sempre e 7 dias de garantia\n\nCom a sua marca: R$ 67,80 ou 10x de R$ 6,78. Sem personalização: R$ 37,80. Pix ou cartão.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
+  "legenda": "Sem letra miúda:\n\n• 90 posts + 90 stories\n• A sua logo, cores, @ e WhatsApp em todos, em 1 minuto\n• Acesso pra sempre e 7 dias de garantia\n\nCom a sua marca: R$ 67,80 ou 10x de R$ 8,78. Sem personalização: R$ 37,80. Pix ou cartão.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
  },
  {
   "id": "D17-22h00",
@@ -2949,7 +3003,7 @@
    "midia/D21-22h00/3.jpg",
    "midia/D21-22h00/4.jpg"
   ],
-  "legenda": "\"Qual a diferença entre R$ 37,80 e R$ 67,80?\" Os dois têm os 90 posts + 90 stories. Por R$ 67,80 (ou 10x de R$ 6,78) entra a sua logo, cores, @ e WhatsApp em todos. Pagamento único e 7 dias de garantia.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
+  "legenda": "\"Qual a diferença entre R$ 37,80 e R$ 67,80?\" Os dois têm os 90 posts + 90 stories. Por R$ 67,80 (ou 10x de R$ 8,78) entra a sua logo, cores, @ e WhatsApp em todos. Pagamento único e 7 dias de garantia.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
  },
  {
   "id": "D22-07h00",
@@ -3465,7 +3519,7 @@
    "midia/D25-20h30/2.jpg",
    "midia/D25-20h30/3.jpg"
   ],
-  "legenda": "Sem letra miúda:\n\nPosts Prontos (R$ 37,80): 90 posts + 90 stories com o nome da pizzaria. Mesma arte pra todo mundo.\n\nCom a sua marca (R$ 67,80 ou 10x de R$ 6,78): os mesmos posts com a sua logo, cores, @ e WhatsApp. Troca dia, preço, sabor e texto.\n\nExtras opcionais: 30 Promoções pra Dia Fraco (+R$ 17) e 30 Legendas Prontas (+R$ 12,90).\n\nPagamento único, acesso pra sempre e 7 dias de garantia.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #marketingparapizzaria #delivery"
+  "legenda": "Sem letra miúda:\n\nPosts Prontos (R$ 37,80): 90 posts + 90 stories com o nome da pizzaria. Mesma arte pra todo mundo.\n\nCom a sua marca (R$ 67,80 ou 10x de R$ 8,78): os mesmos posts com a sua logo, cores, @ e WhatsApp. Troca dia, preço, sabor e texto.\n\nExtras opcionais: 30 Promoções pra Dia Fraco (+R$ 17) e 30 Legendas Prontas (+R$ 12,90).\n\nPagamento único, acesso pra sempre e 7 dias de garantia.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #marketingparapizzaria #delivery"
  },
  {
   "id": "D25-22h00",

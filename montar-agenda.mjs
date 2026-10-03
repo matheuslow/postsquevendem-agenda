@@ -3,7 +3,7 @@ import { readFileSync, writeFileSync, existsSync, mkdirSync, copyFileSync, readd
 import { join } from "node:path";
 const BASE = "../instagram-vendemaispostando";
 const JA_NO_BUSINESS_SUITE = new Set(JSON.parse(readFileSync("ja-agendados.json", "utf8")));
-const datas = Object.fromEntries([["D00", "2026-10-04"], ...Array.from({ length: 30 }, (_, i) => { const d = new Date(Date.UTC(2026, 9, 5 + i)); return ["D" + String(i + 1).padStart(2, "0"), d.toISOString().slice(0, 10)]; })]);
+const datas = Object.fromEntries([["DH", "2026-10-03"], ["D00", "2026-10-04"], ...Array.from({ length: 30 }, (_, i) => { const d = new Date(Date.UTC(2026, 9, 5 + i)); return ["D" + String(i + 1).padStart(2, "0"), d.toISOString().slice(0, 10)]; })]);
 const agenda = existsSync("agenda.json") ? JSON.parse(readFileSync("agenda.json", "utf8")) : [];
 const ids = new Set(agenda.map((p) => p.id));
 for (const n of process.argv.slice(2).filter((a) => a !== "stories")) {
