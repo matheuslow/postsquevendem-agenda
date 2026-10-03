@@ -1,0 +1,31 @@
+name: publicar
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+    inputs:
+      teste:
+        description: "so testar o acesso (sim) ou publicar o que venceu (vazio)"
+        required: false
+        default: ""
+permissions:
+  contents: write
+concurrency: publicar
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node publicar.mjs
+        env:
+          META_PAGE_TOKEN: ${{ secrets.META_PAGE_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          TESTE: ${{ github.event.inputs.teste }}
+      - run: |
+          git config user.name "robo-agenda"
+          git config user.email "robo@users.noreply.github.com"
+          git add agenda.json
+          git diff --cached --quiet || (git commit -m "agenda: publicados" && git push)
