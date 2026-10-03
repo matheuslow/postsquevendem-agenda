@@ -62,7 +62,7 @@ if (process.env.TESTE) {
   process.exit(0);
 }
 const agora = Date.now();
-const vencidos = agenda.filter((p) => new Date(p.quando).getTime() <= agora && (!p.ig || !p.fb)).slice(0, MAX);
+const vencidos = agenda.filter((p) => !p.pausado && new Date(p.quando).getTime() <= agora && (!p.ig || !p.fb)).slice(0, MAX);
 console.log(`${vencidos.length} pra publicar agora`);
 for (const p of vencidos) {
   if (DRY) { console.log("DRY", p.id, p.quando); continue; }
