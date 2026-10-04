@@ -34,10 +34,25 @@ async function esperaContainer(id) {
   throw new Error("container demorou demais");
 }
 
+async function idPublicado(p) {
+  const r = await api(`${IG}/media`, { fields: "id,caption,timestamp", limit: "15" }, "GET");
+  const norm = (t) => (t || "").replace(/s+/g, " ").trim().slice(0, 80);
+  const m = (r.data || []).find((x) => norm(x.caption) === norm(p.legenda));
+  return m ? m.id : "publicado-" + p.container;
+}
 async function publicaIG(p) {
   const url = (f) => RAW + encodeURI(f);
   // container já criado numa rodada anterior (vale 24 h): só publica, sem recriar tudo
-  if (p.container && Date.now() - new Date(p.container_em).getTime() < 20 * 3600e3) return (await api(`${IG}/media_publish`, { creation_id: p.container })).id;
+  // Trava contra duplicado: o Meta às vezes responde erro no media_publish mas publica mesmo assim.
+  // Se já existe container desta peça, NUNCA cria outro: confere se ele já foi publicado; se não, publica o mesmo container.
+  if (p.container) {
+    const st = await api(p.container, { fields: "status_code" }, "GET").catch(() => ({}));
+    if (st.status_code === "PUBLISHED") return await idPublicado(p);
+    if (st.status_code === "FINISHED" && Date.now() - new Date(p.container_em).getTime() < 20 * 3600e3) return (await api(`${IG}/media_publish`, { creation_id: p.container })).id;
+    if (p.tentativas >= 3) throw new Error("container antigo sem confirmação, pausei pra não duplicar");
+  }
+  p.tentativas = (p.tentativas || 0) + 1;
+  if (p.tentativas > 3) { p.pausado = true; throw new Error("3 tentativas sem sucesso, pausei pra não duplicar"); }
   let criacao;
   if (p.tipo === "story") {
     const f = p.arquivos[0];
