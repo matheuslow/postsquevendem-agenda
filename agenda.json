@@ -348,6 +348,18 @@
   "legenda": "(story de venda, sem legenda)"
  },
  {
+  "id": "D00-21h30-reel",
+  "quando": "2026-10-04T21:30:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D00-21h30-reel/reel.mp4"
+  ],
+  "capa": "midia/D00-21h30-reel/capa.jpg",
+  "legenda": "Chegou agora? Aqui é o perfil de quem tem pizzaria:\n\n1. Dica com dado (sempre com a fonte)\n2. Histórias de pizzaria e a lição pra sua\n3. Humor de dono\n4. Posts prontos pra postar com a sua marca\n\nA partir de amanhã tem conteúdo todo dia. Segue pra não perder.\n\nMarca aqui quem tem pizzaria e precisa ver isso 👇\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D00-dom-04out/16h00-topo-o-que-voce-vai-ver-aqui"
+ },
+ {
   "id": "D00-22h00",
   "quando": "2026-10-04T22:00:00-03:00",
   "etapa": "fundo",
@@ -441,6 +453,18 @@
   "ig": "business_suite",
   "fb": "business_suite",
   "via": "business_suite"
+ },
+ {
+  "id": "D01-13h00-reel",
+  "quando": "2026-10-05T13:00:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D01-13h00-reel/reel.mp4"
+  ],
+  "capa": "midia/D01-13h00-reel/capa.jpg",
+  "legenda": "CMV de pizzaria, sem complicar:\n\nCMV = estoque inicial + compras − estoque final\nDivide pelo faturamento do mês\n\nO Sebrae fala em 30% a 40% pra restaurante. Mais importante que o número solto é a variação: se subiu e o preço do insumo não, procura desperdício ou porção errada.\n\nFontes: Saipos e Sebrae PR.\n\nSalva pra consultar depois e manda pro seu sócio.\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D01-seg-05out/07h00-dica-cmv"
  },
  {
   "id": "D01-13h30-story",
@@ -555,6 +579,18 @@
   "legenda": "(story de venda, sem legenda)"
  },
  {
+  "id": "D01-21h30-reel",
+  "quando": "2026-10-05T21:30:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D01-21h30-reel/reel.mp4"
+  ],
+  "capa": "midia/D01-21h30-reel/capa.jpg",
+  "legenda": "A Pizza Prime começou em 2011 com R$ 20 mil e chegou a 80 lojas e R$ 180 milhões em vendas da rede em 2025.\n\nO segredo, segundo o fundador: processo padronizado, de fábrica. Qualquer um aprende a abrir massa em 3 dias. E delivery no centro da operação.\n\nA lição pra pizzaria pequena: se só sai bom quando você está no forno, você tem um emprego.\n\nFonte: Bloomberg Línea, 15/03/2026.\n\nMarca aqui quem tem pizzaria e precisa ver isso 👇\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D01-seg-05out/16h00-topo-historia-pizza-prime"
+ },
+ {
   "id": "D01-22h00",
   "quando": "2026-10-05T22:00:00-03:00",
   "etapa": "fundo",
@@ -652,6 +688,18 @@
   "ig": "business_suite",
   "fb": "business_suite",
   "via": "business_suite"
+ },
+ {
+  "id": "D02-13h00-reel",
+  "quando": "2026-10-06T13:00:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D02-13h00-reel/reel.mp4"
+  ],
+  "capa": "midia/D02-13h00-reel/capa.jpg",
+  "legenda": "Markup divisor, o jeito que o Sebrae ensina:\n\nPreço = custo ÷ (1 − soma dos percentuais)\n\nExemplo: custo de R$ 20 e soma de imposto, taxas, despesas e lucro de 60%: R$ 20 ÷ 0,4 = R$ 50.\n\nE faz uma conta separada pro cardápio do app, porque a taxa é outra.\n\nFonte: Sebrae, e-book Saiba como fazer seu preço de venda.\n\nSalva pra consultar depois e manda pro seu sócio.\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D02-ter-06out/07h00-dica-markup"
  },
  {
   "id": "D02-13h30-story",
@@ -763,6 +811,18 @@
   "legenda": "(story de venda, sem legenda)"
  },
  {
+  "id": "D02-21h30-reel",
+  "quando": "2026-10-06T21:30:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D02-21h30-reel/reel.mp4"
+  ],
+  "capa": "midia/D02-21h30-reel/capa.jpg",
+  "legenda": "Em 2009 a Domino's fez o que ninguém faz: admitiu em campanha que a pizza dela era criticada. Trocou molho, queijo e massa e mostrou isso pro cliente.\n\nNo 1º trimestre de 2010, as vendas nas mesmas lojas dos EUA subiram 14,3%.\n\nE você, lê as avaliações 1 estrela da sua pizzaria?\n\nFonte: Domino's, via Franchising.com (04/05/2010).\n\nMarca aqui quem tem pizzaria e precisa ver isso 👇\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D02-ter-06out/16h00-topo-historia-dominos"
+ },
+ {
   "id": "D02-22h00",
   "quando": "2026-10-06T22:00:00-03:00",
   "etapa": "fundo",
@@ -857,6 +917,18 @@
   "ig": "business_suite",
   "fb": "business_suite",
   "via": "business_suite"
+ },
+ {
+  "id": "D03-13h00-reel",
+  "quando": "2026-10-07T13:00:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D03-13h00-reel/reel.mp4"
+  ],
+  "capa": "midia/D03-13h00-reel/capa.jpg",
+  "legenda": "Restaurantes respondem só 24% das avaliações. E, segundo o Google, empresas que respondem são vistas como 1,7 vez mais confiáveis.\n\nNa de 1 estrela: agradece, assume o erro, diz o que mudou e chama pro privado.\n\nFonte: Mercado & Consumo, 05/07/2024.\n\nSalva pra consultar depois e manda pro seu sócio.\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D03-qua-07out/07h00-dica-avaliacoes"
  },
  {
   "id": "D03-13h30-story",
@@ -969,6 +1041,18 @@
   "legenda": "(story de venda, sem legenda)"
  },
  {
+  "id": "D03-21h30-reel",
+  "quando": "2026-10-07T21:30:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D03-21h30-reel/reel.mp4"
+  ],
+  "capa": "midia/D03-21h30-reel/capa.jpg",
+  "legenda": "A Ferro e Farinha começou em 2013 com um forno de ferro no porta-malas de um Fiat Uno, vendendo pizza numa praça do Rio. No ano seguinte, uma loja de 10 lugares no Catete. Em 2025, 31ª do mundo no 50 Top Pizza.\n\nFonte: Time Out Rio, 09/2025.\n\nMarca aqui quem tem pizzaria e precisa ver isso 👇\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D03-qua-07out/16h00-topo-historia-ferro-e-farinha"
+ },
+ {
   "id": "D03-22h00",
   "quando": "2026-10-07T22:00:00-03:00",
   "etapa": "fundo",
@@ -1054,6 +1138,18 @@
    "midia/D04-12h30/4.jpg"
   ],
   "legenda": "Post de combo que faz pedir tem 6 coisas: nome do combo, o que vem, preço grande, foto da pizza inteira, bebida escrita e a sua logo.\n\nDica: escreva a bebida no texto (Coca-Cola 2L, Guaraná 2L) e use foto de garrafa sem rótulo. Fica bonito e você troca a bebida quando quiser.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #marketingparapizzaria #delivery"
+ },
+ {
+  "id": "D04-13h00-reel",
+  "quando": "2026-10-08T13:00:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D04-13h00-reel/reel.mp4"
+  ],
+  "capa": "midia/D04-13h00-reel/capa.jpg",
+  "legenda": "Segunda tem só 9% dos pedidos de pizza; o sábado leva 24% (dados de 2025 do Sistema Pizzaria).\n\n4 jeitos de mexer nisso:\n1. Promoção com dia (segunda da borda grátis)\n2. Brinde no lugar de desconto\n3. Combo do jogo\n4. Post antes das 18h, porque o pico é 20h às 21h\n\nFonte: Portal Tela, 30/04/2026.\n\nSalva pra consultar depois e manda pro seu sócio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D04-qui-08out/07h00-dica-segunda-9"
  },
  {
   "id": "D04-13h30-story",
@@ -1153,6 +1249,18 @@
   "legenda": "(story de venda, sem legenda)"
  },
  {
+  "id": "D04-21h30-reel",
+  "quando": "2026-10-08T21:30:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D04-21h30-reel/reel.mp4"
+  ],
+  "capa": "midia/D04-21h30-reel/capa.jpg",
+  "legenda": "Ranking iFood do 1º semestre de 2026:\n\n1. Calabresa\n2. Frango com requeijão\n3. Marguerita (subiu do 5º)\n4. Muçarela\n5. Portuguesa\n\nE 8 em cada 10 são meio a meio ou personalizadas.\n\nQual mais sai na sua pizzaria? 👇\n\nFonte: InfoMoney, 10/07/2026.\n\nMarca aqui quem tem pizzaria e precisa ver isso 👇\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D04-qui-08out/16h00-topo-ranking-sabores-2026"
+ },
+ {
   "id": "D04-22h00",
   "quando": "2026-10-08T22:00:00-03:00",
   "etapa": "fundo",
@@ -1234,6 +1342,18 @@
    "midia/D05-12h30/5.jpg"
   ],
   "legenda": "Fator de correção: peso bruto ÷ peso limpo. Se 1 kg de calabresa vira 850 g depois de tirar a pele, o fator é 1,18, e o custo real é o preço do kg × 1,18.\n\nFonte: material de ficha técnica da USP (eDisciplinas).\n\nSalva pra consultar depois e manda pro seu sócio.\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
+ },
+ {
+  "id": "D05-13h00-reel",
+  "quando": "2026-10-09T13:00:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D05-13h00-reel/reel.mp4"
+  ],
+  "capa": "midia/D05-13h00-reel/capa.jpg",
+  "legenda": "O ticket médio de pizza no Brasil é R$ 54,46 (VR). Três jeitos de subir o seu sem mexer no preço: borda junto, doce por mais R$ 10 e combo com bebida.\n\nFonte: Seu Dinheiro, jul/2026.\n\nSalva pra consultar depois e manda pro seu sócio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D05-sex-09out/07h00-dica-ticket-medio"
  },
  {
   "id": "D05-13h30-story",
@@ -1331,6 +1451,18 @@
   "legenda": "(story de venda, sem legenda)"
  },
  {
+  "id": "D05-21h30-reel",
+  "quando": "2026-10-09T21:30:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D05-21h30-reel/reel.mp4"
+  ],
+  "capa": "midia/D05-21h30-reel/capa.jpg",
+  "legenda": "A Di Blasi nasceu de uma observação: num chá de bebê, Arnaldo Di Blasi viu que os convidados deixavam a borda no prato. Criou uma pizza fininha, quase sem borda, e foi pro delivery. Hoje são 50 unidades e R$ 60 milhões de faturamento.\n\nO que sobra no prato do seu cliente?\n\nFonte: TradeMap, 24/08/2026.\n\nMarca aqui quem tem pizzaria e precisa ver isso 👇\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D05-sex-09out/16h00-topo-historia-di-blasi"
+ },
+ {
   "id": "D05-22h00",
   "quando": "2026-10-09T22:00:00-03:00",
   "etapa": "fundo",
@@ -1413,6 +1545,18 @@
    "midia/D06-12h30/5.jpg"
   ],
   "legenda": "Uma golpista foi presa em Curitiba depois de aplicar golpe do Pix falso em pizzarias. Um dos restaurantes teve 43 pedidos não pagos.\n\n3 sinais:\n1. Print não é Pix: confere no app do banco\n2. Agendado não caiu\n3. Cliente novo + pedido alto + pressa\n\nManda pra aquele amigo que também tem pizzaria.\n\nFonte: Bem Paraná.\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
+ },
+ {
+  "id": "D06-13h00-reel",
+  "quando": "2026-10-10T13:00:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D06-13h00-reel/reel.mp4"
+  ],
+  "capa": "midia/D06-13h00-reel/capa.jpg",
+  "legenda": "73% das pizzarias têm pizza doce, mas nenhuma doce entra no top 6 (Apubra/Galunion). Ela vende como complemento: broto de brinde, doce por mais R$ 10, combo salgada + doce.\n\nFontes: O Povo (09/02/2025) e InfoMoney (iFood 2025).\n\nSalva pra consultar depois e manda pro seu sócio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D06-sab-10out/07h00-dica-pizza-doce"
  },
  {
   "id": "D06-13h30-story",
@@ -1511,6 +1655,18 @@
   "legenda": "(story de venda, sem legenda)"
  },
  {
+  "id": "D06-21h30-reel",
+  "quando": "2026-10-10T21:30:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D06-21h30-reel/reel.mp4"
+  ],
+  "capa": "midia/D06-21h30-reel/capa.jpg",
+  "legenda": "50 Top Pizza América Latina 2026: a Leggera (SP) é a melhor pela 3ª vez seguida. QT Pizza Bar em 3º, A Pizza da Mooca em 7º, Unica em 8º, Bento (RJ) em 11º, Veridiana em 12º. O Brasil tem 22 das 50.\n\nQual pizzaria você colocaria nessa lista? 👇\n\nFontes: 50toppizza.it e Money Times.\n\nMarca aqui quem tem pizzaria e precisa ver isso 👇\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D06-sab-10out/16h00-topo-melhores-pizzarias"
+ },
+ {
   "id": "D06-22h00",
   "quando": "2026-10-10T22:00:00-03:00",
   "etapa": "fundo",
@@ -1596,6 +1752,18 @@
    "midia/D07-12h30/5.jpg"
   ],
   "legenda": "A briga entre os apps de delivery chegou ao Cade: o iFood acusou a Keeta por cupons de até R$ 250 (31/08/2026) e o Cade investiga a 99Food a pedido da Keeta (01/04/2026).\n\nPra pizzaria, a lição é: app traz cliente, mas cliente fiel pede no seu WhatsApp. Usa o Instagram pra fazer essa ponte.\n\nVocê está em qual app hoje?\n\nFontes: Portal Tela e O Povo.\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
+ },
+ {
+  "id": "D07-13h00-reel",
+  "quando": "2026-10-11T13:00:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D07-13h00-reel/reel.mp4"
+  ],
+  "capa": "midia/D07-13h00-reel/capa.jpg",
+  "legenda": "5 ingredientes que mais comem o CMV da pizzaria:\n\n1. Queijo (subiu 11,7% em um ano, Cileite/Embrapa)\n2. Calabresa e presunto (pele, aparas, sobra)\n3. Bacon e cheddar (mais caros por quilo)\n4. Embalagem (entra em toda pizza do delivery)\n5. Massa jogada fora\n\nFonte do queijo: O Presente Rural, 24/06/2026.\n\nSalva pra consultar depois e manda pro seu sócio.\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D07-dom-11out/07h00-dica-ingredientes-cmv"
  },
  {
   "id": "D07-13h30-story",
@@ -1691,6 +1859,18 @@
   "legenda": "(story de venda, sem legenda)"
  },
  {
+  "id": "D07-21h30-reel",
+  "quando": "2026-10-11T21:30:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D07-21h30-reel/reel.mp4"
+  ],
+  "capa": "midia/D07-21h30-reel/capa.jpg",
+  "legenda": "Ranking iFood do 1º semestre de 2026: SP, RJ, PR, MG e SC são os estados que mais pedem pizza. E onde mais cresceu: Amazonas (+31%), Pará (+19%) e Ceará (+19%).\n\nDe onde é a sua pizzaria? 👇\n\nFonte: InfoMoney, 10/07/2026.\n\nMarca aqui quem tem pizzaria e precisa ver isso 👇\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D07-dom-11out/16h00-topo-ranking-estados"
+ },
+ {
   "id": "D07-22h00",
   "quando": "2026-10-11T22:00:00-03:00",
   "etapa": "fundo",
@@ -1772,6 +1952,18 @@
    "midia/D08-12h30/5.jpg"
   ],
   "legenda": "Crédito na maquininha costuma passar de 2%; débito fica entre 1% e 2,5%; Pix pode ser grátis (exemplos de 07/2026). Pix já é 44% dos pedidos de pizza (Sistema Pizzaria).\n\nFontes: Calculadora de Taxas e Portal Tela.\n\nSalva pra consultar depois e manda pro seu sócio.\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
+ },
+ {
+  "id": "D08-13h00-reel",
+  "quando": "2026-10-12T13:00:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D08-13h00-reel/reel.mp4"
+  ],
+  "capa": "midia/D08-13h00-reel/capa.jpg",
+  "legenda": "Hoje é Dia das Crianças e feriado. 3 promoções que não queimam margem: broto doce de presente, criança não paga (com regra clara) e combo família.\n\nSalva pra consultar depois e manda pro seu sócio.\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D08-seg-12out/07h00-dica-dia-das-criancas"
  },
  {
   "id": "D08-13h30-story",
@@ -1867,6 +2059,18 @@
   "legenda": "(story de venda, sem legenda)"
  },
  {
+  "id": "D08-21h30-reel",
+  "quando": "2026-10-12T21:30:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D08-21h30-reel/reel.mp4"
+  ],
+  "capa": "midia/D08-21h30-reel/capa.jpg",
+  "legenda": "5 fatos de pizza:\n\n1. 1910: a Santa Genoveva, no Brás, já vendia meio a meio\n2. 1924: a Castelões é a mais antiga ainda aberta\n3. Catupiry nasceu em 1911 em Lambari (MG) e quer dizer \"excelente\" em tupi\n4. O Dia da Pizza nasceu em 1985 em SP\n5. 195 pizzas por minuto no iFood em 2026\n\nFontes: Wikipedia, Gazeta SP, CNN Brasil, Mercado & Consumo.\n\nMarca aqui quem tem pizzaria e precisa ver isso 👇\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D08-seg-12out/16h00-topo-curiosidades"
+ },
+ {
   "id": "D08-22h00",
   "quando": "2026-10-12T22:00:00-03:00",
   "etapa": "fundo",
@@ -1950,6 +2154,18 @@
    "midia/D09-12h30/7.jpg"
   ],
   "legenda": "Story é a vitrine do dia. Os 5 erros que mais vemos:\n\n1. Foto bonita sem preço\n2. Story só no fim de semana\n3. Sem WhatsApp ou link pra pedir\n4. Letra pequena\n5. Sem horário de funcionamento\n\nQual deles você já cometeu? Conta aqui 👇\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #marketingparapizzaria #delivery"
+ },
+ {
+  "id": "D09-13h00-reel",
+  "quando": "2026-10-13T13:00:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D09-13h00-reel/reel.mp4"
+  ],
+  "capa": "midia/D09-13h00-reel/capa.jpg",
+  "legenda": "Em 2024 o iFood teve 20 milhões de pedidos de pizza de madrugada e 330 mil no café da manhã. Vale testar um horário estendido um dia por semana e medir.\n\nFonte: InfoMoney, 10/07/2025.\n\nSalva pra consultar depois e manda pro seu sócio.\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D09-ter-13out/07h00-dica-madrugada"
  },
  {
   "id": "D09-13h30-story",
@@ -2046,6 +2262,18 @@
   "legenda": "(story de venda, sem legenda)"
  },
  {
+  "id": "D09-21h30-reel",
+  "quando": "2026-10-13T21:30:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D09-21h30-reel/reel.mp4"
+  ],
+  "capa": "midia/D09-21h30-reel/capa.jpg",
+  "legenda": "De janeiro a maio de 2026 abriram 1.990 pizzarias no Brasil, 6,1% a mais que no mesmo período de 2025 (Apubra). Dá uns 13 por dia.\n\nO cliente não prova antes de escolher. Ele escolhe pelo que vê. Perfil parado parece pizzaria fechada.\n\nFonte: Apubra, via Forbes e GiroNews.\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D09-ter-13out/19h-extra"
+ },
+ {
   "id": "D09-22h00",
   "quando": "2026-10-13T22:00:00-03:00",
   "etapa": "fundo",
@@ -2129,6 +2357,18 @@
    "midia/D10-12h30/6.jpg"
   ],
   "legenda": "Os apps de delivery rebaixam na busca o restaurante que recusa, atrasa ou cancela pedido: a loja aparece pra menos gente e o volume cai (Super Rádio Tupi, tupi.fm).\n\n1. Aceita na hora, com uma pessoa responsável no pico\n2. Cozinha lotada? Aumenta o tempo de preparo ou pausa a loja\n3. Item em falta sai do cardápio antes de alguém pedir\n4. Antes de cancelar, liga e combina com o cliente\n\nSalva pra consultar depois e manda pro seu sócio.\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
+ },
+ {
+  "id": "D10-13h00-reel",
+  "quando": "2026-10-14T13:00:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D10-13h00-reel/reel.mp4"
+  ],
+  "capa": "midia/D10-13h00-reel/capa.jpg",
+  "legenda": "Quanto queijo vai na sua pizza grande?\n\nA referência de mercado pra pizza de 35 cm fica entre 250 g e 300 g de muçarela (Black Pilado, 03/2026). O problema é a mão pesada: 50 g a mais por pizza, em 1.000 pizzas no mês, são 50 kg de queijo. Com a muçarela a cerca de R$ 35 o quilo (Cileite/Embrapa, via O Presente Rural, 24/06/2026), dá uns R$ 1.750 por mês.\n\n1. Balança na bancada até virar hábito\n2. Pote medidor marcado com o peso certo\n3. Confere 1 vez por semana\n\nSalva pra consultar depois e manda pro seu sócio.\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D10-qua-14out/07h00-dica-porcionamento-queijo"
  },
  {
   "id": "D10-13h30-story",
@@ -2231,6 +2471,18 @@
   "legenda": "(story de venda, sem legenda)"
  },
  {
+  "id": "D10-21h30-reel",
+  "quando": "2026-10-14T21:30:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D10-21h30-reel/reel.mp4"
+  ],
+  "capa": "midia/D10-21h30-reel/capa.jpg",
+  "legenda": "A Patroni nasceu em 1984 por um motivo que não tem nada a ver com plano de negócio: Rubens Augusto Jr. queria dar uma atividade pro pai, que tinha sido demitido, entrou em depressão e sofreu um infarto.\n\nEle juntou as economias, chamou os cunhados de sócios e começou a entregar pizza em casa, quando quase ninguém fazia isso. A rede projetava 285 lojas pra 2023.\n\nFonte: Portal do Franchising.\n\nMarca aqui quem tem pizzaria e precisa ver isso 👇\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D10-qua-14out/16h00-topo-historia-patroni"
+ },
+ {
   "id": "D10-22h00",
   "quando": "2026-10-14T22:00:00-03:00",
   "etapa": "fundo",
@@ -2315,6 +2567,18 @@
    "midia/D11-12h30/6.jpg"
   ],
   "legenda": "Dar desconto toda semana ensina o cliente a só pedir com desconto. Brinde é diferente: o preço da pizza continua o mesmo e o cliente sente que ganhou.\n\n1. Borda recheada grátis\n2. Broto doce grátis\n3. Refri grátis\n4. Frete grátis\n\nSalva pra usar no dia mais fraco.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #marketingparapizzaria #delivery"
+ },
+ {
+  "id": "D11-13h00-reel",
+  "quando": "2026-10-15T13:00:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D11-13h00-reel/reel.mp4"
+  ],
+  "capa": "midia/D11-13h00-reel/capa.jpg",
+  "legenda": "Combo que vende tem um item âncora: algo que parece valer muito pro cliente e custa pouco pra você.\n\n1. Borda recheada\n2. Broto doce\n3. Bebida (no texto do post, do jeito que você vende)\n\nE o preço do combo inteiro num número só. O cliente decide sem fazer conta.\n\nSalva pra consultar depois e manda pro seu sócio.\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D11-qui-15out/07h00-dica-combo-item-ancora"
  },
  {
   "id": "D11-13h30-story",
@@ -2414,6 +2678,18 @@
   "legenda": "(story de venda, sem legenda)"
  },
  {
+  "id": "D11-21h30-reel",
+  "quando": "2026-10-15T21:30:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D11-21h30-reel/reel.mp4"
+  ],
+  "capa": "midia/D11-21h30-reel/capa.jpg",
+  "legenda": "Em 1958, os irmãos Dan e Frank Carney, estudantes no Kansas (EUA), pegaram US$ 600 emprestados com a mãe pra abrir uma pizzaria. O nome? A placa só tinha espaço pra 8 letras. Pizza Hut tem 8.\n\nDe onde veio o nome da sua pizzaria? Conta aqui 👇\n\nFonte: Wikipedia, verbete Pizza Hut.\n\nMarca aqui quem tem pizzaria e precisa ver isso 👇\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D11-qui-15out/16h00-topo-historia-pizza-hut"
+ },
+ {
   "id": "D11-22h00",
   "quando": "2026-10-15T22:00:00-03:00",
   "etapa": "fundo",
@@ -2497,6 +2773,18 @@
    "midia/D12-12h30/5.jpg"
   ],
   "legenda": "Atrasou? Avisa. Um restaurante parceiro do iFood viu o cancelamento cair de 2% pra 0,6% depois de treinar a equipe pra conversar com o cliente pelo chat (Mercado & Consumo, 10/06/2024).\n\n1. Avisa antes de o cliente perguntar\n2. Dá o tempo real\n3. Oferece um mimo pro próximo pedido\n\nSalva pra consultar depois e manda pro seu sócio.\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
+ },
+ {
+  "id": "D12-13h00-reel",
+  "quando": "2026-10-16T13:00:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D12-13h00-reel/reel.mp4"
+  ],
+  "capa": "midia/D12-13h00-reel/capa.jpg",
+  "legenda": "A que horas sai pizza (Sistema Pizzaria, dados de 2025):\n\n18h: 8%\n19h: 19%\n20h a 21h: 27%\n21h: 23%\n22h: 12%\n\nO que fazer com isso:\n1. Post e story antes das 18h\n2. Equipe completa às 20h\n3. Bancada pronta às 19h\n\nFonte: Portal Tela, 30/04/2026.\n\nSalva pra consultar depois e manda pro seu sócio.\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D12-sex-16out/07h00-dica-pedidos-por-horario"
  },
  {
   "id": "D12-13h30-story",
@@ -2596,6 +2884,18 @@
   "legenda": "(story de venda, sem legenda)"
  },
  {
+  "id": "D12-21h30-reel",
+  "quando": "2026-10-16T21:30:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D12-21h30-reel/reel.mp4"
+  ],
+  "capa": "midia/D12-21h30-reel/capa.jpg",
+  "legenda": "Top 10 do aiqfome em 2025, o app forte no interior:\n\n1. Calabresa\n2. Frango com catupiry\n3. Portuguesa\n4. 4 queijos\n5. Marguerita\n6. Bacon\n7. Muçarela\n8. Frango\n9. Sensação\n10. Strogonoff\n\nTicket médio: R$ 86,90.\n\nQual mais sai na sua cidade? 👇\n\nFonte: GiroNews, 06/07/2026.\n\nMarca aqui quem tem pizzaria e precisa ver isso 👇\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D12-sex-16out/16h00-topo-ranking-interior"
+ },
+ {
   "id": "D12-22h00",
   "quando": "2026-10-16T22:00:00-03:00",
   "etapa": "fundo",
@@ -2679,6 +2979,18 @@
    "midia/D13-12h30/6.jpg"
   ],
   "legenda": "Reforma tributária pra pizzaria, sem juridiquês:\n\n• Bares e restaurantes têm regime específico: 60% da alíquota de IBS e CBS (redução de 40%)\n• A redução não vale pra bebida alcoólica nem pra produto revendido pronto\n• Separe no sistema o que é produção e o que é revenda\n\nIsso não é consultoria: confirme com o seu contador.\n\nFonte: Fenacon, sobre a Lei Complementar 214/2025.\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
+ },
+ {
+  "id": "D13-13h00-reel",
+  "quando": "2026-10-17T13:00:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D13-13h00-reel/reel.mp4"
+  ],
+  "capa": "midia/D13-13h00-reel/capa.jpg",
+  "legenda": "Cartão fidelidade \"a 10ª é grátis\" vale a pena? Faz a conta: 1 pizza de graça a cada 11 entregues é cerca de 9% de desconto, e só pra quem já voltou 10 vezes.\n\n1. Carimbo na caixa ou print no WhatsApp\n2. Regra clara no cartão\n3. Carimbo em dobro no dia fraco\n\nSalva pra consultar depois e manda pro seu sócio.\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D13-sab-17out/07h00-dica-cartao-fidelidade"
  },
  {
   "id": "D13-13h30-story",
@@ -2778,6 +3090,18 @@
   "legenda": "(story de venda, sem legenda)"
  },
  {
+  "id": "D13-21h30-reel",
+  "quando": "2026-10-17T21:30:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D13-21h30-reel/reel.mp4"
+  ],
+  "capa": "midia/D13-21h30-reel/capa.jpg",
+  "legenda": "A Super Pizza Pan começou na garagem da casa de um casal em Guarulhos. Quando chegava pedido de um sabor sem ingrediente, eles corriam no mercado e entregavam mesmo assim.\n\nO foco num nicho só, a pizza pan, virou uma rede de 20 unidades e R$ 30 milhões de faturamento.\n\nFonte: Portal do Franchising, 27/09/2023.\n\nMarca aqui quem tem pizzaria e precisa ver isso 👇\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D13-sab-17out/16h00-topo-historia-super-pizza-pan"
+ },
+ {
   "id": "D13-22h00",
   "quando": "2026-10-17T22:00:00-03:00",
   "etapa": "fundo",
@@ -2860,6 +3184,18 @@
    "midia/D14-12h30/5.jpg"
   ],
   "legenda": "Preço âncora no cardápio: uma pizza premium no topo faz a grande parecer justa. E o cliente tende a fugir dos extremos, então a melhor margem vai no tamanho do meio.\n\n1. Âncora no topo\n2. Margem no tamanho do meio\n3. Preço limpo e foto que dá fome\n\nSalva pra consultar depois e manda pro seu sócio.\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
+ },
+ {
+  "id": "D14-13h00-reel",
+  "quando": "2026-10-18T13:00:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D14-13h00-reel/reel.mp4"
+  ],
+  "capa": "midia/D14-13h00-reel/capa.jpg",
+  "legenda": "Fiscal chegou, parte 2: o que a RDC 216 da Anvisa pede além da temperatura.\n\n1. Produto aberto ou fracionado com etiqueta: nome, data e nova validade\n2. Manipulador com unha curta sem esmalte, cabelo preso e protegido, sem adorno\n3. Geladeira organizada pela validade\n4. Lixeira com tampa sem contato manual\n\nFonte: Anvisa, RDC 216/2004. Confirme as regras da Vigilância do seu município.\n\nSalva pra consultar depois e manda pro seu sócio.\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D14-dom-18out/07h00-dica-fiscal-etiquetas"
  },
  {
   "id": "D14-13h30-story",
@@ -2959,6 +3295,18 @@
   "legenda": "(story de venda, sem legenda)"
  },
  {
+  "id": "D14-21h30-reel",
+  "quando": "2026-10-18T21:30:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D14-21h30-reel/reel.mp4"
+  ],
+  "capa": "midia/D14-21h30-reel/capa.jpg",
+  "legenda": "André Guidon trabalhava num estúdio de gravação antes de abrir a Leggera, em 2013, em Perdizes (SP). Em 2014 veio a certificação da AVPN, a associação de Nápoles que define a pizza napolitana verdadeira.\n\nEm 2026, a Leggera foi eleita a melhor pizzaria da América Latina no 50 Top Pizza pelo 3º ano e ficou em 6º no mundo.\n\nFontes: GiroNews (16/09/2026) e Reporter Gourmet.\n\nMarca aqui quem tem pizzaria e precisa ver isso 👇\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D14-dom-18out/16h00-topo-historia-leggera"
+ },
+ {
   "id": "D14-22h00",
   "quando": "2026-10-18T22:00:00-03:00",
   "etapa": "fundo",
@@ -3039,6 +3387,18 @@
    "midia/D15-12h30/3.jpg"
   ],
   "legenda": "Exercício de 2 minutos: quanto custa o queijo da sua pizza grande?\n\nGramas de queijo × preço do kg ÷ 1.000.\n\nTira print do slide 2, preenche e me marca no story. Prometo não contar pra ninguém o seu número 😅\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
+ },
+ {
+  "id": "D15-13h00-reel",
+  "quando": "2026-10-19T13:00:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D15-13h00-reel/reel.mp4"
+  ],
+  "capa": "midia/D15-13h00-reel/capa.jpg",
+  "legenda": "Vendeu no app hoje, mas quando o dinheiro cai? Fluxo de caixa de pizzaria se faz pela data do repasse, não pela data da venda.\n\n1. Confere no portal a data de cada repasse\n2. Planeja os pagamentos pelo dia em que o dinheiro entra\n3. Anota o valor líquido (com comissão e taxa descontadas)\n4. Negocia o boleto do fornecedor pra vencer depois do repasse\n\nSalva pra consultar depois e manda pro seu sócio.\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D15-seg-19out/07h00-dica-fluxo-de-caixa-repasse"
  },
  {
   "id": "D15-13h30-story",
@@ -3140,6 +3500,18 @@
   "legenda": "(story de venda, sem legenda)"
  },
  {
+  "id": "D15-21h30-reel",
+  "quando": "2026-10-19T21:30:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D15-21h30-reel/reel.mp4"
+  ],
+  "capa": "midia/D15-21h30-reel/capa.jpg",
+  "legenda": "Em 1997 a Little Caesars começou a anunciar a Hot-N-Ready: pizza grande de pepperoni, pronta, por US$ 5. Sem encomendar, sem esperar. O preço só subiu em 2022, pra US$ 5,55, o primeiro aumento em quase 25 anos.\n\nOferta simples que todo mundo entende vende sozinha.\n\nFontes: Wikipedia (Little Caesars) e Fox News (2022).\n\nMarca aqui quem tem pizzaria e precisa ver isso 👇\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D15-seg-19out/16h00-topo-historia-little-caesars"
+ },
+ {
   "id": "D15-22h00",
   "quando": "2026-10-19T22:00:00-03:00",
   "etapa": "fundo",
@@ -3222,6 +3594,18 @@
    "midia/D16-12h30/5.jpg"
   ],
   "legenda": "Chuva é o melhor dia do delivery. Ninguém quer sair de casa.\n\n1. Choveu? A gente leva (posta no primeiro pingo)\n2. Chuva não segura a gente (mostra que você entrega)\n3. Tá chovendo: frete grátis (vale só enquanto chover)\n\nDeixa salvo e posta assim que o tempo fechar.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #marketingparapizzaria #delivery"
+ },
+ {
+  "id": "D16-13h00-reel",
+  "quando": "2026-10-20T13:00:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D16-13h00-reel/reel.mp4"
+  ],
+  "capa": "midia/D16-13h00-reel/capa.jpg",
+  "legenda": "O pedido das 20h se ganha às 17h. Bancada pronta antes do pico:\n\n1. Molho, queijo e recheios em potes, na ordem da montagem\n2. Porção pesada antes (potinho com a quantidade da ficha)\n3. Massa separada pela média daquele dia da semana\n4. Caixas dobradas, sachês e comanda à mão\n\nO pico é das 20h às 21h: 27% dos pedidos de pizza saem nessa hora (Sistema Pizzaria, via Portal Tela, 30/04/2026).\n\nSalva pra consultar depois e manda pro seu sócio.\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D16-ter-20out/07h00-dica-bancada-antes-do-pico"
  },
  {
   "id": "D16-13h30-story",
@@ -3321,6 +3705,18 @@
   "legenda": "(story de venda, sem legenda)"
  },
  {
+  "id": "D16-21h30-reel",
+  "quando": "2026-10-20T21:30:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D16-21h30-reel/reel.mp4"
+  ],
+  "capa": "midia/D16-21h30-reel/capa.jpg",
+  "legenda": "Em 2011, Fellipe Zanuto assumiu o ponto que era do padrasto, na Mooca, e apostou na pizza napolitana, um estilo que quase ninguém fazia em São Paulo, justo no bairro símbolo da pizza paulistana.\n\nEstudou gastronomia, passou pelo Le Cordon Bleu e trabalhou a massa até ficar mais hidratada e fermentada. Hoje A Pizza da Mooca tem 3 casas e é a 41ª melhor pizzaria do mundo no 50 Top Pizza 2026.\n\nFontes: Forbes Brasil (04/2025) e GiroNews (16/09/2026).\n\nMarca aqui quem tem pizzaria e precisa ver isso 👇\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D16-ter-20out/16h00-topo-historia-pizza-da-mooca"
+ },
+ {
   "id": "D16-22h00",
   "quando": "2026-10-20T22:00:00-03:00",
   "etapa": "fundo",
@@ -3401,6 +3797,18 @@
    "midia/D17-12h30/3.jpg"
   ],
   "legenda": "Salva o calendário da pizzaria até o fim do ano:\n\n25/10 2º turno das eleições\n31/10 Halloween\n02/11 Finados\n20/11 Consciência Negra (feriado nacional, cai numa sexta)\n27/11 Black Friday\n28/11 Final da Libertadores\n30/11 Prazo da 1ª parcela do 13º\n24 e 25/12 Natal\n31/12 Réveillon\n\nQual dessas mais vende aí?\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
+ },
+ {
+  "id": "D17-13h00-reel",
+  "quando": "2026-10-21T13:00:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D17-13h00-reel/reel.mp4"
+  ],
+  "capa": "midia/D17-13h00-reel/capa.jpg",
+  "legenda": "Fermentação longa não é só sabor, é gestão: a massa é feita na véspera, no horário calmo, e o dia do pico começa com a produção pronta.\n\n1. Boleia na tarde anterior\n2. Calcula as bolinhas pela média daquele dia da semana\n3. Etiqueta data e hora em cada caixa e usa a mais antiga primeiro\n4. Conta no post: 24, 48 ou 72 horas de descanso é argumento de venda\n\nSalva pra consultar depois e manda pro seu sócio.\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D17-qua-21out/07h00-dica-massa-de-vespera"
  },
  {
   "id": "D17-13h30-story",
@@ -3503,6 +3911,18 @@
   "legenda": "(story de venda, sem legenda)"
  },
  {
+  "id": "D17-21h30-reel",
+  "quando": "2026-10-21T21:30:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D17-21h30-reel/reel.mp4"
+  ],
+  "capa": "midia/D17-21h30-reel/capa.jpg",
+  "legenda": "Os sócios da Soffio seguiam o pizzaiolo Dani Branca nas redes sociais. Chamaram pra uma consultoria, ele ajudou a comprar masseira e forno, e acabou convidado a ficar. A Soffio abriu em 2024 em São Paulo e Dani Branca ficou em 42º no The Best Pizza Awards 2026.\n\nO Instagram não traz só cliente.\n\nFonte: NeoFeed, 01/08/2026.\n\nMarca aqui quem tem pizzaria e precisa ver isso 👇\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D17-qua-21out/16h00-topo-historia-soffio"
+ },
+ {
   "id": "D17-22h00",
   "quando": "2026-10-21T22:00:00-03:00",
   "etapa": "fundo",
@@ -3586,6 +4006,18 @@
    "midia/D18-12h30/6.jpg"
   ],
   "legenda": "Fiscal chegou: o manipulador.\n\nPela RDC 216 da Anvisa (item 4.6.6), quem manipula alimento:\n\n• Tira todos os adornos (anel, aliança, relógio, pulseira, brinco) e a maquiagem\n• Usa cabelo preso e protegido por rede ou touca, sem barba\n• Mantém unhas curtas, sem esmalte ou base\n\nCola a regra na porta da cozinha e treina quem entra.\n\nFonte: Anvisa, RDC 216/2004.\n\nSalva pra consultar depois e manda pro seu sócio.\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
+ },
+ {
+  "id": "D18-13h00-reel",
+  "quando": "2026-10-22T13:00:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D18-13h00-reel/reel.mp4"
+  ],
+  "capa": "midia/D18-13h00-reel/capa.jpg",
+  "legenda": "Fiscal chegou: a etiqueta da geladeira.\n\nTodo alimento preparado guardado na geladeira ou no freezer precisa de, no mínimo: nome, data de preparo e prazo de validade (RDC 216/2004 da Anvisa, item 4.8.18). Matéria-prima também precisa estar identificada e dentro da validade (item 4.7.5).\n\nCalabresa fatiada, molho pronto, queijo ralado: saiu da embalagem original, ganha etiqueta.\n\nFonte: Anvisa, RDC 216/2004.\n\nSalva pra consultar depois e manda pro seu sócio.\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D18-qui-22out/07h00-dica-fiscal-etiqueta"
  },
  {
   "id": "D18-13h30-story",
@@ -3681,6 +4113,18 @@
   "legenda": "(story de venda, sem legenda)"
  },
  {
+  "id": "D18-21h30-reel",
+  "quando": "2026-10-22T21:30:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D18-21h30-reel/reel.mp4"
+  ],
+  "capa": "midia/D18-21h30-reel/capa.jpg",
+  "legenda": "Brasileiras no 50 Top Pizza World 2026:\n\n6º Leggera\n17º QT\n41º A Pizza da Mooca\n46º Unica\n70º Bento\n75º Veridiana\n\nE a Leggera é a 1ª da América Latina pelo 3º ano. Qual você já provou? 👇\n\nFonte: GiroNews, 16/09/2026.\n\nMarca aqui quem tem pizzaria e precisa ver isso 👇\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D18-qui-22out/16h00-topo-ranking-50-top-world"
+ },
+ {
   "id": "D18-22h00",
   "quando": "2026-10-22T22:00:00-03:00",
   "etapa": "fundo",
@@ -3762,6 +4206,18 @@
    "midia/D19-12h30/4.jpg"
   ],
   "legenda": "Taxa zero parece ótimo. Antes de entrar, pergunte:\n\n1. O que é cobrado além da comissão?\n2. Quem paga cupom e frete grátis?\n3. O que acontece depois dos 24 meses?\n4. Tem exclusividade ou multa pra sair?\n5. Quando o dinheiro cai na conta?\n\nVocê caiu na taxa zero? Conta como foi.\n\nFontes: Saipos e Olhar Digital (22/08/2025).\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
+ },
+ {
+  "id": "D19-13h00-reel",
+  "quando": "2026-10-23T13:00:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D19-13h00-reel/reel.mp4"
+  ],
+  "capa": "midia/D19-13h00-reel/capa.jpg",
+  "legenda": "O teto do MEI em 2026 continua R$ 81 mil por ano, uma média de R$ 6.750 por mês. E conta o faturamento, não o lucro: balcão, app, Pix e maquininha, tudo soma.\n\nPassou do teto em até 20%, o ajuste fica pro ano seguinte. Acima disso, a mudança é imediata. Amanhã tem post explicando a regra dos 20%.\n\nFontes: LC 123/2006 e Receita Federal (via Contmatic e TNH1, 2026). Confirma com o seu contador.\n\nSalva pra consultar depois e manda pro seu sócio.\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D19-sex-23out/07h00-dica-mei-81-mil"
  },
  {
   "id": "D19-13h30-story",
@@ -3863,6 +4319,18 @@
   "legenda": "(story de venda, sem legenda)"
  },
  {
+  "id": "D19-21h30-reel",
+  "quando": "2026-10-23T21:30:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D19-21h30-reel/reel.mp4"
+  ],
+  "capa": "midia/D19-21h30-reel/capa.jpg",
+  "legenda": "A Bráz nasceu em 1998 em Moema, do mesmo grupo de amigos do bar Original. Quase 30 anos depois, o grupo tem 52 casas, todas próprias, nenhuma franquia, e cresce com dinheiro próprio. Em 2025 abriu 4 casas, fechou 2 e chamou de o melhor ano da companhia.\n\nCrescer devagar também é estratégia.\n\nFonte: Mercado & Consumo, 02/09/2026.\n\nMarca aqui quem tem pizzaria e precisa ver isso 👇\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D19-sex-23out/16h00-topo-historia-braz"
+ },
+ {
   "id": "D19-22h00",
   "quando": "2026-10-23T22:00:00-03:00",
   "etapa": "fundo",
@@ -3946,6 +4414,18 @@
    "midia/D20-12h30/6.jpg"
   ],
   "legenda": "Novembro pra pizzaria:\n\n02/11 Finados (feriado)\n15/11 Proclamação da República (cai no domingo)\n20/11 Consciência Negra (feriado nacional)\n27/11 Black Friday\n\nDeixa os posts prontos agora e não corre no dia.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #marketingparapizzaria #delivery"
+ },
+ {
+  "id": "D20-13h00-reel",
+  "quando": "2026-10-24T13:00:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D20-13h00-reel/reel.mp4"
+  ],
+  "capa": "midia/D20-13h00-reel/capa.jpg",
+  "legenda": "Fiscal chegou: as temperaturas da RDC 216 da Anvisa.\n\n• Geladeira: abaixo de 5 °C pro alimento preparado\n• Freezer: -18 °C ou menos\n• Mantido quente: acima de 60 °C, por no máximo 6 horas\n• Resfriamento: de 60 °C a 10 °C em até 2 horas\n• Preparado a 4 °C ou menos: consumo em até 5 dias\n\nUm termômetro na geladeira e uma planilha na porta resolvem.\n\nFonte: Anvisa, RDC 216/2004 (itens 4.8.15 a 4.8.17).\n\nSalva pra consultar depois e manda pro seu sócio.\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D20-sab-24out/07h00-dica-fiscal-temperaturas"
  },
  {
   "id": "D20-13h30-story",
@@ -4043,6 +4523,18 @@
   "legenda": "(story de venda, sem legenda)"
  },
  {
+  "id": "D20-21h30-reel",
+  "quando": "2026-10-24T21:30:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D20-21h30-reel/reel.mp4"
+  ],
+  "capa": "midia/D20-21h30-reel/capa.jpg",
+  "legenda": "68% dos consumidores preferem pizza de massa fina, e 48% dos pedidos saem entre 18h e 22h (pesquisa VR).\n\nE na sua pizzaria, fina ou grossa? 👇\n\nFonte: Seu Dinheiro, jul/2026.\n\nMarca aqui quem tem pizzaria e precisa ver isso 👇\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D20-sab-24out/16h00-topo-dado-massa-fina"
+ },
+ {
   "id": "D20-22h00",
   "quando": "2026-10-24T22:00:00-03:00",
   "etapa": "fundo",
@@ -4123,6 +4615,18 @@
    "midia/D21-12h30/3.jpg"
   ],
   "legenda": "Massa de fermentação longa virou referência no mercado. Se a sua descansa 24, 48 ou 72 horas, conta isso no post.\n\nO cliente que entende o processo para de comparar só o preço.\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
+ },
+ {
+  "id": "D21-13h00-reel",
+  "quando": "2026-10-25T13:00:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D21-13h00-reel/reel.mp4"
+  ],
+  "capa": "midia/D21-13h00-reel/capa.jpg",
+  "legenda": "Hoje é 2º turno. Seja qual for o voto, a família vai estar em casa à noite, de olho na apuração e sem vontade de cozinhar.\n\n1. Separa massa acima da média do domingo\n2. Combo no story às 17h e de novo antes das 20h\n3. Motoboy de sobreaviso\n4. Post neutro: cliente de todo voto pede pizza\n\nE no iFood, 62% das pizzas já saem de sexta a domingo (InfoMoney, 10/07/2026).\n\nSalva pra consultar depois e manda pro seu sócio.\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D21-dom-25out/07h00-dica-noite-de-apuracao"
  },
  {
   "id": "D21-13h30-story",
@@ -4219,6 +4723,18 @@
   "legenda": "(story de venda, sem legenda)"
  },
  {
+  "id": "D21-21h30-reel",
+  "quando": "2026-10-25T21:30:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D21-21h30-reel/reel.mp4"
+  ],
+  "capa": "midia/D21-21h30-reel/capa.jpg",
+  "legenda": "A Domino's Brasil tem 220 lojas, faturou R$ 650 milhões em 2025 e cerca de 25% das vendas vêm do app próprio. Pra crescer com os juros altos, baixou o investimento mínimo da franquia de R$ 1 milhão pra R$ 300 mil.\n\nA lição pra pizzaria pequena: cada pedido que chega direto no seu WhatsApp é um pedido sem comissão.\n\nFonte: InvestNews, 05/06/2026.\n\nMarca aqui quem tem pizzaria e precisa ver isso 👇\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D21-dom-25out/16h00-topo-case-dominos-app"
+ },
+ {
   "id": "D21-22h00",
   "quando": "2026-10-25T22:00:00-03:00",
   "etapa": "fundo",
@@ -4303,6 +4819,18 @@
    "midia/D22-12h30/5.jpg"
   ],
   "legenda": "Número da semana: só 0,84% das pizzas vendidas em São Paulo custavam menos de R$ 30 (levantamento citado pelo Portal Tela, 19/09/2025).\n\nOu seja: quase ninguém vende pizza barata. Em vez de brigar por centavo, mostra o valor: ingrediente, tamanho, foto que dá fome e preço claro.\n\nSalva pra consultar depois e manda pro seu sócio.\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
+ },
+ {
+  "id": "D22-13h00-reel",
+  "quando": "2026-10-26T13:00:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D22-13h00-reel/reel.mp4"
+  ],
+  "capa": "midia/D22-13h00-reel/capa.jpg",
+  "legenda": "Faltam 32 dias pra Black Friday (sexta, 27/11). O plano em 4 etapas:\n\n1. A promoção (decide agora, com a conta da margem)\n2. O estoque (fala com o fornecedor antes)\n3. A equipe (escala e motoboy extra)\n4. Os posts (contagem regressiva + post do dia)\n\nNos próximos dias a gente detalha cada uma.\n\nSalva pra consultar depois e manda pro seu sócio.\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D22-seg-26out/07h00-dica-black-friday-plano"
  },
  {
   "id": "D22-13h30-story",
@@ -4405,6 +4933,18 @@
   "legenda": "(story de venda, sem legenda)"
  },
  {
+  "id": "D22-21h30-reel",
+  "quando": "2026-10-26T21:30:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D22-21h30-reel/reel.mp4"
+  ],
+  "capa": "midia/D22-21h30-reel/capa.jpg",
+  "legenda": "Os números da Apubra (via GiroNews, 02/07/2026):\n\n• 4.109 pizzarias abertas no Brasil em 2025\n• 40.332 ativas no fim de 2025 (+10,29%)\n• 1.990 abertas de janeiro a maio de 2026, cerca de 13 por dia\n• São Paulo concentra 28% das aberturas\n\nQuantas abriram no seu bairro esse ano? 👇\n\nMarca aqui quem tem pizzaria e precisa ver isso 👇\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D22-seg-26out/16h00-topo-pizzarias-abertas"
+ },
+ {
   "id": "D22-22h00",
   "quando": "2026-10-26T22:00:00-03:00",
   "etapa": "fundo",
@@ -4488,6 +5028,18 @@
    "midia/D23-12h30/6.jpg"
   ],
   "legenda": "Roteiro simples de story pra pizzaria:\n\nManhã: o sabor do dia\nTarde: a promoção de hoje\n18h: delivery aberto\nNo pico: peça pelo WhatsApp\n\nQuatro stories, um minuto cada. O cliente vê você o dia todo e lembra na hora da fome.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #marketingparapizzaria #delivery"
+ },
+ {
+  "id": "D23-13h00-reel",
+  "quando": "2026-10-27T13:00:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D23-13h00-reel/reel.mp4"
+  ],
+  "capa": "midia/D23-13h00-reel/capa.jpg",
+  "legenda": "O 13º salário colocou R$ 369,4 bilhões na economia em 2025, pra 95,3 milhões de pessoas (estimativa do DIEESE). A 1ª parcela sai até 30/11 e a 2ª até 20/12 (Lei 4.749/1965).\n\nCliente com dinheiro extra:\n1. Combo maior, num preço redondo\n2. Lista de encomenda de Natal aberta\n3. O sabor especial em destaque no post\n\nSalva pra consultar depois e manda pro seu sócio.\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D23-ter-27out/07h00-dica-13-salario"
  },
  {
   "id": "D23-13h30-story",
@@ -4587,6 +5139,18 @@
   "legenda": "(story de venda, sem legenda)"
  },
  {
+  "id": "D23-21h30-reel",
+  "quando": "2026-10-27T21:30:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D23-21h30-reel/reel.mp4"
+  ],
+  "capa": "midia/D23-21h30-reel/capa.jpg",
+  "legenda": "5 frases que todo dono de pizzaria já ouviu:\n\n1. \"Manda uma borda de brinde aí, sou cliente antigo\"\n2. \"Meio calabresa, meio frango e meio portuguesa\"\n3. \"Já saiu?\" (5 minutos depois)\n4. \"Tira a cebola, põe mais queijo, mesmo preço né?\"\n5. \"Tem promoção hoje?\"\n\nQual você mais escuta? 👇\n\nMarca aqui quem tem pizzaria e precisa ver isso 👇\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D23-ter-27out/16h00-topo-frases-que-todo-dono-ouve"
+ },
+ {
   "id": "D23-22h00",
   "quando": "2026-10-27T22:00:00-03:00",
   "etapa": "fundo",
@@ -4669,6 +5233,18 @@
    "midia/D24-12h30/5.jpg"
   ],
   "legenda": "Halloween (sábado, 31/10) sem exagero:\n\n1. Pizza múmia: tiras de muçarela e azeitonas de olho\n2. Aranha de azeitona em cima de qualquer sabor\n3. Doce ou travessura: broto doce de brinde com a palavra do dia\n\nCusta pouco, rende foto e as crianças pedem.\n\nSalva pra consultar depois e manda pro seu sócio.\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
+ },
+ {
+  "id": "D24-13h00-reel",
+  "quando": "2026-10-28T13:00:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D24-13h00-reel/reel.mp4"
+  ],
+  "capa": "midia/D24-13h00-reel/capa.jpg",
+  "legenda": "Black Friday, etapa 2: o estoque.\n\n1. Olha quanto saiu no último pico (queijo, massa, caixa)\n2. Combina com o fornecedor agora, não na véspera\n3. Conta embalagem: caixa acaba antes do queijo\n4. Promoção só nos sabores campeões\n\nFaltam 30 dias (27/11).\n\nSalva pra consultar depois e manda pro seu sócio.\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D24-qua-28out/07h00-dica-black-friday-estoque"
  },
  {
   "id": "D24-13h30-story",
@@ -4766,6 +5342,18 @@
   "legenda": "(story de venda, sem legenda)"
  },
  {
+  "id": "D24-21h30-reel",
+  "quando": "2026-10-28T21:30:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D24-21h30-reel/reel.mp4"
+  ],
+  "capa": "midia/D24-21h30-reel/capa.jpg",
+  "legenda": "Di Fara, Brooklyn, 1965: Domenico DeMarco fez pessoalmente cada pizza da casa por décadas. Virou lenda, com fila na porta e reconhecimento no país inteiro.\n\nO outro lado: tudo dependia de uma pessoa só. Ele morreu em 2022, aos 85 anos.\n\nA lição: talento atrai fila, processo deixa você descansar. Padroniza o que dá: ficha técnica, massa e até o post.\n\nFontes: Wikipedia (Domenico DeMarco) e NPR, 18/03/2022.\n\nMarca aqui quem tem pizzaria e precisa ver isso 👇\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D24-qua-28out/16h00-topo-historia-di-fara"
+ },
+ {
   "id": "D24-22h00",
   "quando": "2026-10-28T22:00:00-03:00",
   "etapa": "fundo",
@@ -4848,6 +5436,18 @@
    "midia/D25-12h30/6.jpg"
   ],
   "legenda": "20/11 é o Dia Nacional de Zumbi e da Consciência Negra, feriado nacional desde a Lei 14.759/2023. Em 2026 cai numa sexta.\n\nPra pizzaria:\n1. São 3 dias de pico seguidos\n2. Estoque e massa de fim de semana longo\n3. Escala fechada com antecedência\n4. Horário avisado 2 dias antes, num tom simples\n\nE uma semana depois vem a Black Friday (27/11).\n\nSalva pra consultar depois e manda pro seu sócio.\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
+ },
+ {
+  "id": "D25-13h00-reel",
+  "quando": "2026-10-29T13:00:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D25-13h00-reel/reel.mp4"
+  ],
+  "capa": "midia/D25-13h00-reel/capa.jpg",
+  "legenda": "Black Friday é dia 27/11. Três ideias que não queimam margem:\n\n1. Pizza em dobro só na grande, só no dia\n2. Combo do dia com preço redondo\n3. Promoção relâmpago das 18h às 19h, antes do pico\n\nSalva e decide até a semana que vem.\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D25-qui-29out/19h-extra"
  },
  {
   "id": "D25-13h30-story",
@@ -4948,6 +5548,18 @@
   "legenda": "(story de venda, sem legenda)"
  },
  {
+  "id": "D25-21h30-reel",
+  "quando": "2026-10-29T21:30:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D25-21h30-reel/reel.mp4"
+  ],
+  "capa": "midia/D25-21h30-reel/capa.jpg",
+  "legenda": "O que as grandes redes fazem que dá pra copiar:\n\n1. Canal direto: na Domino's Brasil, 25% das vendas vêm do app próprio (InvestNews, 05/06/2026). Você não precisa de app: WhatsApp, link na bio e cupom de pedido direto.\n2. Foco: a Super Pizza Pan começou numa garagem em Guarulhos, só com pizza pan, e chegou a 20 unidades (Portal do Franchising, 27/09/2023).\n3. Mesma cara em tudo: post com a sua marca, todo dia.\n\nQual dos 3 você já faz? 👇\n\nMarca aqui quem tem pizzaria e precisa ver isso 👇\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D25-qui-29out/16h00-topo-o-que-as-redes-fazem"
+ },
+ {
   "id": "D25-22h00",
   "quando": "2026-10-29T22:00:00-03:00",
   "etapa": "fundo",
@@ -5031,6 +5643,18 @@
    "midia/D26-12h30/5.jpg"
   ],
   "legenda": "Número da semana: só 42% dos bares e restaurantes tiveram lucro em julho de 2026, e 20% tiveram prejuízo (Abrasel, via ABC do ABC, 25/09/2026).\n\n3 contas pra fazer hoje:\n1. Faturar não é lucrar\n2. Preço do app com a comissão do app dentro\n3. Custo fixo dividido pelos dias abertos\n\nSalva pra consultar depois e manda pro seu sócio.\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
+ },
+ {
+  "id": "D26-13h00-reel",
+  "quando": "2026-10-30T13:00:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D26-13h00-reel/reel.mp4"
+  ],
+  "capa": "midia/D26-13h00-reel/capa.jpg",
+  "legenda": "Black Friday, etapa 3: a equipe.\n\n1. Escala do dia: ninguém de folga na sexta 27/11\n2. Motoboy extra combinado com antecedência\n3. Bancada pronta antes das 18h\n4. Uma pessoa só no atendimento, com resposta pronta pro tempo de entrega\n\nFaltam 28 dias.\n\nSalva pra consultar depois e manda pro seu sócio.\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D26-sex-30out/07h00-dica-black-friday-equipe"
  },
  {
   "id": "D26-13h30-story",
@@ -5132,6 +5756,18 @@
   "legenda": "(story de venda, sem legenda)"
  },
  {
+  "id": "D26-21h30-reel",
+  "quando": "2026-10-30T21:30:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D26-21h30-reel/reel.mp4"
+  ],
+  "capa": "midia/D26-21h30-reel/capa.jpg",
+  "legenda": "Os números do Sebrae-SP sobre pizzaria no Brasil:\n\n• R$ 24,4 bilhões de faturamento em 2024\n• R$ 8,8 bilhões vieram de operações enxutas, ligadas às plataformas digitais\n• Pizzarias independentes passaram de 27 mil (2021) para 33,6 mil (2024), e 73% operam só com delivery ou retirada\n\nA sua é de salão, de delivery ou dos dois? 👇\n\nFonte: Sebrae-SP, via Acionista (acionista.com.br).\n\nMarca aqui quem tem pizzaria e precisa ver isso 👇\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D26-sex-30out/16h00-topo-mercado-pizza"
+ },
+ {
   "id": "D26-22h00",
   "quando": "2026-10-30T22:00:00-03:00",
   "etapa": "fundo",
@@ -5212,6 +5848,18 @@
    "midia/D27-12h30/6.jpg"
   ],
   "legenda": "A final da Libertadores é no sábado, 28/11, em jogo único no Centenário, em Montevidéu (Conmebol, via Rádio Tupi). Um dia depois da Black Friday.\n\n1. Combo do jogo num preço redondo\n2. Pedido agendado pra chegar antes do apito (confere o horário oficial)\n3. Story \"pede no intervalo\"\n4. Estoque e equipe pros 2 dias\n\nSalva pra consultar depois e manda pro seu sócio.\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
+ },
+ {
+  "id": "D27-13h00-reel",
+  "quando": "2026-10-31T13:00:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D27-13h00-reel/reel.mp4"
+  ],
+  "capa": "midia/D27-13h00-reel/capa.jpg",
+  "legenda": "Número da semana: 62% dos pedidos de pizza no iFood entram de sexta a domingo, e só o sábado passa de 21% (iFood, 1º semestre de 2026, via InfoMoney, 10/07/2026).\n\n1. Post às 17h, story às 19h\n2. Estoque do fim de semana chega na quinta\n3. Dia fraco pede promoção; fim de semana pede foto e horário\n\nSalva pra consultar depois e manda pro seu sócio.\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D27-sab-31out/07h00-dica-numero-semana-fim-de-semana"
  },
  {
   "id": "D27-13h30-story",
@@ -5309,6 +5957,18 @@
   "legenda": "(story de venda, sem legenda)"
  },
  {
+  "id": "D27-21h30-reel",
+  "quando": "2026-10-31T21:30:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D27-21h30-reel/reel.mp4"
+  ],
+  "capa": "midia/D27-21h30-reel/capa.jpg",
+  "legenda": "5 pedidos que dão medo em qualquer pizzaria 👻\n\n1. \"Meio calabresa, meio frango e meio portuguesa\"\n2. \"Perto da padaria, casa do portão azul\"\n3. \"Capricha no queijo, mas sem cobrar a mais\"\n4. Cancelou com o motoboy na porta\n5. \"Ainda dá tempo?\" às 23h59\n\nQual assusta mais aí? 👇\n\nMarca aqui quem tem pizzaria e precisa ver isso 👇\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D27-sab-31out/16h00-topo-pedidos-que-dao-medo"
+ },
+ {
   "id": "D27-22h00",
   "quando": "2026-10-31T22:00:00-03:00",
   "etapa": "fundo",
@@ -5391,6 +6051,18 @@
    "midia/D28-12h30/5.jpg"
   ],
   "legenda": "Número da semana: 98% das pizzarias vendem pizza grande, e o ticket médio da convencional era R$ 64 (pesquisa Apubra e Galunion, 2024).\n\n1. Foto e preço da grande no post\n2. Borda oferecida no post do sabor\n3. Combo de grandes pro domingo\n\nSalva pra consultar depois e manda pro seu sócio.\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
+ },
+ {
+  "id": "D28-13h00-reel",
+  "quando": "2026-11-01T13:00:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D28-13h00-reel/reel.mp4"
+  ],
+  "capa": "midia/D28-13h00-reel/capa.jpg",
+  "legenda": "Black Friday, etapa 4: o combo do dia.\n\n1. Um combo só, fácil de entender\n2. Preço redondo, sem asterisco\n3. Custo na ficha antes de postar\n4. Válido só no dia (27/11)\n\nFaltam 26 dias.\n\nSalva pra consultar depois e manda pro seu sócio.\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D28-dom-01nov/07h00-dica-black-friday-combo"
  },
  {
   "id": "D28-13h30-story",
@@ -5491,6 +6163,18 @@
   "legenda": "(story de venda, sem legenda)"
  },
  {
+  "id": "D28-21h30-reel",
+  "quando": "2026-11-01T21:30:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D28-21h30-reel/reel.mp4"
+  ],
+  "capa": "midia/D28-21h30-reel/capa.jpg",
+  "legenda": "Mito ou verdade?\n\n1. Meio a meio é exceção: MITO. 80% das pizzas pedidas no iFood são meio a meio ou personalizadas\n2. Pizza é jantar: VERDADE. 95% dos pedidos acontecem no jantar\n3. Pizza doce é nicho: MITO. 73% das pizzarias têm pizza doce, e chocolate entrou no top 5 do iFood em 2025\n\nFontes: iFood 1º sem 2026 (InfoMoney e Mercado & Consumo, 10/07/2026); Apubra e Galunion 2024; ranking iFood 2025.\n\nQual você achava que era o contrário? 👇\n\nMarca aqui quem tem pizzaria e precisa ver isso 👇\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D28-dom-01nov/16h00-topo-mito-ou-verdade"
+ },
+ {
   "id": "D28-22h00",
   "quando": "2026-11-01T22:00:00-03:00",
   "etapa": "fundo",
@@ -5574,6 +6258,18 @@
    "midia/D29-12h30/6.jpg"
   ],
   "legenda": "Outubro fechou. 4 números pra anotar hoje e comparar com setembro:\n\n1. Faturamento (por canal)\n2. Número de pedidos\n3. Ticket médio (faturamento ÷ pedidos)\n4. Melhor e pior dia da semana\n\nO dia mais fraco é onde entra a promoção de novembro.\n\nSalva pra consultar depois e manda pro seu sócio.\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery"
+ },
+ {
+  "id": "D29-13h00-reel",
+  "quando": "2026-11-02T13:00:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D29-13h00-reel/reel.mp4"
+  ],
+  "capa": "midia/D29-13h00-reel/capa.jpg",
+  "legenda": "Escala de fim de ano: 78% das pizzarias relatam dificuldade de contratar (pesquisa Apubra e Galunion, 2024). Quem deixa pra dezembro fica sem gente.\n\n1. Folgas de 24, 25, 31 e 1º decididas agora\n2. Motoboy combinado pros picos\n3. Temporário chamado em novembro\n4. Escala à vista, no grupo e na cozinha\n\nSalva pra consultar depois e manda pro seu sócio.\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D29-seg-02nov/07h00-dica-escala-fim-de-ano"
  },
  {
   "id": "D29-13h30-story",
@@ -5669,6 +6365,18 @@
   "legenda": "(story de venda, sem legenda)"
  },
  {
+  "id": "D29-21h30-reel",
+  "quando": "2026-11-02T21:30:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D29-21h30-reel/reel.mp4"
+  ],
+  "capa": "midia/D29-21h30-reel/capa.jpg",
+  "legenda": "Por que o perfil da rede parece mais confiável que o da pizzaria do bairro? Padrão: toda arte com a mesma cara, preço claro e foto boa.\n\nDá pra ter isso sem agência.\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D29-seg-02nov/19h-extra"
+ },
+ {
   "id": "D29-22h00",
   "quando": "2026-11-02T22:00:00-03:00",
   "etapa": "fundo",
@@ -5749,6 +6457,18 @@
    "midia/D30-12h30/3.jpg"
   ],
   "legenda": "Salva e confere antes de postar:\n\n☐ Foto que dá fome\n☐ Preço grande\n☐ Dia ou prazo da promoção\n☐ WhatsApp ou link pra pedir\n☐ A sua logo e o seu @\n☐ Story todo dia, não só no sábado\n\nMarcou tudo? Pode postar.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #marketingparapizzaria #delivery"
+ },
+ {
+  "id": "D30-13h00-reel",
+  "quando": "2026-11-03T13:00:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D30-13h00-reel/reel.mp4"
+  ],
+  "capa": "midia/D30-13h00-reel/capa.jpg",
+  "legenda": "Black Friday, etapa 5: a contagem regressiva.\n\n1. 7 dias antes: story \"faltam X\" todo dia\n2. 3 dias antes: o post da promoção\n3. Véspera: lembrete no story e no status\n4. No dia: post às 17h e story até o pico\n\nFaltam 24 dias (27/11).\n\nSalva pra consultar depois e manda pro seu sócio.\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D30-ter-03nov/07h00-dica-black-friday-contagem"
  },
  {
   "id": "D30-13h30-story",
@@ -5845,6 +6565,18 @@
    "midia/D30-21h00-story/21h00-oferta-sem-mensalidade.jpg"
   ],
   "legenda": "(story de venda, sem legenda)"
+ },
+ {
+  "id": "D30-21h30-reel",
+  "quando": "2026-11-03T21:30:00-03:00",
+  "etapa": "topo",
+  "tipo": "reel",
+  "arquivos": [
+   "midia/D30-21h30-reel/reel.mp4"
+  ],
+  "capa": "midia/D30-21h30-reel/capa.jpg",
+  "legenda": "6 pizzarias brasileiras no 50 Top Pizza World 2026: Leggera (6º), QT Pizza Bar (17º), A Pizza da Mooca (41º), Unica (46º), Bento (70º) e Veridiana (75º).\n\nFonte: GiroNews, 16/09/2026.\n\nQual pizzaria do Brasil você colocaria nessa lista? 👇\n\nMarca aqui quem tem pizzaria e precisa ver isso 👇\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
+  "origem": "03-calendario-30-dias/D30-ter-03nov/16h00-topo-brasileiras-no-mundo"
  },
  {
   "id": "D30-22h00",
