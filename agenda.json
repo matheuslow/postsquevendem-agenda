@@ -129,10 +129,11 @@
    "midia/D00-09h00/3.jpg"
   ],
   "legenda": "Ideia de post pra hoje (domingo): \"É dia de pizza em família\", porque domingo é dia de mesa cheia.\n\nPost e story já prontos no app, com a sua marca.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
-  "tentativas": 3,
+  "tentativas": 4,
   "container_em": "2026-10-04T12:31:52.328Z",
-  "erro_ig": "container antigo sem confirmação, pausei pra não duplicar",
-  "fb": "pular"
+  "erro_ig": "3 tentativas sem sucesso, pausei pra não duplicar",
+  "fb": "pular",
+  "pausado": true
  },
  {
   "id": "D00-10h30-story",
