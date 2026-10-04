@@ -97,11 +97,9 @@
    "midia/D00-07h00/6.jpg"
   ],
   "legenda": "Postar mais faz o perfil crescer? A Buffer analisou 2,1 milhões de posts de 102 mil contas:\n\n• 10+ posts por semana: cerca de 24% mais alcance por post do que 1 ou 2 posts\n• Seguidores: +0,66% por semana com 10+ posts, contra +0,12% com 1 ou 2\n\nE mais:\n1. O Instagram (Adam Mosseri) diz que não penaliza quem posta várias vezes por dia, mas posts parecidos em sequência engajam menos\n2. O post que vai longe é o que a pessoa manda por DM (Social Media Today, 22/01/2025)\n\nFonte: Buffer, 13/08/2025 (buffer.com/resources/how-often-to-post-on-instagram); Mosseri via Kontentino, 07/2026.\n\nSalva pra consultar depois e manda pro seu sócio.\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
-  "tentativas": 4,
-  "container_em": "2026-10-04T10:32:39.046Z",
-  "erro_ig": "3 tentativas sem sucesso, pausei pra não duplicar",
   "fb": "pular",
-  "pausado": true
+  "pausado": false,
+  "ig": "confirmado"
  },
  {
   "id": "D00-08h00-story",
@@ -112,9 +110,7 @@
    "midia/D00-08h00-story/08h00-semana-amanha-segunda.jpg"
   ],
   "legenda": "(story de venda, sem legenda)",
-  "tentativas": 1,
   "container": "17931274230162872",
-  "container_em": "2026-10-04T11:01:33.816Z",
   "ig": "17862882018694014",
   "fb": "pular"
  },
@@ -129,11 +125,9 @@
    "midia/D00-09h00/3.jpg"
   ],
   "legenda": "Ideia de post pra hoje (domingo): \"É dia de pizza em família\", porque domingo é dia de mesa cheia.\n\nPost e story já prontos no app, com a sua marca.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
-  "tentativas": 4,
-  "container_em": "2026-10-04T12:31:52.328Z",
-  "erro_ig": "3 tentativas sem sucesso, pausei pra não duplicar",
   "fb": "pular",
-  "pausado": true
+  "pausado": false,
+  "ig": "confirmado"
  },
  {
   "id": "D00-10h30-story",
@@ -144,9 +138,7 @@
    "midia/D00-10h30-story/10h30-app-comeca-assim.jpg"
   ],
   "legenda": "(story de venda, sem legenda)",
-  "tentativas": 1,
   "container": "17931306264162872",
-  "container_em": "2026-10-04T13:31:45.281Z",
   "ig": "18115212875090243",
   "fb": "pular"
  },
@@ -160,9 +152,7 @@
   ],
   "capa": "midia/D00-11h00/capa.jpg",
   "legenda": "Domingo de dono de pizzaria: todo mundo de folga, menos o forno 🍕\n\nE no fim da noite ainda tem que pensar no post de segunda. Isso pelo menos dá pra deixar pronto.\n\nMarca aqui quem tem pizzaria e precisa ver isso 👇\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
-  "tentativas": 1,
   "container": "17931312918162872",
-  "container_em": "2026-10-04T14:01:52.796Z",
   "ig": "18116791994107095",
   "fb": "pular"
  },

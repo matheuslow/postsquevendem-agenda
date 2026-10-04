@@ -35,24 +35,23 @@ async function esperaContainer(id) {
 }
 
 async function idPublicado(p) {
-  const r = await api(`${IG}/media`, { fields: "id,caption,timestamp", limit: "15" }, "GET");
+  const desde = new Date(p.publicar_tentado).getTime() - 120e3;
+  if (p.tipo === "story") {
+    const r = await api(`${IG}/stories`, { fields: "id,timestamp", limit: "10" }, "GET");
+    const m = (r.data || []).find((x) => new Date(x.timestamp).getTime() >= desde);
+    return m ? m.id : null;
+  }
+  const r = await api(`${IG}/media`, { fields: "id,caption,timestamp", limit: "10" }, "GET");
   const norm = (t) => (t || "").replace(/s+/g, " ").trim().slice(0, 80);
-  const m = (r.data || []).find((x) => norm(x.caption) === norm(p.legenda));
-  return m ? m.id : "publicado-" + p.container;
+  const m = (r.data || []).find((x) => norm(x.caption) === norm(p.legenda) && new Date(x.timestamp).getTime() >= desde);
+  return m ? m.id : null;
 }
 async function publicaIG(p) {
   const url = (f) => RAW + encodeURI(f);
   // container já criado numa rodada anterior (vale 24 h): só publica, sem recriar tudo
-  // Trava contra duplicado: o Meta às vezes responde erro no media_publish mas publica mesmo assim.
-  // Se já existe container desta peça, NUNCA cria outro: confere se ele já foi publicado; se não, publica o mesmo container.
-  if (p.container) {
-    const st = await api(p.container, { fields: "status_code" }, "GET").catch(() => ({}));
-    if (st.status_code === "PUBLISHED") return await idPublicado(p);
-    if (st.status_code === "FINISHED" && Date.now() - new Date(p.container_em).getTime() < 20 * 3600e3) return (await api(`${IG}/media_publish`, { creation_id: p.container })).id;
-    if (p.tentativas >= 3) throw new Error("container antigo sem confirmação, pausei pra não duplicar");
-  }
-  p.tentativas = (p.tentativas || 0) + 1;
-  if (p.tentativas > 3) { p.pausado = true; throw new Error("3 tentativas sem sucesso, pausei pra não duplicar"); }
+  // Trava contra duplicado: o Meta às vezes responde erro no media_publish (ex.: "Application request limit reached")
+  // mas publica mesmo assim, e aceita publicar o mesmo container de novo. Então: media_publish NUNCA é repetido.
+  if (p.publicar_tentado) throw new Error("publicação já foi tentada e não confirmada; confira no perfil e libere no painel");
   let criacao;
   if (p.tipo === "story") {
     const f = p.arquivos[0];
@@ -68,8 +67,17 @@ async function publicaIG(p) {
     criacao = (await api(`${IG}/media`, { media_type: "CAROUSEL", children: filhos.join(","), caption: p.legenda })).id;
   }
   await esperaContainer(criacao);
-  p.container = criacao; p.container_em = new Date().toISOString();
-  return (await api(`${IG}/media_publish`, { creation_id: criacao })).id;
+  p.container = criacao; p.publicar_tentado = new Date().toISOString();
+  try {
+    return (await api(`${IG}/media_publish`, { creation_id: criacao })).id;
+  } catch (e) {
+    // confere se saiu mesmo assim (feed: pela legenda; story: pelo horário)
+    await sleep(20000);
+    const achado = await idPublicado(p).catch(() => null);
+    if (achado) { console.log("publicou apesar do erro", p.id, e.message); return achado; }
+    p.pausado = true;
+    throw e;
+  }
 }
 
 async function publicaFB(p) {
@@ -119,7 +127,7 @@ async function coletarMetricas() {
   for (const p of agenda) {
     if (p.tipo === "manual" || p.tipo === "story") continue;
     let m = p.ig && porId.get(String(p.ig));
-    if (!m && (p.via === "business_suite" || p.ig_media)) m = porId.get(p.ig_media) || midias.find((x) => norm(x.caption) === norm(p.legenda) && Math.abs(new Date(x.timestamp) - new Date(p.quando)) < 6 * 3600e3);
+    if (!m && (p.via === "business_suite" || p.ig_media || p.ig === "confirmado")) m = porId.get(p.ig_media) || midias.find((x) => norm(x.caption) === norm(p.legenda) && Math.abs(new Date(x.timestamp) - new Date(p.quando)) < 6 * 3600e3);
     if (!m) continue;
     p.ig_media = m.id; p.link = m.permalink;
     p.metricas = { ...(p.metricas || {}), curtidas: m.like_count ?? null, comentarios: m.comments_count ?? null, atualizado: new Date().toISOString() };
