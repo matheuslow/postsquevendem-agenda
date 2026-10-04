@@ -143,7 +143,12 @@
   "arquivos": [
    "midia/D00-10h30-story/10h30-app-comeca-assim.jpg"
   ],
-  "legenda": "(story de venda, sem legenda)"
+  "legenda": "(story de venda, sem legenda)",
+  "tentativas": 1,
+  "container": "17931306264162872",
+  "container_em": "2026-10-04T13:31:45.281Z",
+  "ig": "18115212875090243",
+  "fb": "pular"
  },
  {
   "id": "D00-11h00",
