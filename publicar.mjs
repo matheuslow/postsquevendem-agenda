@@ -2,12 +2,42 @@
 // Roda no GitHub Actions a cada 15 min: publica o que está em agenda.json com horário vencido e marca como feito.
 // Segredos: META_PAGE_TOKEN (token de página que não expira), IG_USER_ID, PAGE_ID.
 import { readFileSync, writeFileSync } from "node:fs";
+import { execSync } from "node:child_process";
 
 const G = "https://graph.facebook.com/v23.0";
 const { META_PAGE_TOKEN: TOKEN, IG_USER_ID: IG, PAGE_ID: PAGE, GITHUB_REPOSITORY: REPO, DRY } = process.env;
 const RAW = `https://raw.githubusercontent.com/${REPO}/main/`;
 const MAX = Number(process.env.MAX_POR_RODADA || 3);
 const agenda = JSON.parse(readFileSync("agenda.json", "utf8"));
+// Estado salvo no repo na hora (antes e depois de cada publicação), mesclando só o que ESTA rodada mudou por cima
+// da versão mais nova do remoto. Assim uma rodada que falha no push nunca faz outra republicar o mesmo post.
+const original = new Map(agenda.map((p) => [p.id, JSON.stringify(p)]));
+function salvar(msg) {
+  if (process.env.TESTE || DRY || !REPO) return;
+  const sh = (c) => execSync(c, { encoding: "utf8", stdio: ["ignore", "pipe", "pipe"] });
+  for (let t = 0; t < 6; t++) {
+    try {
+      sh("git fetch -q origin main");
+      const remoto = JSON.parse(sh("git show origin/main:agenda.json"));
+      const porId = new Map(remoto.map((p) => [p.id, p]));
+      for (const p of agenda) {
+        const antes = original.has(p.id) ? JSON.parse(original.get(p.id)) : {};
+        const alvo = porId.get(p.id); if (!alvo) continue;
+        for (const k of new Set([...Object.keys(p), ...Object.keys(antes)])) {
+          if (JSON.stringify(p[k]) === JSON.stringify(antes[k])) continue;
+          if (p[k] === undefined) delete alvo[k]; else alvo[k] = p[k];
+        }
+      }
+      sh("git reset -q --hard origin/main");
+      writeFileSync("agenda.json", JSON.stringify(remoto, null, 1));
+      sh("git add agenda.json");
+      if (sh("git status --porcelain agenda.json").trim()) { sh(`git -c user.name=robo-agenda -c user.email=robo@users.noreply.github.com commit -q -m "agenda: ${msg}"`); sh("git push -q origin HEAD:main"); }
+      for (const p of agenda) original.set(p.id, JSON.stringify(p));
+      return;
+    } catch (e) { console.error("salvar tentativa", t + 1, String(e.message).slice(0, 120)); execSync("sleep " + (3 + t * 4)); }
+  }
+  throw new Error("não consegui salvar o estado no repo");
+}
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
 let ultimoUso = "";
@@ -68,6 +98,7 @@ async function publicaIG(p) {
   }
   await esperaContainer(criacao);
   p.container = criacao; p.publicar_tentado = new Date().toISOString();
+  salvar(`tentando ${p.id}`); // grava ANTES de publicar: se a rodada morrer, a próxima não repete
   try {
     return (await api(`${IG}/media_publish`, { creation_id: criacao })).id;
   } catch (e) {
@@ -106,10 +137,12 @@ for (const p of vencidos) {
   try { if (!p.ig) { p.ig = await publicaIG(p); delete p.erro_ig; console.log("IG ok", p.id, p.ig); } } catch (e) { p.erro_ig = String(e.message); console.error("IG erro", p.id, e.message); if (ehLimite(e.message)) parar = true; else if (/container/.test(e.message)) delete p.container; }
   if (!PAGE || p.tipo === "story") p.fb = "pular";
   try { if (!p.fb) { p.fb = await publicaFB(p); console.log("FB ok", p.id, p.fb); } } catch (e) { p.erro_fb = String(e.message); console.error("FB erro", p.id, e.message); }
+  salvar(`${p.id} ${p.ig ? "publicado" : "erro"}`);
   if (parar) { console.log("limite de chamadas do Meta: paro aqui e tento na próxima rodada"); limitado = true; break; }
 }
 if (!limitado) await coletarMetricas().catch((e) => console.error("metricas", e.message));
 writeFileSync("agenda.json", JSON.stringify(agenda, null, 1));
+salvar("publicados e métricas");
 
 // Resultados: curtidas/comentários sempre; alcance, views, envios e salvos se o token tiver instagram_manage_insights.
 async function coletarMetricas() {
