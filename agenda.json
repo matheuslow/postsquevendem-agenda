@@ -822,7 +822,9 @@
   "arquivos": [
    "midia/D02-10h30-story/10h30-facil-sem-canva.jpg"
   ],
-  "legenda": "(story de venda, sem legenda)"
+  "legenda": "(story de venda, sem legenda)",
+  "container": "17931785340162872",
+  "publicar_tentado": "2026-10-06T13:31:33.156Z"
  },
  {
   "id": "D02-11h00",
