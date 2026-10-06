@@ -125,6 +125,7 @@ if (process.env.TESTE) {
   const me = await api(IG, { fields: "username,followers_count,media_count" }, "GET");
   const lim = await api(`${IG}/content_publishing_limit`, { fields: "quota_usage,config" }, "GET");
   console.log("TESTE OK", JSON.stringify(me), JSON.stringify(lim));
+  try { const d = (await api("debug_token", { input_token: TOKEN }, "GET")).data; console.log("TOKEN", JSON.stringify({ app: d.application, tipo: d.type, expira: d.expires_at, valido: d.is_valid, escopos: d.scopes, criado: d.issued_at ? new Date(d.issued_at * 1000).toISOString() : null })); } catch (e) { console.log("TOKEN debug erro", String(e.message).slice(0, 120)); }
   // confere a permissão de métricas (instagram_manage_insights) num dos posts mais recentes
   const ult = await api(`${IG}/media`, { fields: "id,media_product_type", limit: "5" }, "GET");
   for (const m of ult.data || []) {
