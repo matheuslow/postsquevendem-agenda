@@ -125,6 +125,15 @@ if (process.env.TESTE) {
   const me = await api(IG, { fields: "username,followers_count,media_count" }, "GET");
   const lim = await api(`${IG}/content_publishing_limit`, { fields: "quota_usage,config" }, "GET");
   console.log("TESTE OK", JSON.stringify(me), JSON.stringify(lim));
+  // confere a permissão de métricas (instagram_manage_insights) num dos posts mais recentes
+  const ult = await api(`${IG}/media`, { fields: "id,media_product_type", limit: "5" }, "GET");
+  for (const m of ult.data || []) {
+    try {
+      const r = await api(`${m.id}/insights`, { metric: m.media_product_type === "REELS" ? "reach,views,shares,saved,total_interactions" : "reach,shares,saved,total_interactions" }, "GET");
+      console.log("INSIGHTS OK", m.id, m.media_product_type, JSON.stringify((r.data || []).map((d) => [d.name, d.values?.[0]?.value ?? d.total_value?.value])));
+      break;
+    } catch (e) { console.log("INSIGHTS ERRO", m.id, String(e.message).slice(0, 160)); }
+  }
   process.exit(0);
 }
 const agora = Date.now();
