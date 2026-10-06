@@ -779,7 +779,9 @@
   "arquivos": [
    "midia/D02-08h00-story/08h00-semana-terca-parada.jpg"
   ],
-  "legenda": "(story de venda, sem legenda)"
+  "legenda": "(story de venda, sem legenda)",
+  "container": "17931758067162872",
+  "publicar_tentado": "2026-10-06T11:01:35.884Z"
  },
  {
   "id": "D02-09h00",
