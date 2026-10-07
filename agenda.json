@@ -1219,7 +1219,9 @@
   "arquivos": [
    "midia/D03-08h00-story/08h00-agencia-alteracao.jpg"
   ],
-  "legenda": "(story de venda, sem legenda)"
+  "legenda": "(story de venda, sem legenda)",
+  "container": "17931989622162872",
+  "publicar_tentado": "2026-10-07T10:32:10.099Z"
  },
  {
   "id": "D03-08h00",
