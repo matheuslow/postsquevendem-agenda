@@ -1737,7 +1737,9 @@
   "arquivos": [
    "midia/D04-08h00-story/08h00-semana-quinta.jpg"
   ],
-  "legenda": "(story de venda, sem legenda)"
+  "legenda": "(story de venda, sem legenda)",
+  "container": "17932228611162872",
+  "publicar_tentado": "2026-10-08T10:33:51.439Z"
  },
  {
   "id": "D04-08h00",
