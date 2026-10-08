@@ -1839,7 +1839,9 @@
   "arquivos": [
    "midia/D04-13h30-story/13h30-depoimento-postando-todo-dia.jpg"
   ],
-  "legenda": "(story de venda, sem legenda)"
+  "legenda": "(story de venda, sem legenda)",
+  "container": "17932262892162872",
+  "publicar_tentado": "2026-10-08T13:32:03.148Z"
  },
  {
   "id": "D04-13h00",
