@@ -2040,7 +2040,9 @@
   "arquivos": [
    "midia/D04-17h00-story/17h00-app-sobe-logo.jpg"
   ],
-  "legenda": "(story de venda, sem legenda)"
+  "legenda": "(story de venda, sem legenda)",
+  "container": "17932388721162872",
+  "publicar_tentado": "2026-10-09T00:02:03.868Z"
  },
  {
   "id": "D04-18h00",
