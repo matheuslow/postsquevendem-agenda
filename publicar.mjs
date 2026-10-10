@@ -8,6 +8,7 @@ const G = "https://graph.facebook.com/v23.0";
 const { META_PAGE_TOKEN: TOKEN, IG_USER_ID: IG, PAGE_ID: PAGE, GITHUB_REPOSITORY: REPO, DRY } = process.env;
 const RAW = `https://raw.githubusercontent.com/${REPO}/main/`;
 const MAX = Number(process.env.MAX_POR_RODADA || 3);
+const REELS_TESTE = process.env.REELS_TESTE !== "0";
 const agenda = JSON.parse(readFileSync("agenda.json", "utf8"));
 // Estado salvo no repo na hora (antes e depois de cada publicação), mesclando só o que ESTA rodada mudou por cima
 // da versão mais nova do remoto. Assim uma rodada que falha no push nunca faz outra republicar o mesmo post.
@@ -89,7 +90,14 @@ async function publicaIG(p) {
     const f = p.arquivos[0];
     criacao = (await api(`${IG}/media`, f.endsWith(".mp4") ? { media_type: "STORIES", video_url: url(f) } : { media_type: "STORIES", image_url: url(f) })).id;
   } else if (p.tipo === "reel") {
-    criacao = (await api(`${IG}/media`, { media_type: "REELS", video_url: url(p.arquivos[0]), caption: p.legenda, share_to_feed: "true", ...(p.capa ? { cover_url: url(p.capa) } : {}) })).id;
+    // 10/10: reel de teste (trial reel) mostra primeiro só pra quem NÃO segue; SS_PERFORMANCE libera pros seguidores
+    // sozinho se for bem. Se a conta ainda não tiver o recurso, o container dá erro antes de publicar e cai no reel normal.
+    const baseReel = { media_type: "REELS", video_url: url(p.arquivos[0]), caption: p.legenda, share_to_feed: "true", ...(p.capa ? { cover_url: url(p.capa) } : {}) };
+    if (REELS_TESTE && p.teste !== false) {
+      try { criacao = (await api(`${IG}/media`, { ...baseReel, trial_params: JSON.stringify({ graduation_strategy: "SS_PERFORMANCE" }) })).id; p.trial = true; }
+      catch (e) { if (ehLimite(e.message)) throw e; console.log("reel de teste indisponível, vai normal:", String(e.message).slice(0, 140)); p.trial = false; }
+    }
+    if (!criacao) criacao = (await api(`${IG}/media`, baseReel)).id;
   } else if (p.arquivos.length === 1) {
     criacao = (await api(`${IG}/media`, { image_url: url(p.arquivos[0]), caption: p.legenda })).id;
   } else {
