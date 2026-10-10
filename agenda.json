@@ -2722,7 +2722,9 @@
   "arquivos": [
    "midia/D05-21h00-story/21h00-oferta-garantia.jpg"
   ],
-  "legenda": "(story de venda, sem legenda)"
+  "legenda": "(story de venda, sem legenda)",
+  "container": "17932666248162872",
+  "publicar_tentado": "2026-10-10T01:32:04.224Z"
  },
  {
   "id": "D05-21h30",
