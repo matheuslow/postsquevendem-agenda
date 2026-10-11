@@ -3249,7 +3249,9 @@
   "arquivos": [
    "midia/D07-10h30-story/10h30-facil-1-minuto.jpg"
   ],
-  "legenda": "(story de venda, sem legenda)"
+  "legenda": "(story de venda, sem legenda)",
+  "container": "17933040996162872",
+  "publicar_tentado": "2026-10-11T12:02:03.273Z"
  },
  {
   "id": "D07-11h00",
