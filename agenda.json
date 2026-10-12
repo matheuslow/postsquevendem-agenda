@@ -3628,7 +3628,9 @@
   "arquivos": [
    "midia/D08-08h00-story/08h00-semana-segundou.jpg"
   ],
-  "legenda": "(story de venda, sem legenda)"
+  "legenda": "(story de venda, sem legenda)",
+  "container": "17933299695162872",
+  "publicar_tentado": "2026-10-12T10:32:22.354Z"
  },
  {
   "id": "D08-08h00",
