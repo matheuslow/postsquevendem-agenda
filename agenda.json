@@ -4674,7 +4674,7 @@
  },
  {
   "id": "D10-22h00",
-  "quando": "2026-10-14T22:00:00-03:00",
+  "quando": "2026-10-14T18:00:00-03:00",
   "etapa": "fundo",
   "tipo": "carrossel",
   "arquivos": [
@@ -4684,8 +4684,7 @@
    "midia/D10-22h00/4.jpg"
   ],
   "legenda": "\"Posso mudar o texto?\" Pode: você escreve o que quiser e o texto se ajusta sozinho na arte. Troca dia, sabor e preço tocando, e a legenda já vem pronta pra copiar.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
-  "pausado": true,
-  "pausado_motivo": "grade 4+3 (13/10)"
+  "angulo_venda": "objeção"
  },
  {
   "id": "D10-21h00-story",
@@ -4750,7 +4749,7 @@
  },
  {
   "id": "D11-09h00",
-  "quando": "2026-10-15T08:15:00-03:00",
+  "quando": "2026-10-15T18:00:00-03:00",
   "etapa": "fundo",
   "tipo": "reel",
   "arquivos": [
@@ -4758,8 +4757,7 @@
   ],
   "capa": "midia/D11-09h00/capa.jpg",
   "legenda": "O da esquina posta todo dia, e o cliente vê ele primeiro. Mesma rua, mesma pizza, perfil diferente. Quem aparece é lembrado na hora de pedir.\n\nCom 90 posts prontos (e Story de cada um) o seu perfil também aparece todo dia: abre o app, toca no dia e baixa, com a sua marca.\n\nR$ 37,80 pronto ou R$ 67,80 com a sua marca, pagamento único.\n\n👉 Posts prontos com a sua marca pra postar todo dia: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
-  "pausado": true,
-  "pausado_motivo": "grade 4+3 (13/10)"
+  "angulo_venda": "transformação"
  },
  {
   "id": "D11-10h30-story",
@@ -5025,7 +5023,7 @@
  },
  {
   "id": "D12-09h00",
-  "quando": "2026-10-16T08:15:00-03:00",
+  "quando": "2026-10-16T18:00:00-03:00",
   "etapa": "fundo",
   "tipo": "reel",
   "arquivos": [
@@ -5033,8 +5031,7 @@
   ],
   "capa": "midia/D12-09h00/capa.jpg",
   "legenda": "17h de sexta, forno acendendo e o post sai do jeito que dá, no Canva, correndo. O cliente decide pelo olho, e o post feio custa pedido.\n\nNo app: escolhe o post, toca no dia e no preço e baixa. Com a sua logo, cores e WhatsApp. 90 posts + 90 stories, pagamento único: R$ 67,80 com a sua marca (10x de R$ 8,78) ou a partir de R$ 37,80 sem marca. Garantia de 7 dias.\n\nMarca aqui quem tem pizzaria e precisa ver isso 👇\n\n👉 Posts prontos com a sua marca: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
-  "pausado": true,
-  "pausado_motivo": "grade 4+3 (13/10)"
+  "angulo_venda": "benefício"
  },
  {
   "id": "D12-10h30-story",
@@ -5300,7 +5297,7 @@
  },
  {
   "id": "D13-09h00",
-  "quando": "2026-10-17T08:15:00-03:00",
+  "quando": "2026-10-17T18:00:00-03:00",
   "etapa": "fundo",
   "tipo": "reel",
   "arquivos": [
@@ -5308,8 +5305,7 @@
   ],
   "capa": "midia/D13-09h00/capa.jpg",
   "legenda": "Sábado de pizzaria não tem tempo: forno cheio, WhatsApp apitando, motoboy esperando. O Instagram fica pro depois, que nunca chega.\n\nNo app: escolhe o post, toca no dia e no preço e baixa. Dá pra fazer enquanto a massa descansa. 90 posts + 90 stories com a sua marca, pagamento único: R$ 67,80 (10x de R$ 8,78) ou a partir de R$ 37,80 sem marca.\n\nMarca aqui quem tem pizzaria e precisa ver isso 👇\n\n👉 Posts prontos com a sua marca: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
-  "pausado": true,
-  "pausado_motivo": "grade 4+3 (13/10)"
+  "angulo_venda": "oferta"
  },
  {
   "id": "D13-10h30-story",
@@ -5770,7 +5766,7 @@
  },
  {
   "id": "D14-22h00",
-  "quando": "2026-10-18T22:00:00-03:00",
+  "quando": "2026-10-18T18:00:00-03:00",
   "etapa": "fundo",
   "tipo": "carrossel",
   "arquivos": [
@@ -5779,8 +5775,7 @@
    "midia/D14-22h00/3.jpg"
   ],
   "legenda": "\"Não tenho logo.\" O app monta uma com o nome da sua pizzaria. E se a sua logo só existe na foto do cardápio, manda ela: a gente tira o fundo.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
-  "pausado": true,
-  "pausado_motivo": "grade 4+3 (13/10)"
+  "angulo_venda": "objeção"
  },
  {
   "id": "D14-21h00-story",
@@ -5989,7 +5984,7 @@
  },
  {
   "id": "D15-17h00",
-  "quando": "2026-10-19T20:00:00-03:00",
+  "quando": "2026-10-19T18:00:00-03:00",
   "etapa": "fundo",
   "tipo": "reel",
   "arquivos": [
@@ -5997,8 +5992,7 @@
   ],
   "capa": "midia/D15-17h00/capa.jpg",
   "legenda": "Mensagens reais de clientes do Posts Prontos pra Pizzaria, com nomes preservados:\n\n“Os posts estão muito bons e já me ajudaram a vender mais essa semana.”\n“Salvou demais a minha vida aqui na pizzaria.”\n“Estava sem postar, agora tô postando todo dia.”\n\nSão relatos de clientes, e cada pizzaria tem a sua experiência. Pra testar sem risco: garantia de 7 dias. R$ 67,80 com a sua marca (10x de R$ 8,78) ou a partir de R$ 37,80.\n\nMarca aqui quem tem pizzaria e precisa ver isso 👇\n\n👉 Posts prontos com a sua marca: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
-  "pausado": true,
-  "pausado_motivo": "grade 4+3 (13/10)"
+  "angulo_venda": "transformação"
  },
  {
   "id": "D15-20h30",
@@ -6107,7 +6101,7 @@
  },
  {
   "id": "D16-09h00",
-  "quando": "2026-10-20T07:30:00-03:00",
+  "quando": "2026-10-20T18:00:00-03:00",
   "etapa": "fundo",
   "tipo": "reel",
   "arquivos": [
@@ -6115,8 +6109,7 @@
   ],
   "capa": "midia/D16-09h00/capa.jpg",
   "legenda": "O vizinho posta todo dia e você aparece menos. Quem aparece sempre fica na cabeça na hora da fome.\n\nPosts Prontos: 90 posts + 90 stories com a sua marca, escolhe, toca no dia e no preço e baixa. Pagamento único: R$ 67,80 (10x de R$ 8,78) ou a partir de R$ 37,80 sem marca.\n\nMarca aqui quem tem pizzaria e precisa ver isso 👇\n\n👉 Posts prontos com a sua marca: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
-  "pausado": true,
-  "pausado_motivo": "grade 4+3 (13/10)"
+  "angulo_venda": "benefício"
  },
  {
   "id": "D16-11h00",
@@ -6380,7 +6373,7 @@
  },
  {
   "id": "D17-09h00",
-  "quando": "2026-10-21T08:15:00-03:00",
+  "quando": "2026-10-21T18:00:00-03:00",
   "etapa": "fundo",
   "tipo": "reel",
   "arquivos": [
@@ -6388,8 +6381,7 @@
   ],
   "capa": "midia/D17-09h00/capa.jpg",
   "legenda": "Imagina o cliente com fome, o dedo rolando, dois perfis de pizzaria abertos. Um tem post torto, foto escura e preço difícil de ler. O outro tem post limpo, preço grande e WhatsApp à vista. Quem leva o pedido?\n\nPost feio não perde só curtida: perde pedido.\n\nNo app você coloca a sua logo, cores, @ e WhatsApp uma vez e os 90 posts + 90 stories já saem com a sua cara. R$ 67,80 à vista (ou 10x de R$ 8,78), pagamento único: R$ 0,75 por arte.\n\nExemplo com marca fictícia.\n\n👉 90 posts + 90 stories com a sua marca, pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
-  "pausado": true,
-  "pausado_motivo": "grade 4+3 (13/10)"
+  "angulo_venda": "oferta"
  },
  {
   "id": "D17-10h30-story",
@@ -6740,15 +6732,14 @@
  },
  {
   "id": "D18-14h00",
-  "quando": "2026-10-22T14:00:00-03:00",
+  "quando": "2026-10-22T18:00:00-03:00",
   "etapa": "fundo",
   "tipo": "carrossel",
   "arquivos": [
    "midia/D18-14h00/1.jpg"
   ],
   "legenda": "\"Mas eu não sei mexer no Canva.\" Não precisa.\n\nNo app você só toca: dia da semana, sabor, bebida, tamanho, preço. O texto se ajusta sozinho e o post sai no tamanho certo do Instagram. Funciona no navegador do celular, sem instalar nada.\n\nTem outra dúvida? Manda aqui nos comentários.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #marketingparapizzaria #delivery",
-  "pausado": true,
-  "pausado_motivo": "grade 4+3 (13/10)"
+  "angulo_venda": "objeção"
  },
  {
   "id": "D18-16h00",
@@ -6923,7 +6914,7 @@
  },
  {
   "id": "D19-09h00",
-  "quando": "2026-10-23T08:15:00-03:00",
+  "quando": "2026-10-23T18:00:00-03:00",
   "etapa": "fundo",
   "tipo": "reel",
   "arquivos": [
@@ -6931,8 +6922,7 @@
   ],
   "capa": "midia/D19-09h00/capa.jpg",
   "legenda": "Sexta, 9h da manhã: abre o celular, olha o Instagram e trava. O que eu posto hoje?\n\nNo app o post de hoje já está lá. Os 90 posts vêm separados por assunto (promoções, dias da semana, sabores, combos, delivery, datas e bastidores): você escolhe, toca no dia e no preço e baixa.\n\n90 posts + 90 stories com a sua marca por R$ 67,80 à vista (ou 10x de R$ 8,78), pagamento único: R$ 0,75 por arte.\n\n👉 90 posts + 90 stories com a sua marca, pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
-  "pausado": true,
-  "pausado_motivo": "grade 4+3 (13/10)"
+  "angulo_venda": "transformação"
  },
  {
   "id": "D19-10h30-story",
@@ -7186,7 +7176,7 @@
  },
  {
   "id": "D20-09h00",
-  "quando": "2026-10-24T08:15:00-03:00",
+  "quando": "2026-10-24T18:00:00-03:00",
   "etapa": "fundo",
   "tipo": "reel",
   "arquivos": [
@@ -7194,8 +7184,7 @@
   ],
   "capa": "midia/D20-09h00/capa.jpg",
   "legenda": "Se cada arte no Canva levar 20 minutos, 90 artes são 30 horas. No app, com cerca de 1 minuto por arte, são 1h30. Sobram 28h30 pra massa, pra equipe e pra você.\n\n(20 minutos por arte é um exemplo: usa o seu tempo.)\n\nImagina o sábado com o post do dia já pronto. 90 posts + 90 stories com a sua marca por R$ 67,80 à vista (ou 10x de R$ 8,78), pagamento único.\n\n👉 90 posts + 90 stories com a sua marca, pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
-  "pausado": true,
-  "pausado_motivo": "grade 4+3 (13/10)"
+  "angulo_venda": "benefício"
  },
  {
   "id": "D20-10h30-story",
@@ -7454,7 +7443,7 @@
  },
  {
   "id": "D21-09h00",
-  "quando": "2026-10-25T08:15:00-03:00",
+  "quando": "2026-10-25T18:00:00-03:00",
   "etapa": "fundo",
   "tipo": "reel",
   "arquivos": [
@@ -7462,8 +7451,7 @@
   ],
   "capa": "midia/D21-09h00/capa.jpg",
   "legenda": "O queijo subiu e o post não. Você reajustou a pizza, mas o post de ontem ainda diz R$ 49,90, e o cliente cobra o preço antigo no WhatsApp.\n\nNo app você troca o preço tocando e baixa o post novo, em 1 minuto, sem esperar ninguém.\n\n90 posts + 90 stories com a sua marca por R$ 67,80 à vista (ou 10x de R$ 8,78), pagamento único.\n\nPreços do exemplo são ilustrativos.\n\n👉 90 posts + 90 stories com a sua marca, pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
-  "pausado": true,
-  "pausado_motivo": "grade 4+3 (13/10)"
+  "angulo_venda": "oferta"
  },
  {
   "id": "D21-10h30-story",
@@ -7927,7 +7915,7 @@
  },
  {
   "id": "D22-22h00",
-  "quando": "2026-10-26T22:00:00-03:00",
+  "quando": "2026-10-26T18:00:00-03:00",
   "etapa": "fundo",
   "tipo": "carrossel",
   "arquivos": [
@@ -7936,8 +7924,7 @@
    "midia/D22-22h00/3.jpg"
   ],
   "legenda": "\"Não tenho logo.\" Sem problema: o app monta uma com o nome da pizzaria. Se tiver foto do cardápio com a logo, serve também, a gente tira o fundo.\n\n👉 90 posts + 90 stories com a sua logo, cores, @ e WhatsApp em 1 minuto. Pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
-  "pausado": true,
-  "pausado_motivo": "grade 4+3 (13/10)"
+  "angulo_venda": "objeção"
  },
  {
   "id": "D22-21h00-story",
@@ -8002,7 +7989,7 @@
  },
  {
   "id": "D23-09h00",
-  "quando": "2026-10-27T08:15:00-03:00",
+  "quando": "2026-10-27T18:00:00-03:00",
   "etapa": "fundo",
   "tipo": "reel",
   "arquivos": [
@@ -8010,8 +7997,7 @@
   ],
   "capa": "midia/D23-09h00/capa.jpg",
   "legenda": "18h50. O delivery abre em 10 minutos e o post de hoje ainda não saiu. Pensar no texto, achar a foto, caber o preço na arte: não dá tempo.\n\nNo app é escolher o post, trocar o dia e o preço e baixar. São 90 posts + 90 stories prontos, com a sua marca.\n\n90 posts + 90 stories com a sua logo, cores, @ e WhatsApp. R$ 67,80 à vista (ou 10x de R$ 8,78) com a sua marca, ou R$ 37,80 à vista (10x de R$ 5,40) no pronto. Pagamento único, acesso pra sempre, 7 dias de garantia.\n\n👉 Posts prontos pra pizzaria, com a sua marca: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
-  "pausado": true,
-  "pausado_motivo": "grade 4+3 (13/10)"
+  "angulo_venda": "benefício"
  },
  {
   "id": "D23-10h30-story",
@@ -8276,7 +8262,7 @@
  },
  {
   "id": "D24-09h00",
-  "quando": "2026-10-28T08:15:00-03:00",
+  "quando": "2026-10-28T18:00:00-03:00",
   "etapa": "fundo",
   "tipo": "reel",
   "arquivos": [
@@ -8284,8 +8270,7 @@
   ],
   "capa": "midia/D24-09h00/capa.jpg",
   "legenda": "O cliente pergunta 'tem promoção hoje?' e você nem sabe o que postar.\n\nO app traz 90 posts separados por promoções, dias, sabores, combos, delivery e datas, um pra cada dia, mais a versão story de cada um. É tocar no dia, trocar o preço e baixar.\n\n90 posts + 90 stories com a sua logo, cores, @ e WhatsApp. R$ 67,80 à vista (ou 10x de R$ 8,78) com a sua marca, ou R$ 37,80 à vista (10x de R$ 5,40) no pronto. Pagamento único, acesso pra sempre, 7 dias de garantia.\n\n👉 Posts prontos pra pizzaria, com a sua marca: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
-  "pausado": true,
-  "pausado_motivo": "grade 4+3 (13/10)"
+  "angulo_venda": "benefício"
  },
  {
   "id": "D24-10h30-story",
@@ -8534,7 +8519,7 @@
  },
  {
   "id": "D25-09h00",
-  "quando": "2026-10-29T08:15:00-03:00",
+  "quando": "2026-10-29T18:00:00-03:00",
   "etapa": "fundo",
   "tipo": "reel",
   "arquivos": [
@@ -8542,8 +8527,7 @@
   ],
   "capa": "midia/D25-09h00/capa.jpg",
   "legenda": "Cliente novo no bairro abre o perfil da pizzaria e o último post é de 3 semanas atrás. Perfil parado parece pizzaria fechada, e ele fecha o Instagram e abre o app de delivery.\n\nCom 90 posts + 90 stories prontos, o seu feed fica sempre com post novo e a mesma cara: sua logo, cores, @ e WhatsApp.\n\n90 posts + 90 stories com a sua logo, cores, @ e WhatsApp. R$ 67,80 à vista (ou 10x de R$ 8,78) com a sua marca, ou R$ 37,80 à vista (10x de R$ 5,40) no pronto. Pagamento único, acesso pra sempre, 7 dias de garantia.\n\n👉 Posts prontos pra pizzaria, com a sua marca: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
-  "pausado": true,
-  "pausado_motivo": "grade 4+3 (13/10)"
+  "angulo_venda": "oferta"
  },
  {
   "id": "D25-10h30-story",
@@ -8797,7 +8781,7 @@
  },
  {
   "id": "D26-09h00",
-  "quando": "2026-10-30T08:15:00-03:00",
+  "quando": "2026-10-30T18:00:00-03:00",
   "etapa": "fundo",
   "tipo": "reel",
   "arquivos": [
@@ -8805,8 +8789,7 @@
   ],
   "capa": "midia/D26-09h00/capa.jpg",
   "legenda": "Duas pizzarias no mesmo bairro. Uma aparece todo dia no celular do cliente, a outra quase nunca. Adivinha qual ele pede? (Exemplo ilustrativo.)\n\nQuem aparece mais é lembrado primeiro. Você não precisa ser designer pra aparecer todo dia: são 90 posts + 90 stories prontos, com a sua marca.\n\n90 posts + 90 stories com a sua logo, cores, @ e WhatsApp. R$ 67,80 à vista (ou 10x de R$ 8,78) com a sua marca, ou R$ 37,80 à vista (10x de R$ 5,40) no pronto. Pagamento único, acesso pra sempre, 7 dias de garantia.\n\n👉 Posts prontos pra pizzaria, com a sua marca: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
-  "pausado": true,
-  "pausado_motivo": "grade 4+3 (13/10)"
+  "angulo_venda": "benefício"
  },
  {
   "id": "D26-10h30-story",
@@ -9216,7 +9199,7 @@
  },
  {
   "id": "D27-17h00",
-  "quando": "2026-10-31T20:00:00-03:00",
+  "quando": "2026-10-31T18:00:00-03:00",
   "etapa": "fundo",
   "tipo": "reel",
   "arquivos": [
@@ -9224,8 +9207,7 @@
   ],
   "capa": "midia/D27-17h00/capa.jpg",
   "legenda": "Mensagens reais que chegaram de donos de pizzaria (nome e foto ocultados): \"Agora em um minutinho eu troco o preço, o sabor e já baixo o PNG certinho pro Instagram.\" e \"Os posts estão muito bons e já me ajudaram a vender mais essa semana.\"\n\nO app dos Posts Prontos pra Pizzaria tem 90 posts + 90 stories: você escolhe, toca no dia, troca preço e sabor e baixa o PNG com a sua marca.\n\nPagamento único, acesso pra sempre e 7 dias de garantia: se não gostar, pede o reembolso.\n\nFonte: prints de mensagens recebidas pelo Posts que Vendem, publicados com nome e foto ocultados.\n\nMarca aqui quem tem pizzaria e precisa ver isso 👇\n\n👉 Posts prontos com a sua marca: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
-  "pausado": true,
-  "pausado_motivo": "grade 4+3 (13/10)"
+  "angulo_venda": "transformação"
  },
  {
   "id": "D27-20h30",
@@ -9343,7 +9325,7 @@
  },
  {
   "id": "D28-09h00",
-  "quando": "2026-11-01T08:15:00-03:00",
+  "quando": "2026-11-01T18:00:00-03:00",
   "etapa": "fundo",
   "tipo": "reel",
   "arquivos": [
@@ -9351,8 +9333,7 @@
   ],
   "capa": "midia/D28-09h00/capa.jpg",
   "legenda": "Domingo 20h, o cliente decide onde pedir pizza. Abre o seu perfil: último post na terça. Abre o da esquina: promoção do dia, postada hoje. Quem ele vai pedir?\n\nCom o app dos Posts Prontos pra Pizzaria você tem 90 posts + 90 stories prontos, escolhe, toca no dia, troca o preço e baixa o PNG com a sua marca em 1 minuto. Dá pra postar todo dia sem correr.\n\nPagamento único, acesso pra sempre e 7 dias de garantia: se não gostar, pede o reembolso.\n\nMarca aqui quem tem pizzaria e precisa ver isso 👇\n\n👉 Posts prontos com a sua marca: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
-  "pausado": true,
-  "pausado_motivo": "grade 4+3 (13/10)"
+  "angulo_venda": "benefício"
  },
  {
   "id": "D28-10h30-story",
@@ -9615,7 +9596,7 @@
  },
  {
   "id": "D29-09h00",
-  "quando": "2026-11-02T08:15:00-03:00",
+  "quando": "2026-11-02T18:00:00-03:00",
   "etapa": "fundo",
   "tipo": "reel",
   "arquivos": [
@@ -9623,8 +9604,7 @@
   ],
   "capa": "midia/D29-09h00/capa.jpg",
   "legenda": "Segunda, feriado de Finados. Você abre o celular, olha o feed e trava: promoção? sabor? aviso de horário? combo?\n\nOs Posts Prontos pra Pizzaria vêm com 90 posts + 90 stories separados por assunto (promoções, dias da semana, sabores, combos, delivery e datas). Você escolhe, toca no dia, troca o preço e baixa o PNG com a sua marca em 1 minuto.\n\nPagamento único, acesso pra sempre e 7 dias de garantia: se não gostar, pede o reembolso.\n\nMarca aqui quem tem pizzaria e precisa ver isso 👇\n\n👉 Posts prontos com a sua marca: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
-  "pausado": true,
-  "pausado_motivo": "grade 4+3 (13/10)"
+  "angulo_venda": "oferta"
  },
  {
   "id": "D29-10h30-story",
@@ -9988,7 +9968,7 @@
  },
  {
   "id": "D30-17h00",
-  "quando": "2026-11-03T18:30:00-03:00",
+  "quando": "2026-11-03T18:00:00-03:00",
   "etapa": "fundo",
   "tipo": "reel",
   "arquivos": [
@@ -9996,8 +9976,7 @@
   ],
   "capa": "midia/D30-17h00/capa.jpg",
   "legenda": "Quanto o cliente gasta numa pizzaria? A conta média em 2026 (até 15/06) foi de R$ 59,98, segundo a VR (via InfoMoney, 10/07/2026).\n\nOs Posts Prontos pra Pizzaria: 90 posts + 90 stories a partir de R$ 37,80 à vista (10x de R$ 5,40), pagamento único. Com a sua logo, as suas cores, o seu @ e o seu WhatsApp, R$ 67,80 à vista (10x de R$ 8,78), o que dá R$ 0,75 por arte (R$ 67,80 ÷ 90).\n\nPagamento único, acesso pra sempre e 7 dias de garantia: se não gostar, pede o reembolso.\n\nFonte: VR, via InfoMoney (10/07/2026): valor médio por transação nas pizzarias, jan/2023 a 15/06/2026 (R$ 59,98 em 2026).\n\nMarca aqui quem tem pizzaria e precisa ver isso 👇\n\n👉 Posts prontos com a sua marca: link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
-  "pausado": true,
-  "pausado_motivo": "grade 4+3 (13/10)"
+  "angulo_venda": "benefício"
  },
  {
   "id": "D30-15h30-story",
