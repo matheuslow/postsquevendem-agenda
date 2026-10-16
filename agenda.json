@@ -5256,7 +5256,9 @@
   "arquivos": [
    "midia/D12-13h30-story/13h30-depoimento-combo-de-terca.jpg"
   ],
-  "legenda": "(story de venda, sem legenda)"
+  "legenda": "(story de venda, sem legenda)",
+  "container": "17934588066162872",
+  "publicar_tentado": "2026-10-16T18:02:04.172Z"
  },
  {
   "id": "D12-13h00",
