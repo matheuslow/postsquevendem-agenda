@@ -5517,7 +5517,8 @@
   "container": "17934657582162872",
   "publicar_tentado": "2026-10-17T00:32:39.729Z",
   "ig": "18633547639062594",
-  "fb": "pular"
+  "fb": "pular",
+  "erro_ig": "publicação já foi tentada e não confirmada; confira no perfil e libere no painel"
  },
  {
   "id": "D13-07h00",
