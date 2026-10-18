@@ -9,10 +9,10 @@ const { META_PAGE_TOKEN: TOKEN, IG_USER_ID: IG, PAGE_ID: PAGE, GITHUB_REPOSITORY
 const RAW = `https://raw.githubusercontent.com/${REPO}/main/`;
 const MAX = Number(process.env.MAX_POR_RODADA || 3);
 const REELS_TESTE = process.env.REELS_TESTE !== "0";
-const agenda = JSON.parse(readFileSync("agenda.json", "utf8"));
+let agenda = JSON.parse(readFileSync("agenda.json", "utf8"));
 // Estado salvo no repo na hora (antes e depois de cada publicação), mesclando só o que ESTA rodada mudou por cima
 // da versão mais nova do remoto. Assim uma rodada que falha no push nunca faz outra republicar o mesmo post.
-const original = new Map(agenda.map((p) => [p.id, JSON.stringify(p)]));
+let original = new Map(agenda.map((p) => [p.id, JSON.stringify(p)]));
 let contaJson = null; // 07/10: métricas da conta (conta.json, aba Instagram do admin), gravadas junto da agenda pelo salvar()
 function salvar(msg) {
   if (process.env.TESTE || DRY || !REPO) return;
@@ -147,27 +147,51 @@ if (process.env.TESTE) {
   }
   process.exit(0);
 }
-const agora = Date.now();
-let limitado = false;
-const vencidos = agenda.filter((p) => !p.pausado && p.tipo !== "manual" && new Date(p.quando).getTime() <= agora && (!p.ig || !p.fb)).slice(0, MAX);
-console.log(`${vencidos.length} pra publicar agora`);
-for (const p of vencidos) {
-  if (DRY) { console.log("DRY", p.id, p.quando); continue; }
-  let parar = false;
-  try { if (!p.ig) { p.ig = await publicaIG(p); delete p.erro_ig; console.log("IG ok", p.id, p.ig); } } catch (e) { p.erro_ig = String(e.message); console.error("IG erro", p.id, e.message); if (ehLimite(e.message)) parar = true; else if (/container/.test(e.message)) delete p.container; }
-  if (!PAGE || p.tipo === "story") p.fb = "pular";
-  try { if (!p.fb) { p.fb = await publicaFB(p); console.log("FB ok", p.id, p.fb); } } catch (e) { p.erro_fb = String(e.message); console.error("FB erro", p.id, e.message); }
-  salvar(`${p.id} ${p.ig ? "publicado" : "erro"}`);
-  if (parar) { console.log("limite de chamadas do Meta: paro aqui e tento na próxima rodada"); limitado = true; break; }
+// 18/10: o agendador do GitHub atrasa (rodava a cada 2 a 4 h, não a cada 15 min) e os posts saíam em rajada.
+// Agora cada execução fica em ciclo por ~5h30: a cada 3 min relê a agenda do repo e publica o que venceu. A próxima
+// execução agendada espera na fila (concurrency) e assume quando esta termina. Métricas a cada 3 h.
+const LOOP_MIN = Number(process.env.LOOP_MIN ?? 330);
+const fimDoCiclo = Date.now() + LOOP_MIN * 60e3;
+let ultimaMetrica = 0;
+function recarregar() {
+  execSync("git fetch -q origin main && git reset -q --hard origin/main", { stdio: "ignore" });
+  agenda = JSON.parse(readFileSync("agenda.json", "utf8"));
+  original = new Map(agenda.map((p) => [p.id, JSON.stringify(p)]));
 }
-if (!limitado) await coletarMetricas().catch((e) => console.error("metricas", e.message));
-writeFileSync("agenda.json", JSON.stringify(agenda, null, 1));
-salvar("publicados e métricas");
+async function rodada() {
+  const agora = Date.now();
+  let limitado = false;
+  const vencidos = agenda.filter((p) => !p.pausado && p.tipo !== "manual" && new Date(p.quando).getTime() <= agora && (!p.ig || !p.fb)).slice(0, MAX);
+  if (vencidos.length) console.log(new Date().toISOString(), `${vencidos.length} pra publicar agora`);
+  for (const p of vencidos) {
+    if (DRY) { console.log("DRY", p.id, p.quando); continue; }
+    let parar = false;
+    try { if (!p.ig) { p.ig = await publicaIG(p); delete p.erro_ig; console.log("IG ok", p.id, p.ig); } } catch (e) { p.erro_ig = String(e.message); console.error("IG erro", p.id, e.message); if (ehLimite(e.message)) parar = true; else if (/container/.test(e.message)) delete p.container; }
+    if (!PAGE || p.tipo === "story") p.fb = "pular";
+    try { if (!p.fb) { p.fb = await publicaFB(p); console.log("FB ok", p.id, p.fb); } } catch (e) { p.erro_fb = String(e.message); console.error("FB erro", p.id, e.message); }
+    salvar(`${p.id} ${p.ig ? "publicado" : "erro"}`);
+    if (parar) { console.log("limite de chamadas do Meta: paro aqui e tento daqui a 10 min"); limitado = true; break; }
+  }
+  return limitado;
+}
+for (let volta = 0; ; volta++) {
+  let limitado = false;
+  try {
+    if (volta > 0) recarregar();
+    limitado = await rodada();
+    if (!limitado && (process.env.FORCAR_METRICAS || Date.now() - ultimaMetrica > 3 * 3600e3)) {
+      ultimaMetrica = Date.now();
+      await coletarMetricas().catch((e) => console.error("metricas", e.message));
+    }
+    writeFileSync("agenda.json", JSON.stringify(agenda, null, 1));
+    salvar("publicados e métricas");
+  } catch (e) { console.error("volta", volta, String(e.message).slice(0, 200)); }
+  if (DRY || process.env.TESTE || Date.now() + 4 * 60e3 > fimDoCiclo) break;
+  await sleep(limitado ? 10 * 60e3 : 3 * 60e3);
+}
 
 // Resultados: curtidas/comentários sempre; alcance, views, envios e salvos se o token tiver instagram_manage_insights.
 async function coletarMetricas() {
-  const h = new Date();
-  if (!process.env.FORCAR_METRICAS && !(h.getUTCMinutes() < 15 && h.getUTCHours() % 3 === 0)) return;
   let midias = [], url = `${IG}/media`, params = { fields: "id,caption,timestamp,media_type,media_product_type,permalink,like_count,comments_count", limit: "50" };
   for (let pg = 0; pg < 8 && url; pg++) {
     const r = await api(url, params, "GET");
