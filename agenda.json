@@ -7255,7 +7255,10 @@
   ],
   "capa": "midia/D17-09h00/capa.jpg",
   "legenda": "Imagina o cliente com fome, o dedo rolando, dois perfis de pizzaria abertos. Um tem post torto, foto escura e preço difícil de ler. O outro tem post limpo, preço grande e WhatsApp à vista. Quem leva o pedido?\n\nPost feio não perde só curtida: perde pedido.\n\nNo app você coloca a sua logo, cores, @ e WhatsApp uma vez e os 90 posts + 90 stories já saem com a sua cara. R$ 67,80 à vista (ou 10x de R$ 8,78), pagamento único: R$ 0,75 por arte.\n\nExemplo com marca fictícia.\n\n👉 90 posts + 90 stories com a sua marca, pagamento único. Link na bio.\n\n#pizzaria #donodepizzaria #pizzariadelivery #gestaodepizzaria #delivery",
-  "angulo_venda": "oferta"
+  "angulo_venda": "oferta",
+  "trial": false,
+  "container": "17936137149162872",
+  "publicar_tentado": "2026-10-21T21:03:16.906Z"
  },
  {
   "id": "D17-10h30-story",
