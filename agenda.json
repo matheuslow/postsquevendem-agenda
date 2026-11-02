@@ -11991,7 +11991,9 @@
   "arquivos": [
    "midia/D29-08h00-story/08h00-semana-grande-preco-media.jpg"
   ],
-  "legenda": "(story de venda, sem legenda)"
+  "legenda": "(story de venda, sem legenda)",
+  "container": "17940229239162872",
+  "publicar_tentado": "2026-11-02T13:02:28.059Z"
  },
  {
   "id": "D29-08h00",
