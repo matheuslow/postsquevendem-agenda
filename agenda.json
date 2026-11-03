@@ -12625,7 +12625,9 @@
   "arquivos": [
    "midia/D30-21h00-story/21h00-oferta-sem-mensalidade.jpg"
   ],
-  "legenda": "(story de venda, sem legenda)"
+  "legenda": "(story de venda, sem legenda)",
+  "container": "17940653574162872",
+  "publicar_tentado": "2026-11-03T18:13:30.771Z"
  },
  {
   "id": "D30-21h30-reel",
