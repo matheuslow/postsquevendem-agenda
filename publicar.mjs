@@ -13,7 +13,8 @@ const agenda = JSON.parse(readFileSync("agenda.json", "utf8"));
 // Estado salvo no repo na hora (antes e depois de cada publicação), mesclando só o que ESTA rodada mudou por cima
 // da versão mais nova do remoto. Assim uma rodada que falha no push nunca faz outra republicar o mesmo post.
 const original = new Map(agenda.map((p) => [p.id, JSON.stringify(p)]));
-let contaJson = null; // 07/10: métricas da conta (conta.json, aba Instagram do admin), gravadas junto da agenda pelo salvar()
+let contaJson = null;
+let respostasJson = null; // 08/11: comentários já respondidos (respostas.json) // 07/10: métricas da conta (conta.json, aba Instagram do admin), gravadas junto da agenda pelo salvar()
 function salvar(msg) {
   if (process.env.TESTE || DRY || !REPO) return;
   const sh = (c) => execSync(c, { encoding: "utf8", stdio: ["ignore", "pipe", "pipe"] });
@@ -34,7 +35,8 @@ function salvar(msg) {
       writeFileSync("agenda.json", JSON.stringify(remoto, null, 1));
       sh("git add agenda.json");
       if (contaJson) { writeFileSync("conta.json", contaJson); sh("git add conta.json"); }
-      if (sh("git status --porcelain agenda.json conta.json").trim()) { sh(`git -c user.name=robo-agenda -c user.email=robo@users.noreply.github.com commit -q -m "agenda: ${msg}"`); sh("git push -q origin HEAD:main"); }
+      if (respostasJson) { writeFileSync("respostas.json", respostasJson); sh("git add respostas.json"); }
+      if (sh("git status --porcelain agenda.json conta.json respostas.json").trim()) { sh(`git -c user.name=robo-agenda -c user.email=robo@users.noreply.github.com commit -q -m "agenda: ${msg}"`); sh("git push -q origin HEAD:main"); }
       for (const p of agenda) original.set(p.id, JSON.stringify(p));
       return;
     } catch (e) { console.error("salvar tentativa", t + 1, String(e.message).slice(0, 120)); execSync("sleep " + (3 + t * 4)); }
@@ -160,6 +162,7 @@ for (const p of vencidos) {
   salvar(`${p.id} ${p.ig ? "publicado" : "erro"}`);
   if (parar) { console.log("limite de chamadas do Meta: paro aqui e tento na próxima rodada"); limitado = true; break; }
 }
+if (!limitado) await responderComentarios().catch((e) => console.error("comentarios", String(e.message).slice(0, 200)));
 if (!limitado) await coletarMetricas().catch((e) => console.error("metricas", e.message));
 writeFileSync("agenda.json", JSON.stringify(agenda, null, 1));
 salvar("publicados e métricas");
@@ -199,7 +202,7 @@ async function coletarMetricas() {
         const r = await api(`${p.ig_media}/insights`, { metric }, "GET");
         for (const it of r.data || []) p.metricas[NOMES[it.name] ?? it.name] = it.values?.[0]?.value ?? it.total_value?.value ?? null;
         break;
-      } catch (e) { if (/permission|scope|#10|#200/i.test(e.message)) { semInsights = true; console.log("insights sem permissão ainda"); break; } }
+      } catch (e) { if (/permission|scope|#10\b|#200/i.test(e.message)) { semInsights = true; console.log("insights sem permissão ainda"); break; } }
     }
   }
   console.log("metricas atualizadas", agenda.filter((x) => x.metricas).length);
@@ -217,4 +220,46 @@ async function metricasConta() {
   contaJson = JSON.stringify(conta, null, 1);
   writeFileSync("conta.json", contaJson);
   console.log("conta", hoje, JSON.stringify(conta[hoje]));
+}
+
+// 08/11/2026: comentário com POSTS (ou pedindo link/preço) recebe resposta automática com o link da LP.
+// Direct (resposta privada ao comentário) precisa de instagram_manage_messages; resposta pública precisa de
+// instagram_manage_comments. Sem a permissão, avisa no log uma vez e não atrapalha a publicação.
+// Cada comentário é respondido uma vez só (respostas.json); só comentários de cima, nunca respostas.
+async function responderComentarios() {
+  const LP = "https://pertinho.club/pizza?utm_source=instagram&utm_medium=comentario&utm_campaign=organico";
+  const TESTE = "https://pertinho.club/pizza/teste?utm_source=instagram&utm_medium=comentario&utm_campaign=organico";
+  const GATILHO = /\bposts?\b|\blink\b|\bquero\b|pre[cç]o|\bvalor\b|\bquanto\b|🙋/i;
+  const feitos = existsSync("respostas.json") ? JSON.parse(readFileSync("respostas.json", "utf8")) : {};
+  const me = await api(IG, { fields: "username" }, "GET");
+  const midias = (await api(`${IG}/media`, { fields: "id,timestamp,comments_count", limit: "40" }, "GET")).data || [];
+  let n = 0, mudou = false;
+  // só busca os comentários de quem ganhou comentário novo desde a última rodada (economiza chamada da API)
+  const cont = feitos._contagem || {};
+  for (const m of midias.filter((x) => x.comments_count > (cont[x.id] || 0) && Date.now() - new Date(x.timestamp) < 30 * 86400e3)) {
+    if (n >= 15) break;
+    let cs;
+    try { cs = (await api(`${m.id}/comments`, { fields: "id,text,username,timestamp", limit: "50" }, "GET")).data || []; }
+    catch (e) { if (/permission|\(#10\)|\(#200\)|\(#3\)/i.test(e.message)) { console.log("comentarios: token sem instagram_manage_comments ainda"); return; } throw e; }
+    cont[m.id] = m.comments_count; feitos._contagem = cont; mudou = true;
+    for (const c of cs) {
+      if (feitos[c.id] || c.username === me.username || !GATILHO.test(c.text || "")) continue;
+      if (n++ >= 15) break;
+      const r = { em: new Date().toISOString(), midia: m.id, user: c.username, texto: (c.text || "").slice(0, 120) };
+      const dm = `Oi! Aqui está o link dos Posts Prontos pra Pizzaria 👇
+${LP}
+
+São 90 posts + 90 stories com a sua logo, cores e WhatsApp. Quer ver com a SUA marca antes de comprar? Teste grátis aqui:
+${TESTE}`;
+      for (const alvo of [IG, process.env.PAGE_ID].filter(Boolean)) {
+        try { await api(`${alvo}/messages`, { recipient: JSON.stringify({ comment_id: c.id }), message: JSON.stringify({ text: dm }) }); r.direct = true; break; }
+        catch (e) { r.erro_direct = String(e.message).slice(0, 160); }
+      }
+      const pub = r.direct ? `@${c.username} te mandei o link no direct 📩` : `@${c.username} o link tá na bio 👆 é só tocar no nosso perfil`;
+      try { await api(`${c.id}/replies`, { message: pub }); r.publica = true; } catch (e) { r.erro_publica = String(e.message).slice(0, 160); }
+      feitos[c.id] = r; mudou = true;
+      console.log("comentario", c.username, r.direct ? "direct" : "sem direct", r.publica ? "+ publica" : "");
+    }
+  }
+  if (mudou) { respostasJson = JSON.stringify(feitos, null, 1); writeFileSync("respostas.json", respostasJson); }
 }
