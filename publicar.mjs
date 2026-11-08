@@ -49,7 +49,7 @@ let ultimoUso = "";
 // Limite de chamadas do Meta (códigos 4, 17, 32, 613 ou "request limit"): para a rodada e tenta na próxima.
 const ehLimite = (m) => /request limit|rate limit|too many|(#(4|17|32|613))/i.test(m);
 async function api(path, params = {}, method = "POST") {
-  const body = new URLSearchParams({ ...params, access_token: TOKEN });
+  const body = new URLSearchParams({ access_token: TOKEN, ...params });
   const url = method === "GET" ? `${G}/${path}?${body}` : `${G}/${path}`;
   const r = await fetch(url, method === "GET" ? {} : { method, body });
   const uso = r.headers.get("x-app-usage") || r.headers.get("x-business-use-case-usage");
@@ -147,6 +147,7 @@ if (process.env.TESTE) {
       break;
     } catch (e) { console.log("INSIGHTS ERRO", m.id, String(e.message).slice(0, 160)); }
   }
+  await paginaDoIG();
   process.exit(0);
 }
 const agora = Date.now();
@@ -226,6 +227,16 @@ async function metricasConta() {
 // Direct (resposta privada ao comentário) precisa de instagram_manage_messages; resposta pública precisa de
 // instagram_manage_comments. Sem a permissão, avisa no log uma vez e não atrapalha a publicação.
 // Cada comentário é respondido uma vez só (respostas.json); só comentários de cima, nunca respostas.
+// O direct pela resposta privada sai pela Página ligada ao Instagram, com o token da Página.
+// O secret pode ser token de usuário (não expira): aqui ele pega o token da Página sozinho.
+async function paginaDoIG() {
+  try {
+    const ps = (await api("me/accounts", { fields: "id,name,access_token,instagram_business_account", limit: "100" }, "GET")).data || [];
+    const p = ps.find((x) => x.instagram_business_account?.id === IG);
+    console.log("comentarios: pagina do IG", p ? p.name : "nao achada (direct vai tentar pelo IG)");
+    return p || null;
+  } catch (e) { console.log("comentarios: sem lista de paginas", String(e.message).slice(0, 120)); return null; }
+}
 async function responderComentarios() {
   const LP = "https://pertinho.club/pizza?utm_source=instagram&utm_medium=comentario&utm_campaign=organico";
   const TESTE = "https://pertinho.club/pizza/teste?utm_source=instagram&utm_medium=comentario&utm_campaign=organico";
@@ -233,7 +244,7 @@ async function responderComentarios() {
   const feitos = existsSync("respostas.json") ? JSON.parse(readFileSync("respostas.json", "utf8")) : {};
   const me = await api(IG, { fields: "username" }, "GET");
   const midias = (await api(`${IG}/media`, { fields: "id,timestamp,comments_count", limit: "40" }, "GET")).data || [];
-  let n = 0, mudou = false;
+  let n = 0, mudou = false, pagina;
   // só busca os comentários de quem ganhou comentário novo desde a última rodada (economiza chamada da API)
   const cont = feitos._contagem || {};
   for (const m of midias.filter((x) => x.comments_count > (cont[x.id] || 0) && Date.now() - new Date(x.timestamp) < 30 * 86400e3)) {
@@ -251,8 +262,9 @@ ${LP}
 
 São 90 posts + 90 stories com a sua logo, cores e WhatsApp. Quer ver com a SUA marca antes de comprar? Teste grátis aqui:
 ${TESTE}`;
-      for (const alvo of [IG, process.env.PAGE_ID].filter(Boolean)) {
-        try { await api(`${alvo}/messages`, { recipient: JSON.stringify({ comment_id: c.id }), message: JSON.stringify({ text: dm }) }); r.direct = true; break; }
+      if (pagina === undefined) pagina = await paginaDoIG();
+      for (const [alvo, tk] of [[pagina?.id, pagina?.access_token], [IG]].filter((x) => x[0])) {
+        try { await api(`${alvo}/messages`, { recipient: JSON.stringify({ comment_id: c.id }), message: JSON.stringify({ text: dm }), ...(tk ? { access_token: tk } : {}) }); r.direct = true; break; }
         catch (e) { r.erro_direct = String(e.message).slice(0, 160); }
       }
       const pub = r.direct ? `@${c.username} te mandei o link no direct 📩` : `@${c.username} o link tá na bio 👆 é só tocar no nosso perfil`;
