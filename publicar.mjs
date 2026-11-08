@@ -233,7 +233,7 @@ async function paginaDoIG() {
   try {
     const ps = (await api("me/accounts", { fields: "id,name,access_token,instagram_business_account", limit: "100" }, "GET")).data || [];
     const p = ps.find((x) => x.instagram_business_account?.id === IG);
-    console.log("comentarios: pagina do IG", p ? p.name : "nao achada (direct vai tentar pelo IG)");
+    console.log("comentarios: pagina do IG", p ? p.name : `nao achada (direct vai tentar pelo IG); paginas no token: ${ps.map((x) => `${x.name}${x.instagram_business_account ? " (tem IG)" : ""}`).join(", ") || "nenhuma"}`);
     return p || null;
   } catch (e) { console.log("comentarios: sem lista de paginas", String(e.message).slice(0, 120)); return null; }
 }
