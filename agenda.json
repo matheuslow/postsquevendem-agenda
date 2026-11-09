@@ -12877,7 +12877,10 @@
   "legenda": "Segunda, 19h. O forno tá pronto e o salão tá vazio.\nQuem é dono conhece: olhar o WhatsApp de 5 em 5 minutos esperando um pedido.\nNão é culpa sua nem da pizza. Na segunda o cliente só não lembrou de você.\nE cliente lembra de quem aparece.\nPosts prontos com a sua marca, link na bio\n#pizzaria #donodepizzaria #pizza #segundafeira",
   "tema": "POV segunda 19h, forno ligado, salão vazio, WhatsApp parado",
   "cta": "bio",
-  "lote": "nov-30dias"
+  "lote": "nov-30dias",
+  "trial": false,
+  "container": "17942387433162872",
+  "publicar_tentado": "2026-11-09T14:03:05.750Z"
  },
  {
   "id": "ND01-14h30-story",
