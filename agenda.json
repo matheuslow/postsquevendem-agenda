@@ -13146,7 +13146,10 @@
   "legenda": "Imagina abrir a semana com todos os posts prontos.\nSegunda, terça, quarta, sexta, domingo. Tudo com a sua logo, as suas cores e o seu WhatsApp.\nSão 90 posts + 90 stories. Você escolhe o do dia, troca preço ou sabor e posta.\nComenta POSTS que eu te respondo com o link\n#pizzaria #donodepizzaria #pizza #postsprontos",
   "tema": "90 posts com a sua marca, olha a semana inteira pronta",
   "cta": "comenta",
-  "lote": "nov-30dias"
+  "lote": "nov-30dias",
+  "trial": false,
+  "container": "17942782560162872",
+  "publicar_tentado": "2026-11-10T23:03:50.439Z"
  },
  {
   "id": "ND02-21h30-story",
