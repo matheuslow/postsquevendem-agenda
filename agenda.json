@@ -13047,7 +13047,10 @@
   "legenda": "Quanto vale 1 cliente que para de pedir?\nExemplo: ticket de R$ 60, 2 pedidos por mês, 12 meses. Dá R$ 1.440 por ano. Faça a conta com os seus números.\nEle quase nunca some por raiva. Só esqueceu de você.\nPost toda semana é o jeito mais barato de ser lembrado.\nPosts prontos com a sua marca, link na bio\n#pizzaria #donodepizzaria #pizza #clientefiel",
   "tema": "Conta rápida: quanto vale 1 cliente que some",
   "cta": "bio",
-  "lote": "nov-30dias"
+  "lote": "nov-30dias",
+  "trial": false,
+  "container": "17942665614162872",
+  "publicar_tentado": "2026-11-10T14:03:02.748Z"
  },
  {
   "id": "ND02-14h30-story",
