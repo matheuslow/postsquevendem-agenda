@@ -13208,7 +13208,10 @@
   "legenda": "Mesma pizzaria, mesmo forno, mesma pizza.\nSexta 20h é caixa voando. Terça 20h é silêncio.\nA pizza não piorou de um dia pro outro. O que falta na terça é um motivo pro cliente lembrar de você.\nPosts prontos com a sua marca, link na bio\n#pizzaria #donodepizzaria #pizza #tercafeira",
   "tema": "Sexta 20h x terça 20h (contraste)",
   "cta": "bio",
-  "lote": "nov-30dias"
+  "lote": "nov-30dias",
+  "trial": false,
+  "container": "17942944287162872",
+  "publicar_tentado": "2026-11-11T14:03:00.137Z"
  },
  {
   "id": "ND03-14h30-story",
