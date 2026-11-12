@@ -13356,7 +13356,10 @@
   "legenda": "Ninguém acorda pensando na sua pizza.\nO cliente trabalha, pega trânsito, chega cansado. Aí abre o celular, vê um post de pizza e pronto: lembrou de você.\nQuem aparece na hora da fome é lembrado. Quem some, não.\nPosts prontos com a sua marca, link na bio\n#pizzaria #donodepizzaria #pizza #instagramparapizzaria",
   "tema": "O cliente não acorda querendo a sua pizza, ele vê um post às 18h e lembra de você",
   "cta": "bio",
-  "lote": "nov-30dias"
+  "lote": "nov-30dias",
+  "trial": false,
+  "container": "17943212103162872",
+  "publicar_tentado": "2026-11-12T14:03:44.108Z"
  },
  {
   "id": "ND04-14h30-story",
