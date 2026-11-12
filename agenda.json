@@ -13438,7 +13438,10 @@
   "legenda": "18h30, o pizzaiolo manda mensagem: não vem hoje.\nAdivinha quem vai pro forno, atende o WhatsApp, fecha caixa e ainda tem que lembrar de postar?\nEm dia assim, criar post do zero não dá. Post pronto é pra isso.\nPosts prontos com a sua marca, link na bio\n#pizzaria #donodepizzaria #pizza #vidadedono",
   "tema": "O pizzaiolo faltou, adivinha quem foi pro forno (e ainda tem que postar)",
   "cta": "bio",
-  "lote": "nov-30dias"
+  "lote": "nov-30dias",
+  "trial": false,
+  "container": "17943317922162872",
+  "publicar_tentado": "2026-11-12T23:03:18.493Z"
  },
  {
   "id": "ND04-21h30-story",
