@@ -13574,7 +13574,10 @@
   "legenda": "Sextou na pizzaria.\nForno no talo, caixa atrás de caixa, moto saindo sem parar e mesa cheia lá fora.\nÉ pra essa noite que a gente aguenta a terça. Bom rush pra você hoje.\nPosts prontos com a sua marca, link na bio\n#pizzaria #donodepizzaria #pizza #sextou",
   "tema": "Sextou na pizzaria, montagem do rush (forno, caixas, moto)",
   "cta": "bio",
-  "lote": "nov-30dias"
+  "lote": "nov-30dias",
+  "trial": false,
+  "container": "17943576465162872",
+  "publicar_tentado": "2026-11-13T23:02:44.717Z"
  },
  {
   "id": "ND05-21h30-story",
