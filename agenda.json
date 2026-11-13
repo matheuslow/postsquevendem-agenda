@@ -13500,7 +13500,10 @@
   "legenda": "Sexta, 17h: a hora em que muita família ainda tá decidindo a janta.\nO post dessa hora precisa de 4 coisas: o combo da noite, preço claro, o seu WhatsApp e até que horas você entrega.\nRepete toda sexta, no mesmo horário. O cliente acostuma.\nPosts prontos com a sua marca, link na bio\n#pizzaria #donodepizzaria #pizza #sextou",
   "tema": "Sexta, o post das 17h que enche o WhatsApp (combo da noite)",
   "cta": "bio",
-  "lote": "nov-30dias"
+  "lote": "nov-30dias",
+  "trial": false,
+  "container": "17943471765162872",
+  "publicar_tentado": "2026-11-13T14:03:10.265Z"
  },
  {
   "id": "ND05-14h30-story",
