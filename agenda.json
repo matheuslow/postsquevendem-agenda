@@ -13736,7 +13736,10 @@
   "legenda": "Minha opinião: 5 sabores que não podem faltar no feed da sua pizzaria.\nCalabresa, frango com catupiry, 4 queijos, portuguesa e uma doce pra fechar o pedido.\nNão é lista de mais vendidos, é o que todo cliente procura quando abre o seu perfil.\nFaltou algum? Fala aqui embaixo.\nPosts prontos com a sua marca, link na bio\n#pizzaria #donodepizzaria #pizza #saboresdepizza",
   "tema": "Os 5 sabores que não podem faltar no seu feed (opinião, com arte de cada)",
   "cta": "bio",
-  "lote": "nov-30dias"
+  "lote": "nov-30dias",
+  "trial": false,
+  "container": "17943857616162872",
+  "publicar_tentado": "2026-11-14T23:02:49.155Z"
  },
  {
   "id": "ND06-21h30-story",
