@@ -13798,7 +13798,10 @@
   "legenda": "Domingo é mesa cheia e ninguém cozinhou.\nA vó pega a primeira fatia, a criança só quer o queijo, e a sua pizza tá ali no meio de todo mundo.\nÉ por isso que a gente abre domingo. Bom domingo, dono.\nPosts prontos com a sua marca, link na bio\n#pizzaria #donodepizzaria #pizza #pizzaemfamilia",
   "tema": "Domingo é dia de pizza em família (emoção, mesa cheia)",
   "cta": "bio",
-  "lote": "nov-30dias"
+  "lote": "nov-30dias",
+  "trial": false,
+  "container": "17944029771162872",
+  "publicar_tentado": "2026-11-15T14:03:18.238Z"
  },
  {
   "id": "ND07-14h30-story",
