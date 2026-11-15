@@ -13880,7 +13880,10 @@
   "legenda": "Você não precisa de designer. Precisa aparecer todo dia.\nPost lindo uma vez por mês some no feed em horas. Post simples todo dia vira lembrança na cabeça do cliente.\nConstância ganha de capricho. E dá pra ter as duas coisas sem parar o forno.\nComenta POSTS que eu te respondo com o link\n#pizzaria #donodepizzaria #pizza #constancia",
   "tema": "Você não precisa de designer, precisa de constância (risco)",
   "cta": "comenta",
-  "lote": "nov-30dias"
+  "lote": "nov-30dias",
+  "trial": false,
+  "container": "17944148142162872",
+  "publicar_tentado": "2026-11-15T23:03:45.642Z"
  },
  {
   "id": "ND07-21h30-story",
