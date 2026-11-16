@@ -14057,7 +14057,10 @@
   "legenda": "Segunda é o dia que o dono senta e faz conta.\nGás, queijo que subiu de novo, motoboy, taxa do app, aluguel. E a pergunta de sempre: vale a pena?\nVale quando o cliente volta. E ele volta quando lembra de você.\nPosts prontos com a sua marca, link na bio\n#pizzaria #donodepizzaria #pizza #vidadedono",
   "tema": "Segunda, o dia que o dono faz conta",
   "cta": "bio",
-  "lote": "nov-30dias"
+  "lote": "nov-30dias",
+  "trial": false,
+  "container": "17944443426162872",
+  "publicar_tentado": "2026-11-16T23:02:48.643Z"
  },
  {
   "id": "ND08-21h30-story",
