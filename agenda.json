@@ -13976,7 +13976,10 @@
   "legenda": "Pedido de R$ 70 no app de delivery: quanto sobra pra você?\nNo exemplo, com taxa de 23% e embalagem, sobram R$ 49,90. O mesmo pedido direto no WhatsApp sobra R$ 66,00 antes da entrega.\nA taxa é só exemplo, confira a do seu contrato.\nNão é largar o app. É trazer o cliente de volta pro seu WhatsApp.\nPosts prontos com a sua marca, link na bio\n#pizzaria #donodepizzaria #pizza #appdedelivery",
   "tema": "Conta do app de delivery num pedido de R$ 70 x pedido direto no WhatsApp",
   "cta": "bio",
-  "lote": "nov-30dias"
+  "lote": "nov-30dias",
+  "trial": false,
+  "container": "17944333845162872",
+  "publicar_tentado": "2026-11-16T14:03:39.449Z"
  },
  {
   "id": "ND08-14h30-story",
