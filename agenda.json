@@ -14158,7 +14158,10 @@
   "legenda": "Terça fraca de novo?\nO cliente precisa de um motivo pra pedir hoje. \"Toda terça compre 1 leve 2\" é motivo, e já vem pronto com a sua marca.\nAntes de postar: faça a conta com o seu custo, mantenha toda terça e poste às 17h.\nComenta POSTS que eu te respondo com o link\n#pizzaria #donodepizzaria #pizza #tercafeira",
   "tema": "Terça fraca? A arte \"toda terça compre 1 leve 2\" pronta",
   "cta": "comenta",
-  "lote": "nov-30dias"
+  "lote": "nov-30dias",
+  "trial": false,
+  "container": "17944600206162872",
+  "publicar_tentado": "2026-11-17T14:02:50.489Z"
  },
  {
   "id": "ND09-14h30-story",
