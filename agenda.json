@@ -14239,7 +14239,10 @@
   "legenda": "Olha como sai o post de hoje.\nAbre o app no celular, põe a logo uma vez e baixa. Já sai com a sua marca, e você troca preço, sabor e dia quando quiser.\nFunciona no celular, Pix ou cartão e 7 dias de garantia.\nComenta POSTS que eu te respondo com o link\n#pizzaria #donodepizzaria #pizza #postsprontos",
   "tema": "Demo: abre o app, põe a logo, baixa o post",
   "cta": "comenta",
-  "lote": "nov-30dias"
+  "lote": "nov-30dias",
+  "trial": false,
+  "container": "17944698705162872",
+  "publicar_tentado": "2026-11-17T23:03:19.188Z"
  },
  {
   "id": "ND09-21h30-story",
