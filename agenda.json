@@ -14301,7 +14301,10 @@
   "legenda": "Sua pizza é linda. A foto do celular é que não ajuda.\n3 truques: luz da janela e nada de flash, foto de cima com a pizza inteira no quadro, e vídeo do queijo puxando.\nBônus: limpa a lente na camisa antes. Parece bobo, faz diferença.\nPosts prontos com a sua marca, link na bio\n#pizzaria #donodepizzaria #pizza #fotodepizza",
   "tema": "Foto de pizza com celular, 3 truques (luz da janela, de cima, queijo puxando)",
   "cta": "bio",
-  "lote": "nov-30dias"
+  "lote": "nov-30dias",
+  "trial": false,
+  "container": "17944820184162872",
+  "publicar_tentado": "2026-11-18T14:03:20.486Z"
  },
  {
   "id": "ND10-14h30-story",
