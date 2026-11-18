@@ -14382,7 +14382,10 @@
   "legenda": "POV: você abre o Instagram e o concorrente postou de novo.\nPizza bonita, preço na arte, stories no ar. E você ainda nem abriu a massa.\nCalma. Ele não tem mais tempo que você, só não começa do zero. Sua pizza é melhor, mostra ela.\nPosts prontos com a sua marca, link na bio\n#pizzaria #donodepizzaria #pizza #vidadedono",
   "tema": "POV você abre o Instagram e o concorrente postou de novo",
   "cta": "bio",
-  "lote": "nov-30dias"
+  "lote": "nov-30dias",
+  "trial": false,
+  "container": "17944915509162872",
+  "publicar_tentado": "2026-11-18T23:02:20.874Z"
  },
  {
   "id": "ND10-21h30-story",
