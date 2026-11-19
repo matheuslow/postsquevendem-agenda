@@ -14473,7 +14473,10 @@
   "legenda": "Quanto custa a hora que você passa no Canva?\nExemplo: 1h por dia vira 30h no mês. Se a sua hora vale R$ 30, são R$ 900 de tempo.\nTempo que podia ser forno, cliente ou descanso.\nFaz a conta com o valor da sua hora e me conta aqui.\nPosts prontos com a sua marca, link na bio\n#pizzaria #donodepizzaria #pizza #gestaodepizzaria",
   "tema": "Quanto vale o seu tempo, dono? 1h por dia no Canva vira 30h por mês",
   "cta": "bio",
-  "lote": "nov-30dias"
+  "lote": "nov-30dias",
+  "trial": false,
+  "container": "17945032713162872",
+  "publicar_tentado": "2026-11-19T14:03:17.335Z"
  },
  {
   "id": "ND11-14h30-story",
