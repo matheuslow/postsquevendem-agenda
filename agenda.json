@@ -14559,7 +14559,10 @@
   "legenda": "Post pronto não é post genérico.\nA ideia pode ser a mesma, mas cada pizzaria sai com a própria logo, cores, @, WhatsApp e preço.\nO cliente do seu bairro vê a sua pizzaria, não um modelo qualquer.\nComenta POSTS que eu te respondo com o link\n#pizzaria #donodepizzaria #pizza #marketingparapizzaria",
   "tema": "Post pronto não é post genérico: a mesma ideia em pizzarias diferentes",
   "cta": "comenta",
-  "lote": "nov-30dias"
+  "lote": "nov-30dias",
+  "trial": false,
+  "container": "17945105880162872",
+  "publicar_tentado": "2026-11-19T23:02:16.752Z"
  },
  {
   "id": "ND11-21h30-story",
