@@ -14406,7 +14406,9 @@
   ],
   "legenda": "(story de venda, sem legenda)",
   "lote": "nov-30dias",
-  "arte": "s06"
+  "arte": "s06",
+  "container": "17944925292162872",
+  "publicar_tentado": "2026-11-19T00:32:11.464Z"
  },
  {
   "id": "ND11-09h30-story",
