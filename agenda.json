@@ -14621,7 +14621,10 @@
   "legenda": "Feriado é o dia que o cliente acha que a pizzaria fechou.\nO post de hoje precisa dizer 3 coisas: aberto hoje, horário e como pedir. Com foto da pizza.\nSobe até as 17h, antes da fome bater. Às 19h, um story lembrando.\nPosts prontos com a sua marca, link na bio\n#pizzaria #donodepizzaria #pizza #feriado",
   "tema": "Feriado: o post que tem que sair até as 17h (aberto hoje, horário, como pedir)",
   "cta": "bio",
-  "lote": "nov-30dias"
+  "lote": "nov-30dias",
+  "trial": false,
+  "container": "17945236497162872",
+  "publicar_tentado": "2026-11-20T14:02:21.303Z"
  },
  {
   "id": "ND12-14h30-story",
