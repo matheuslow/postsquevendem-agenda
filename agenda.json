@@ -14702,7 +14702,10 @@
   "legenda": "Feriadão: o Brasil inteiro de folga e o dono de pizzaria abrindo massa.\nMassa, forno, zap, caixa, motoboy. Folga fica pra segunda, talvez.\nMas mesa cheia num feriado paga o cansaço.\nMarca aqui quem tá trabalhando hoje com você.\nPosts prontos com a sua marca, link na bio\n#pizzaria #donodepizzaria #pizza #vidadedono",
   "tema": "Feriadão na pizzaria, ninguém folga",
   "cta": "bio",
-  "lote": "nov-30dias"
+  "lote": "nov-30dias",
+  "trial": false,
+  "container": "17945325351162872",
+  "publicar_tentado": "2026-11-20T23:02:24.916Z"
  },
  {
   "id": "ND12-21h30-story",
