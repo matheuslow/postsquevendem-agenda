@@ -14764,7 +14764,10 @@
   "legenda": "Quanto tempo você leva pra fazer um post? Aqui é 1 minuto.\nAbre o app, escolhe o post, troca preço ou sabor, baixa e posta. Sua logo, cores e WhatsApp já estão lá.\nSobra tempo pro que importa: a pizza.\nComenta POSTS que eu te respondo com o link\n#pizzaria #donodepizzaria #pizza #postsprontos",
   "tema": "1 minuto pra postar (cronômetro + app)",
   "cta": "comenta",
-  "lote": "nov-30dias"
+  "lote": "nov-30dias",
+  "trial": false,
+  "container": "17945456070162872",
+  "publicar_tentado": "2026-11-21T14:02:08.158Z"
  },
  {
   "id": "ND13-14h30-story",
