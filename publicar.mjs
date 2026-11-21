@@ -192,8 +192,14 @@ async function coletarMetricas() {
     p.metricas = { ...(p.metricas || {}), curtidas: m.like_count ?? null, comentarios: m.comments_count ?? null, atualizado: new Date().toISOString() };
   }
   let semInsights = false, n = 0;
-  for (const p of agenda.filter((x) => x.ig_media && Date.now() - new Date(x.quando) < 14 * 86400e3)) {
-    if (semInsights || n++ >= 60) break;
+  // 21/11: do mais novo pro mais velho. Antes ia do mais velho e o teto de 60 cortava justo os posts recentes,
+  // e o story (insight só existe por 24 h) nunca era lido a tempo. Story só entra enquanto está no ar.
+  const lerInsights = agenda
+    .filter((x) => x.ig_media && Date.now() - new Date(x.quando) < 14 * 86400e3)
+    .filter((x) => x.tipo !== "story" || Date.now() - new Date(x.quando) < 23 * 3600e3)
+    .sort((x, y) => new Date(y.quando) - new Date(x.quando));
+  for (const p of lerInsights) {
+    if (semInsights || n++ >= 80) break;
     // 07/10: + visitas ao perfil e seguidores ganhos por post; stories com respostas. Lista maior recusada cai na básica.
     const NOMES = { reach: "alcance", views: "visualizacoes", shares: "envios", saved: "salvos", total_interactions: "interacoes", profile_visits: "visitas_perfil", follows: "seguiu", replies: "respostas" };
     const listas = p.tipo === "story" ? ["reach,views,replies,shares,total_interactions,profile_visits,follows", "reach,views,replies,total_interactions"]
