@@ -191,7 +191,7 @@ async function coletarMetricas() {
     p.ig_media = m.id; p.link = m.permalink;
     p.metricas = { ...(p.metricas || {}), curtidas: m.like_count ?? null, comentarios: m.comments_count ?? null, atualizado: new Date().toISOString() };
   }
-  let semInsights = false, n = 0;
+  let semInsights = false, n = 0, erros = 0, lidos = 0;
   // 21/11: do mais novo pro mais velho. Antes ia do mais velho e o teto de 60 cortava justo os posts recentes,
   // e o story (insight só existe por 24 h) nunca era lido a tempo. Story só entra enquanto está no ar.
   const lerInsights = agenda
@@ -207,12 +207,18 @@ async function coletarMetricas() {
     for (const metric of listas) {
       try {
         const r = await api(`${p.ig_media}/insights`, { metric }, "GET");
+        lidos++;
         for (const it of r.data || []) p.metricas[NOMES[it.name] ?? it.name] = it.values?.[0]?.value ?? it.total_value?.value ?? null;
         break;
-      } catch (e) { if (/permission|scope|#10\b|#200/i.test(e.message)) { semInsights = true; console.log("insights sem permissão ainda"); break; } }
+      } catch (e) {
+        // 21/11: o (#10) "not enough viewers" de UM post pouco visto derrubava a coleta inteira. So para tudo se for falta de permissao de verdade.
+        if (/not enough|viewers|insufficient/i.test(e.message)) { if (erros++ < 5) console.log("insight pulado", p.id, String(e.message).slice(0, 120)); break; }
+        if (/#200\b|permission|scope/i.test(e.message)) { semInsights = true; console.log("insights sem permissão ainda", String(e.message).slice(0, 160)); break; }
+        if (erros++ < 5) console.log("insight erro", p.id, String(e.message).slice(0, 160));
+      }
     }
   }
-  console.log("metricas atualizadas", agenda.filter((x) => x.metricas).length);
+  console.log("metricas atualizadas", agenda.filter((x) => x.metricas).length, "insights lidos", lidos);
   await metricasConta().catch((e) => console.error("metricas da conta", e.message));
 }
 
