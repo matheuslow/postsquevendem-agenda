@@ -15126,7 +15126,10 @@
   "legenda": "O cliente pediu a grande e o refri. E a doce?\nPizza doce vende pelo olho: post às 20h com foto de perto, broto doce no cardápio e uma pergunta no WhatsApp na hora de fechar o pedido.\nA pergunta é simples: quer uma broto doce junto?\nPosts prontos com a sua marca, link na bio\n#pizzaria #donodepizzaria #pizza #pizzadoce",
   "tema": "Pizza doce: o post que vende sobremesa no pedido",
   "cta": "bio",
-  "lote": "nov-30dias"
+  "lote": "nov-30dias",
+  "trial": false,
+  "container": "17945761767162872",
+  "publicar_tentado": "2026-11-22T23:02:11.977Z"
  },
  {
   "id": "ND14-21h30-story",
