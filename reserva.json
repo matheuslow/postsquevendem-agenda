@@ -1,0 +1,133 @@
+[
+ {
+  "id": "ND17-17h00",
+  "quando": "2026-11-25T17:00:00-03:00",
+  "etapa": "vida",
+  "tipo": "carrossel",
+  "arquivos": [
+   "midia/ND17-17h00/1.jpg",
+   "midia/ND17-17h00/2.jpg",
+   "midia/ND17-17h00/3.jpg",
+   "midia/ND17-17h00/4.jpg",
+   "midia/ND17-17h00/5.jpg",
+   "midia/ND17-17h00/6.jpg",
+   "midia/ND17-17h00/7.jpg",
+   "midia/ND17-17h00/8.jpg"
+  ],
+  "legenda": "Todo dono de pizzaria já atendeu esses clientes.\nO do já saiu?, o do meio a meio de 4 sabores, o sem endereço, o do precinho, o da borda e o do jogo.\nQual você atendeu hoje? Marca o dono que precisa ver isso.\nPosts prontos com a sua marca, link na bio\n#pizzaria #donodepizzaria #pizza #humordepizzaria",
+  "tema": "Tipos de cliente que toda pizzaria tem (humor)",
+  "cta": "bio",
+  "lote": "nov-30dias",
+  "trocado_por": "FIO-F01-queijo",
+  "trocado_em": "2026-11-22"
+ },
+ {
+  "id": "ND20-17h00",
+  "quando": "2026-11-28T17:00:00-03:00",
+  "etapa": "jeito",
+  "tipo": "carrossel",
+  "arquivos": [
+   "midia/ND20-17h00/1.jpg",
+   "midia/ND20-17h00/2.jpg",
+   "midia/ND20-17h00/3.jpg",
+   "midia/ND20-17h00/4.jpg",
+   "midia/ND20-17h00/5.jpg",
+   "midia/ND20-17h00/6.jpg",
+   "midia/ND20-17h00/7.jpg",
+   "midia/ND20-17h00/8.jpg"
+  ],
+  "legenda": "O mesmo post em pizzarias diferentes. Ficou igual? Olha de novo.\nCada uma sai com a própria logo, cores, @, WhatsApp, preço e dia. A ideia é a mesma, a cara é de cada pizzaria.\nO cliente do bairro só vê a pizzaria dele.\nComenta POSTS que eu te respondo com o link\n#pizzaria #donodepizzaria #pizza #postsprontos",
+  "tema": "O mesmo post em pizzarias diferentes, cada uma com a sua marca",
+  "cta": "comenta",
+  "lote": "nov-30dias",
+  "trocado_por": "FIO-F03-whatsapp",
+  "trocado_em": "2026-11-22"
+ },
+ {
+  "id": "ND21-17h00",
+  "quando": "2026-11-29T17:00:00-03:00",
+  "etapa": "util",
+  "tipo": "carrossel",
+  "arquivos": [
+   "midia/ND21-17h00/1.jpg",
+   "midia/ND21-17h00/2.jpg",
+   "midia/ND21-17h00/3.jpg",
+   "midia/ND21-17h00/4.jpg",
+   "midia/ND21-17h00/5.jpg",
+   "midia/ND21-17h00/6.jpg",
+   "midia/ND21-17h00/7.jpg",
+   "midia/ND21-17h00/8.jpg"
+  ],
+  "legenda": "A 1ª parcela do 13º sai até 30/11 e o cliente fica com vontade de comemorar\nNão precisa dar desconto pra aproveitar: precisa aparecer com a oferta certa\nSalva esse carrossel e usa as 5 ideias até o fim do mês\nPosts prontos com a sua marca, link na bio\n#pizzaria #donodepizzaria #pizza #13salario",
+  "tema": "O 13º caiu, como aproveitar nos posts do fim do mês",
+  "cta": "bio",
+  "lote": "nov-30dias",
+  "trocado_por": "FIO-F02-desconto",
+  "trocado_em": "2026-11-22"
+ },
+ {
+  "id": "ND24-17h00",
+  "quando": "2026-12-02T17:00:00-03:00",
+  "etapa": "oferta",
+  "tipo": "carrossel",
+  "arquivos": [
+   "midia/ND24-17h00/1.jpg",
+   "midia/ND24-17h00/2.jpg",
+   "midia/ND24-17h00/3.jpg",
+   "midia/ND24-17h00/4.jpg",
+   "midia/ND24-17h00/5.jpg",
+   "midia/ND24-17h00/6.jpg",
+   "midia/ND24-17h00/7.jpg",
+   "midia/ND24-17h00/8.jpg"
+  ],
+  "legenda": "Muita gente pergunta como funciona por dentro, então olha o passo a passo\nPõe nome, logo e cores uma vez, escolhe o post, troca preço e sabor e baixa\nR$ 37,80 sem marca ou R$ 67,80 com a sua marca. Pix ou cartão, 7 dias de garantia, acesso pra sempre\nComenta POSTS que eu te respondo com o link\n#pizzaria #donodepizzaria #pizza #postsprontos",
+  "tema": "Como funciona por dentro, passo a passo do app",
+  "cta": "comenta",
+  "lote": "nov-30dias",
+  "trocado_por": "FIO-F07-30-dias",
+  "trocado_em": "2026-11-22"
+ },
+ {
+  "id": "ND26-17h00",
+  "quando": "2026-12-04T17:00:00-03:00",
+  "etapa": "vida",
+  "tipo": "carrossel",
+  "arquivos": [
+   "midia/ND26-17h00/1.jpg",
+   "midia/ND26-17h00/2.jpg",
+   "midia/ND26-17h00/3.jpg",
+   "midia/ND26-17h00/4.jpg",
+   "midia/ND26-17h00/5.jpg",
+   "midia/ND26-17h00/6.jpg",
+   "midia/ND26-17h00/7.jpg",
+   "midia/ND26-17h00/8.jpg"
+  ],
+  "legenda": "Se você já falou pelo menos 3 dessas, é dono de pizzaria raiz\n\"Já saiu, tá chegando\" é clássico. E o \"amanhã eu posto\" também\nMarca o sócio que fala todas\nPosts prontos com a sua marca, link na bio\n#pizzaria #donodepizzaria #pizza #vidadedono",
+  "tema": "Frases que todo dono de pizzaria já falou",
+  "cta": "bio",
+  "lote": "nov-30dias",
+  "trocado_por": "FIO-F06-entrega-gratis",
+  "trocado_em": "2026-11-22"
+ },
+ {
+  "id": "ND29-17h00",
+  "quando": "2026-12-07T17:00:00-03:00",
+  "etapa": "jeito",
+  "tipo": "carrossel",
+  "arquivos": [
+   "midia/ND29-17h00/1.jpg",
+   "midia/ND29-17h00/2.jpg",
+   "midia/ND29-17h00/3.jpg",
+   "midia/ND29-17h00/4.jpg",
+   "midia/ND29-17h00/5.jpg",
+   "midia/ND29-17h00/6.jpg",
+   "midia/ND29-17h00/7.jpg"
+  ],
+  "legenda": "O cliente não lembra do seu post mais bonito, lembra de quem apareceu na hora da fome\nPizza é hábito: quem aparece toda semana vira a pizzaria de sempre\nCom post pronto você não precisa escolher entre bonito e constante\nComenta POSTS que eu te respondo com o link\n#pizzaria #donodepizzaria #pizza #constancia",
+  "tema": "Por que constância vence post bonito",
+  "cta": "comenta",
+  "lote": "nov-30dias",
+  "trocado_por": "FIO-F09-dia-fraco",
+  "trocado_em": "2026-11-22"
+ }
+]
