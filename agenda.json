@@ -15025,7 +15025,10 @@
   "legenda": "Domingo, 23h. A última pizza saiu e a pilha de caixas ainda tá aí.\nPé doendo, mão cheirando a orégano, e amanhã começa tudo de novo.\nSe você também fecha o domingo assim, marca um dono que entende.\nPosts prontos com a sua marca, link na bio\n#pizzaria #donodepizzaria #pizza #vidadedono",
   "tema": "Domingo à noite, a pilha de caixas",
   "cta": "bio",
-  "lote": "nov-30dias"
+  "lote": "nov-30dias",
+  "trial": false,
+  "container": "17945670528162872",
+  "publicar_tentado": "2026-11-22T14:02:12.013Z"
  },
  {
   "id": "ND14-14h30-story",
