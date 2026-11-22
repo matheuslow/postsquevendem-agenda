@@ -15146,6 +15146,26 @@
   "arte": "s11"
  },
  {
+  "id": "FIO-F02-desconto",
+  "quando": "2026-11-23T07:30:00-03:00",
+  "etapa": "util",
+  "tipo": "carrossel",
+  "formato": "fio",
+  "arquivos": [
+   "midia/fios/F02-desconto/1.jpg",
+   "midia/fios/F02-desconto/2.jpg",
+   "midia/fios/F02-desconto/3.jpg",
+   "midia/fios/F02-desconto/4.jpg",
+   "midia/fios/F02-desconto/5.jpg",
+   "midia/fios/F02-desconto/6.jpg",
+   "midia/fios/F02-desconto/7.jpg"
+  ],
+  "legenda": "10% de desconto não tira 10% do seu lucro. Tira muito mais.\nOs números são de exemplo: faça a conta com o seu custo antes da próxima promoção.\nSalva pra lembrar e manda pra quem vive dando desconto.\n#pizzaria #donodepizzaria #promocao #gestaodepizzaria #pizza",
+  "tema": "10% de desconto tira 25% do lucro",
+  "cta": "seguir",
+  "lote": "fios-5dias"
+ },
+ {
   "id": "ND15-09h30-story",
   "quando": "2026-11-23T09:30:00-03:00",
   "etapa": "story",
@@ -15170,6 +15190,26 @@
   "tema": "Black Friday na pizzaria: sim ou não? Sim, sem desconto que queima",
   "cta": "bio",
   "lote": "nov-30dias"
+ },
+ {
+  "id": "FIO-F01-queijo",
+  "quando": "2026-11-23T12:30:00-03:00",
+  "etapa": "util",
+  "tipo": "carrossel",
+  "formato": "fio",
+  "arquivos": [
+   "midia/fios/F01-queijo/1.jpg",
+   "midia/fios/F01-queijo/2.jpg",
+   "midia/fios/F01-queijo/3.jpg",
+   "midia/fios/F01-queijo/4.jpg",
+   "midia/fios/F01-queijo/5.jpg",
+   "midia/fios/F01-queijo/6.jpg",
+   "midia/fios/F01-queijo/7.jpg"
+  ],
+  "legenda": "50 gramas de queijo a mais por pizza parecem nada. No fim do mês é mais de mil reais.\nA conta é de exemplo: troque pelo seu preço do quilo e pelo seu volume.\nManda pra aquele amigo que também tem pizzaria e monta no olho.\n#pizzaria #donodepizzaria #cmv #gestaodepizzaria #pizza",
+  "tema": "50 g de queijo a mais por pizza: a conta do mês",
+  "cta": "seguir",
+  "lote": "fios-5dias"
  },
  {
   "id": "ND15-14h30-story",
@@ -15205,6 +15245,27 @@
   "lote": "nov-30dias"
  },
  {
+  "id": "FIO-F07-30-dias",
+  "quando": "2026-11-23T18:30:00-03:00",
+  "etapa": "util",
+  "tipo": "carrossel",
+  "formato": "fio",
+  "arquivos": [
+   "midia/fios/F07-30-dias/1.jpg",
+   "midia/fios/F07-30-dias/2.jpg",
+   "midia/fios/F07-30-dias/3.jpg",
+   "midia/fios/F07-30-dias/4.jpg",
+   "midia/fios/F07-30-dias/5.jpg",
+   "midia/fios/F07-30-dias/6.jpg",
+   "midia/fios/F07-30-dias/7.jpg",
+   "midia/fios/F07-30-dias/8.jpg"
+  ],
+  "legenda": "Se eu assumisse uma pizzaria de bairro hoje, faria isto nos primeiros 30 dias, nessa ordem.\nPrimeiro o custo, depois o preço, depois o cliente, depois a divulgação.\nSalva e manda pra quem está começando.\n#pizzaria #donodepizzaria #gestaodepizzaria #pizza",
+  "tema": "Se eu assumisse uma pizzaria de bairro hoje: os primeiros 30 dias",
+  "cta": "seguir",
+  "lote": "fios-5dias"
+ },
+ {
   "id": "ND15-20h00",
   "quando": "2026-11-23T20:00:00-03:00",
   "etapa": "jeito",
@@ -15231,6 +15292,26 @@
   "arte": "s15"
  },
  {
+  "id": "FIO-F13-pedido-errado",
+  "quando": "2026-11-24T07:30:00-03:00",
+  "etapa": "util",
+  "tipo": "carrossel",
+  "formato": "fio",
+  "arquivos": [
+   "midia/fios/F13-pedido-errado/1.jpg",
+   "midia/fios/F13-pedido-errado/2.jpg",
+   "midia/fios/F13-pedido-errado/3.jpg",
+   "midia/fios/F13-pedido-errado/4.jpg",
+   "midia/fios/F13-pedido-errado/5.jpg",
+   "midia/fios/F13-pedido-errado/6.jpg",
+   "midia/fios/F13-pedido-errado/7.jpg"
+  ],
+  "legenda": "Um pedido errado por dia parece pouco. Faça a conta do mês.\nOs valores são de exemplo: use o custo da sua pizza e da sua entrega.\nManda pra equipe.\n#pizzaria #donodepizzaria #gestaodepizzaria #pizza #atendimento",
+  "tema": "Um pedido errado por dia custa R$ 780 por mês",
+  "cta": "seguir",
+  "lote": "fios-5dias"
+ },
+ {
   "id": "ND16-09h30-story",
   "quando": "2026-11-24T09:30:00-03:00",
   "etapa": "story",
@@ -15255,6 +15336,28 @@
   "tema": "Terça 19h, o forno ligado esperando pedido",
   "cta": "bio",
   "lote": "nov-30dias"
+ },
+ {
+  "id": "FIO-F03-whatsapp",
+  "quando": "2026-11-24T12:30:00-03:00",
+  "etapa": "util",
+  "tipo": "carrossel",
+  "formato": "fio",
+  "arquivos": [
+   "midia/fios/F03-whatsapp/1.jpg",
+   "midia/fios/F03-whatsapp/2.jpg",
+   "midia/fios/F03-whatsapp/3.jpg",
+   "midia/fios/F03-whatsapp/4.jpg",
+   "midia/fios/F03-whatsapp/5.jpg",
+   "midia/fios/F03-whatsapp/6.jpg",
+   "midia/fios/F03-whatsapp/7.jpg",
+   "midia/fios/F03-whatsapp/8.jpg",
+   "midia/fios/F03-whatsapp/9.jpg"
+  ],
+  "legenda": "O cliente perguntou o valor e sumiu? Quase sempre o problema foi a resposta, não o preço.\n6 respostas pra copiar e salvar como mensagem rápida no WhatsApp Business. Troque os preços e os sabores pelos seus.\nSalva e manda pra quem atende o WhatsApp da pizzaria.\n#pizzaria #donodepizzaria #whatsappbusiness #atendimento #pizza",
+  "tema": "6 respostas de WhatsApp pra copiar",
+  "cta": "seguir",
+  "lote": "fios-5dias"
  },
  {
   "id": "ND16-14h30-story",
@@ -15289,6 +15392,26 @@
   "lote": "nov-30dias"
  },
  {
+  "id": "FIO-F09-dia-fraco",
+  "quando": "2026-11-24T18:30:00-03:00",
+  "etapa": "util",
+  "tipo": "carrossel",
+  "formato": "fio",
+  "arquivos": [
+   "midia/fios/F09-dia-fraco/1.jpg",
+   "midia/fios/F09-dia-fraco/2.jpg",
+   "midia/fios/F09-dia-fraco/3.jpg",
+   "midia/fios/F09-dia-fraco/4.jpg",
+   "midia/fios/F09-dia-fraco/5.jpg",
+   "midia/fios/F09-dia-fraco/6.jpg",
+   "midia/fios/F09-dia-fraco/7.jpg"
+  ],
+  "legenda": "Antes de vender a primeira pizza do dia, você já tem uma conta pra pagar.\nOs números são de exemplo. O seu: custo fixo do mês ÷ dias abertos ÷ quanto sobra por pizza.\nManda pra quem abre toda segunda torcendo.\n#pizzaria #donodepizzaria #gestaodepizzaria #pizza",
+  "tema": "Quanto custa abrir a porta: a conta do dia fraco",
+  "cta": "seguir",
+  "lote": "fios-5dias"
+ },
+ {
   "id": "ND16-20h00",
   "quando": "2026-11-24T20:00:00-03:00",
   "etapa": "oferta",
@@ -15313,6 +15436,27 @@
   "legenda": "(story de venda, sem legenda)",
   "lote": "nov-30dias",
   "arte": "s04"
+ },
+ {
+  "id": "FIO-F04-buracos",
+  "quando": "2026-11-25T07:30:00-03:00",
+  "etapa": "util",
+  "tipo": "carrossel",
+  "formato": "fio",
+  "arquivos": [
+   "midia/fios/F04-buracos/1.jpg",
+   "midia/fios/F04-buracos/2.jpg",
+   "midia/fios/F04-buracos/3.jpg",
+   "midia/fios/F04-buracos/4.jpg",
+   "midia/fios/F04-buracos/5.jpg",
+   "midia/fios/F04-buracos/6.jpg",
+   "midia/fios/F04-buracos/7.jpg",
+   "midia/fios/F04-buracos/8.jpg"
+  ],
+  "legenda": "Pizzaria cheia no sábado e conta vazia na segunda. Quase sempre é um destes 5 buracos.\nNão precisa resolver tudo: escolha um e resolva esta semana.\nQual deles é o seu? Manda pra outro dono de pizzaria.\n#pizzaria #donodepizzaria #gestaodepizzaria #lucro #pizza",
+  "tema": "5 buracos por onde o dinheiro da pizzaria escapa",
+  "cta": "seguir",
+  "lote": "fios-5dias"
  },
  {
   "id": "ND17-09h30-story",
@@ -15341,6 +15485,26 @@
   "lote": "nov-30dias"
  },
  {
+  "id": "FIO-F10-refri",
+  "quando": "2026-11-25T12:30:00-03:00",
+  "etapa": "util",
+  "tipo": "carrossel",
+  "formato": "fio",
+  "arquivos": [
+   "midia/fios/F10-refri/1.jpg",
+   "midia/fios/F10-refri/2.jpg",
+   "midia/fios/F10-refri/3.jpg",
+   "midia/fios/F10-refri/4.jpg",
+   "midia/fios/F10-refri/5.jpg",
+   "midia/fios/F10-refri/6.jpg",
+   "midia/fios/F10-refri/7.jpg"
+  ],
+  "legenda": "Uma pergunta de 5 segundos no fim do pedido. Quase nenhum atendente faz.\nOs números são de exemplo: troque pelo seu volume e pelo seu preço.\nManda pra quem atende o WhatsApp da pizzaria.\n#pizzaria #donodepizzaria #gestaodepizzaria #pizza #atendimento",
+  "tema": "A pergunta de 5 segundos que vale R$ 1.200 por mês",
+  "cta": "seguir",
+  "lote": "fios-5dias"
+ },
+ {
   "id": "ND17-14h30-story",
   "quando": "2026-11-25T14:30:00-03:00",
   "etapa": "story",
@@ -15353,24 +15517,64 @@
   "arte": "s02"
  },
  {
-  "id": "FIO-F01-queijo",
-  "quando": "2026-11-25T17:00:00-03:00",
+  "id": "FIO-F08-lucro-por-sabor",
+  "quando": "2026-11-25T15:00:00-03:00",
   "etapa": "util",
   "tipo": "carrossel",
   "formato": "fio",
   "arquivos": [
-   "midia/fios/F01-queijo/1.jpg",
-   "midia/fios/F01-queijo/2.jpg",
-   "midia/fios/F01-queijo/3.jpg",
-   "midia/fios/F01-queijo/4.jpg",
-   "midia/fios/F01-queijo/5.jpg",
-   "midia/fios/F01-queijo/6.jpg",
-   "midia/fios/F01-queijo/7.jpg"
+   "midia/fios/F08-lucro-por-sabor/1.jpg",
+   "midia/fios/F08-lucro-por-sabor/2.jpg",
+   "midia/fios/F08-lucro-por-sabor/3.jpg",
+   "midia/fios/F08-lucro-por-sabor/4.jpg",
+   "midia/fios/F08-lucro-por-sabor/5.jpg",
+   "midia/fios/F08-lucro-por-sabor/6.jpg",
+   "midia/fios/F08-lucro-por-sabor/7.jpg"
   ],
-  "legenda": "50 gramas de queijo a mais por pizza parecem nada. No fim do mês é mais de mil reais.\nA conta é de exemplo: troque pelo seu preço do quilo e pelo seu volume.\nManda pra aquele amigo que também tem pizzaria e monta no olho.\n#pizzaria #donodepizzaria #cmv #gestaodepizzaria #pizza",
-  "tema": "50 g de queijo a mais por pizza: a conta do mês",
+  "legenda": "A pizza mais cara do seu cardápio pode deixar menos dinheiro que a mais barata.\nOs números são de exemplo: faça a lista com os seus sabores.\nSalva pra fazer no domingo.\n#pizzaria #donodepizzaria #gestaodepizzaria #pizza #cardapio",
+  "tema": "A pizza mais cara do cardápio pode deixar menos dinheiro",
   "cta": "seguir",
-  "lote": "fios-nov"
+  "lote": "fios-5dias"
+ },
+ {
+  "id": "ND17-17h00",
+  "quando": "2026-11-25T17:00:00-03:00",
+  "etapa": "vida",
+  "tipo": "carrossel",
+  "arquivos": [
+   "midia/ND17-17h00/1.jpg",
+   "midia/ND17-17h00/2.jpg",
+   "midia/ND17-17h00/3.jpg",
+   "midia/ND17-17h00/4.jpg",
+   "midia/ND17-17h00/5.jpg",
+   "midia/ND17-17h00/6.jpg",
+   "midia/ND17-17h00/7.jpg",
+   "midia/ND17-17h00/8.jpg"
+  ],
+  "legenda": "Todo dono de pizzaria já atendeu esses clientes.\nO do já saiu?, o do meio a meio de 4 sabores, o sem endereço, o do precinho, o da borda e o do jogo.\nQual você atendeu hoje? Marca o dono que precisa ver isso.\nPosts prontos com a sua marca, link na bio\n#pizzaria #donodepizzaria #pizza #humordepizzaria",
+  "tema": "Tipos de cliente que toda pizzaria tem (humor)",
+  "cta": "bio",
+  "lote": "nov-30dias"
+ },
+ {
+  "id": "FIO-F06-entrega-gratis",
+  "quando": "2026-11-25T18:30:00-03:00",
+  "etapa": "util",
+  "tipo": "carrossel",
+  "formato": "fio",
+  "arquivos": [
+   "midia/fios/F06-entrega-gratis/1.jpg",
+   "midia/fios/F06-entrega-gratis/2.jpg",
+   "midia/fios/F06-entrega-gratis/3.jpg",
+   "midia/fios/F06-entrega-gratis/4.jpg",
+   "midia/fios/F06-entrega-gratis/5.jpg",
+   "midia/fios/F06-entrega-gratis/6.jpg",
+   "midia/fios/F06-entrega-gratis/7.jpg"
+  ],
+  "legenda": "Entrega grátis: sim ou não? Depende de uma conta de 2 minutos.\nOs valores são de exemplo: use o seu custo por entrega e o seu ticket médio.\nVocê cobra a entrega? Conta aqui.\n#pizzaria #donodepizzaria #gestaodepizzaria #pizza #delivery",
+  "tema": "Entrega grátis: sim ou não? A conta de 2 minutos",
+  "cta": "seguir",
+  "lote": "fios-5dias"
  },
  {
   "id": "ND17-20h00",
@@ -15399,6 +15603,26 @@
   "arte": "s07"
  },
  {
+  "id": "FIO-F14-subir-preco",
+  "quando": "2026-11-26T07:30:00-03:00",
+  "etapa": "util",
+  "tipo": "carrossel",
+  "formato": "fio",
+  "arquivos": [
+   "midia/fios/F14-subir-preco/1.jpg",
+   "midia/fios/F14-subir-preco/2.jpg",
+   "midia/fios/F14-subir-preco/3.jpg",
+   "midia/fios/F14-subir-preco/4.jpg",
+   "midia/fios/F14-subir-preco/5.jpg",
+   "midia/fios/F14-subir-preco/6.jpg",
+   "midia/fios/F14-subir-preco/7.jpg"
+  ],
+  "legenda": "Subir R$ 3 na pizza dá medo. Não subir também custa.\nOs números são de exemplo: faça a conta com o seu volume e com o que sobra por pizza.\nSalva pra próxima vez que o queijo subir.\n#pizzaria #donodepizzaria #gestaodepizzaria #pizza #precificacao",
+  "tema": "Subir R$ 3 no preço: a conta e o jeito certo",
+  "cta": "seguir",
+  "lote": "fios-5dias"
+ },
+ {
   "id": "ND18-09h30-story",
   "quando": "2026-11-26T09:30:00-03:00",
   "etapa": "story",
@@ -15423,6 +15647,26 @@
   "tema": "Esquenta Black Friday: o post de amanhã já tá pronto",
   "cta": "comenta",
   "lote": "nov-30dias"
+ },
+ {
+  "id": "FIO-F05-preco-app",
+  "quando": "2026-11-26T12:30:00-03:00",
+  "etapa": "util",
+  "tipo": "carrossel",
+  "formato": "fio",
+  "arquivos": [
+   "midia/fios/F05-preco-app/1.jpg",
+   "midia/fios/F05-preco-app/2.jpg",
+   "midia/fios/F05-preco-app/3.jpg",
+   "midia/fios/F05-preco-app/4.jpg",
+   "midia/fios/F05-preco-app/5.jpg",
+   "midia/fios/F05-preco-app/6.jpg",
+   "midia/fios/F05-preco-app/7.jpg"
+  ],
+  "legenda": "Preço igual no app e no WhatsApp: certo ou errado?\nA taxa do exemplo é ilustrativa. Confira a sua no contrato e as regras do aplicativo antes de mudar qualquer preço.\nVocê cobra igual ou diferente? Conta aqui.\n#pizzaria #donodepizzaria #gestaodepizzaria #pizza #delivery",
+  "tema": "Preço igual no app e no WhatsApp: certo ou errado?",
+  "cta": "seguir",
+  "lote": "fios-5dias"
  },
  {
   "id": "ND18-14h30-story",
@@ -15458,6 +15702,26 @@
   "lote": "nov-30dias"
  },
  {
+  "id": "FIO-F16-promo-dia-fraco",
+  "quando": "2026-11-26T18:30:00-03:00",
+  "etapa": "util",
+  "tipo": "carrossel",
+  "formato": "fio",
+  "arquivos": [
+   "midia/fios/F16-promo-dia-fraco/1.jpg",
+   "midia/fios/F16-promo-dia-fraco/2.jpg",
+   "midia/fios/F16-promo-dia-fraco/3.jpg",
+   "midia/fios/F16-promo-dia-fraco/4.jpg",
+   "midia/fios/F16-promo-dia-fraco/5.jpg",
+   "midia/fios/F16-promo-dia-fraco/6.jpg",
+   "midia/fios/F16-promo-dia-fraco/7.jpg"
+  ],
+  "legenda": "Promoção que funciona no dia fraco tem 4 regras. A maioria das pizzarias quebra pelo menos duas.\nDê 4 semanas antes de julgar.\nSalva e manda pra quem decide a promoção.\n#pizzaria #donodepizzaria #gestaodepizzaria #pizza #promocao",
+  "tema": "Promoção de dia fraco que funciona: 4 regras",
+  "cta": "seguir",
+  "lote": "fios-5dias"
+ },
+ {
   "id": "ND18-20h00",
   "quando": "2026-11-26T20:00:00-03:00",
   "etapa": "vida",
@@ -15484,6 +15748,26 @@
   "arte": "s03"
  },
  {
+  "id": "FIO-F11-ficha",
+  "quando": "2026-11-27T07:30:00-03:00",
+  "etapa": "util",
+  "tipo": "carrossel",
+  "formato": "fio",
+  "arquivos": [
+   "midia/fios/F11-ficha/1.jpg",
+   "midia/fios/F11-ficha/2.jpg",
+   "midia/fios/F11-ficha/3.jpg",
+   "midia/fios/F11-ficha/4.jpg",
+   "midia/fios/F11-ficha/5.jpg",
+   "midia/fios/F11-ficha/6.jpg",
+   "midia/fios/F11-ficha/7.jpg"
+  ],
+  "legenda": "Você sabe o preço da sua pizza. Sabe quanto ela custa?\nOs valores são de exemplo: pese e use os preços do seu fornecedor.\nSalva e faz um sabor hoje.\n#pizzaria #donodepizzaria #gestaodepizzaria #pizza #fichatecnica #cmv",
+  "tema": "Quanto custa a sua pizza: a ficha de um sabor em 15 minutos",
+  "cta": "seguir",
+  "lote": "fios-5dias"
+ },
+ {
   "id": "ND19-09h30-story",
   "quando": "2026-11-27T09:30:00-03:00",
   "etapa": "story",
@@ -15508,6 +15792,26 @@
   "tema": "Black Friday da sua pizzaria com post de promoção pronto",
   "cta": "comenta",
   "lote": "nov-30dias"
+ },
+ {
+  "id": "FIO-F12-google",
+  "quando": "2026-11-27T12:30:00-03:00",
+  "etapa": "util",
+  "tipo": "carrossel",
+  "formato": "fio",
+  "arquivos": [
+   "midia/fios/F12-google/1.jpg",
+   "midia/fios/F12-google/2.jpg",
+   "midia/fios/F12-google/3.jpg",
+   "midia/fios/F12-google/4.jpg",
+   "midia/fios/F12-google/5.jpg",
+   "midia/fios/F12-google/6.jpg",
+   "midia/fios/F12-google/7.jpg"
+  ],
+  "legenda": "A maioria das pizzarias tem cliente satisfeito e poucas avaliações. O motivo: ninguém pediu.\nSalva a mensagem e deixa o link pronto no WhatsApp.\nManda pra quem cuida do atendimento.\n#pizzaria #donodepizzaria #gestaodepizzaria #pizza #googlemeunegocio",
+  "tema": "Como conseguir avaliação no Google sem pedir favor",
+  "cta": "seguir",
+  "lote": "fios-5dias"
  },
  {
   "id": "ND19-14h30-story",
@@ -15540,6 +15844,27 @@
   "tema": "Black Friday: 5 posts pra hoje e o horário de cada",
   "cta": "bio",
   "lote": "nov-30dias"
+ },
+ {
+  "id": "FIO-F15-cinco-numeros",
+  "quando": "2026-11-27T18:30:00-03:00",
+  "etapa": "util",
+  "tipo": "carrossel",
+  "formato": "fio",
+  "arquivos": [
+   "midia/fios/F15-cinco-numeros/1.jpg",
+   "midia/fios/F15-cinco-numeros/2.jpg",
+   "midia/fios/F15-cinco-numeros/3.jpg",
+   "midia/fios/F15-cinco-numeros/4.jpg",
+   "midia/fios/F15-cinco-numeros/5.jpg",
+   "midia/fios/F15-cinco-numeros/6.jpg",
+   "midia/fios/F15-cinco-numeros/7.jpg",
+   "midia/fios/F15-cinco-numeros/8.jpg"
+  ],
+  "legenda": "5 números que o dono de pizzaria precisa saber de cabeça. Nenhum precisa de sistema caro.\nUm caderno e 10 minutos no domingo à noite resolvem.\nQual deles você ainda não sabe? Salva e manda pro sócio.\n#pizzaria #donodepizzaria #gestaodepizzaria #pizza",
+  "tema": "5 números que o dono de pizzaria precisa saber de cabeça",
+  "cta": "seguir",
+  "lote": "fios-5dias"
  },
  {
   "id": "ND19-20h00",
@@ -15606,26 +15931,24 @@
   "arte": "s03"
  },
  {
-  "id": "FIO-F03-whatsapp",
+  "id": "ND20-17h00",
   "quando": "2026-11-28T17:00:00-03:00",
-  "etapa": "util",
+  "etapa": "jeito",
   "tipo": "carrossel",
-  "formato": "fio",
   "arquivos": [
-   "midia/fios/F03-whatsapp/1.jpg",
-   "midia/fios/F03-whatsapp/2.jpg",
-   "midia/fios/F03-whatsapp/3.jpg",
-   "midia/fios/F03-whatsapp/4.jpg",
-   "midia/fios/F03-whatsapp/5.jpg",
-   "midia/fios/F03-whatsapp/6.jpg",
-   "midia/fios/F03-whatsapp/7.jpg",
-   "midia/fios/F03-whatsapp/8.jpg",
-   "midia/fios/F03-whatsapp/9.jpg"
+   "midia/ND20-17h00/1.jpg",
+   "midia/ND20-17h00/2.jpg",
+   "midia/ND20-17h00/3.jpg",
+   "midia/ND20-17h00/4.jpg",
+   "midia/ND20-17h00/5.jpg",
+   "midia/ND20-17h00/6.jpg",
+   "midia/ND20-17h00/7.jpg",
+   "midia/ND20-17h00/8.jpg"
   ],
-  "legenda": "O cliente perguntou o valor e sumiu? Quase sempre o problema foi a resposta, não o preço.\n6 respostas pra copiar e salvar como mensagem rápida no WhatsApp Business. Troque os preços e os sabores pelos seus.\nSalva e manda pra quem atende o WhatsApp da pizzaria.\n#pizzaria #donodepizzaria #whatsappbusiness #atendimento #pizza",
-  "tema": "6 respostas de WhatsApp pra copiar",
-  "cta": "seguir",
-  "lote": "fios-nov"
+  "legenda": "O mesmo post em pizzarias diferentes. Ficou igual? Olha de novo.\nCada uma sai com a própria logo, cores, @, WhatsApp, preço e dia. A ideia é a mesma, a cara é de cada pizzaria.\nO cliente do bairro só vê a pizzaria dele.\nComenta POSTS que eu te respondo com o link\n#pizzaria #donodepizzaria #pizza #postsprontos",
+  "tema": "O mesmo post em pizzarias diferentes, cada uma com a sua marca",
+  "cta": "comenta",
+  "lote": "nov-30dias"
  },
  {
   "id": "ND20-20h00",
@@ -15692,24 +16015,24 @@
   "arte": "s14"
  },
  {
-  "id": "FIO-F02-desconto",
+  "id": "ND21-17h00",
   "quando": "2026-11-29T17:00:00-03:00",
   "etapa": "util",
   "tipo": "carrossel",
-  "formato": "fio",
   "arquivos": [
-   "midia/fios/F02-desconto/1.jpg",
-   "midia/fios/F02-desconto/2.jpg",
-   "midia/fios/F02-desconto/3.jpg",
-   "midia/fios/F02-desconto/4.jpg",
-   "midia/fios/F02-desconto/5.jpg",
-   "midia/fios/F02-desconto/6.jpg",
-   "midia/fios/F02-desconto/7.jpg"
+   "midia/ND21-17h00/1.jpg",
+   "midia/ND21-17h00/2.jpg",
+   "midia/ND21-17h00/3.jpg",
+   "midia/ND21-17h00/4.jpg",
+   "midia/ND21-17h00/5.jpg",
+   "midia/ND21-17h00/6.jpg",
+   "midia/ND21-17h00/7.jpg",
+   "midia/ND21-17h00/8.jpg"
   ],
-  "legenda": "10% de desconto não tira 10% do seu lucro. Tira muito mais.\nOs números são de exemplo: faça a conta com o seu custo antes da próxima promoção.\nSalva pra lembrar e manda pra quem vive dando desconto.\n#pizzaria #donodepizzaria #promocao #gestaodepizzaria #pizza",
-  "tema": "10% de desconto tira 25% do lucro",
-  "cta": "seguir",
-  "lote": "fios-nov"
+  "legenda": "A 1ª parcela do 13º sai até 30/11 e o cliente fica com vontade de comemorar\nNão precisa dar desconto pra aproveitar: precisa aparecer com a oferta certa\nSalva esse carrossel e usa as 5 ideias até o fim do mês\nPosts prontos com a sua marca, link na bio\n#pizzaria #donodepizzaria #pizza #13salario",
+  "tema": "O 13º caiu, como aproveitar nos posts do fim do mês",
+  "cta": "bio",
+  "lote": "nov-30dias"
  },
  {
   "id": "ND21-20h00",
@@ -15944,25 +16267,24 @@
   "arte": "s09"
  },
  {
-  "id": "FIO-F07-30-dias",
+  "id": "ND24-17h00",
   "quando": "2026-12-02T17:00:00-03:00",
-  "etapa": "util",
+  "etapa": "oferta",
   "tipo": "carrossel",
-  "formato": "fio",
   "arquivos": [
-   "midia/fios/F07-30-dias/1.jpg",
-   "midia/fios/F07-30-dias/2.jpg",
-   "midia/fios/F07-30-dias/3.jpg",
-   "midia/fios/F07-30-dias/4.jpg",
-   "midia/fios/F07-30-dias/5.jpg",
-   "midia/fios/F07-30-dias/6.jpg",
-   "midia/fios/F07-30-dias/7.jpg",
-   "midia/fios/F07-30-dias/8.jpg"
+   "midia/ND24-17h00/1.jpg",
+   "midia/ND24-17h00/2.jpg",
+   "midia/ND24-17h00/3.jpg",
+   "midia/ND24-17h00/4.jpg",
+   "midia/ND24-17h00/5.jpg",
+   "midia/ND24-17h00/6.jpg",
+   "midia/ND24-17h00/7.jpg",
+   "midia/ND24-17h00/8.jpg"
   ],
-  "legenda": "Se eu assumisse uma pizzaria de bairro hoje, faria isto nos primeiros 30 dias, nessa ordem.\nPrimeiro o custo, depois o preço, depois o cliente, depois a divulgação.\nSalva e manda pra quem está começando.\n#pizzaria #donodepizzaria #gestaodepizzaria #pizza",
-  "tema": "Se eu assumisse uma pizzaria de bairro hoje: os primeiros 30 dias",
-  "cta": "seguir",
-  "lote": "fios-nov"
+  "legenda": "Muita gente pergunta como funciona por dentro, então olha o passo a passo\nPõe nome, logo e cores uma vez, escolhe o post, troca preço e sabor e baixa\nR$ 37,80 sem marca ou R$ 67,80 com a sua marca. Pix ou cartão, 7 dias de garantia, acesso pra sempre\nComenta POSTS que eu te respondo com o link\n#pizzaria #donodepizzaria #pizza #postsprontos",
+  "tema": "Como funciona por dentro, passo a passo do app",
+  "cta": "comenta",
+  "lote": "nov-30dias"
  },
  {
   "id": "ND24-20h00",
@@ -16113,24 +16435,24 @@
   "arte": "s13"
  },
  {
-  "id": "FIO-F06-entrega-gratis",
+  "id": "ND26-17h00",
   "quando": "2026-12-04T17:00:00-03:00",
-  "etapa": "util",
+  "etapa": "vida",
   "tipo": "carrossel",
-  "formato": "fio",
   "arquivos": [
-   "midia/fios/F06-entrega-gratis/1.jpg",
-   "midia/fios/F06-entrega-gratis/2.jpg",
-   "midia/fios/F06-entrega-gratis/3.jpg",
-   "midia/fios/F06-entrega-gratis/4.jpg",
-   "midia/fios/F06-entrega-gratis/5.jpg",
-   "midia/fios/F06-entrega-gratis/6.jpg",
-   "midia/fios/F06-entrega-gratis/7.jpg"
+   "midia/ND26-17h00/1.jpg",
+   "midia/ND26-17h00/2.jpg",
+   "midia/ND26-17h00/3.jpg",
+   "midia/ND26-17h00/4.jpg",
+   "midia/ND26-17h00/5.jpg",
+   "midia/ND26-17h00/6.jpg",
+   "midia/ND26-17h00/7.jpg",
+   "midia/ND26-17h00/8.jpg"
   ],
-  "legenda": "Entrega grátis: sim ou não? Depende de uma conta de 2 minutos.\nOs valores são de exemplo: use o seu custo por entrega e o seu ticket médio.\nVocê cobra a entrega? Conta aqui.\n#pizzaria #donodepizzaria #gestaodepizzaria #pizza #delivery",
-  "tema": "Entrega grátis: sim ou não? A conta de 2 minutos",
-  "cta": "seguir",
-  "lote": "fios-nov"
+  "legenda": "Se você já falou pelo menos 3 dessas, é dono de pizzaria raiz\n\"Já saiu, tá chegando\" é clássico. E o \"amanhã eu posto\" também\nMarca o sócio que fala todas\nPosts prontos com a sua marca, link na bio\n#pizzaria #donodepizzaria #pizza #vidadedono",
+  "tema": "Frases que todo dono de pizzaria já falou",
+  "cta": "bio",
+  "lote": "nov-30dias"
  },
  {
   "id": "ND26-20h00",
@@ -16365,24 +16687,23 @@
   "arte": "s03"
  },
  {
-  "id": "FIO-F09-dia-fraco",
+  "id": "ND29-17h00",
   "quando": "2026-12-07T17:00:00-03:00",
-  "etapa": "util",
+  "etapa": "jeito",
   "tipo": "carrossel",
-  "formato": "fio",
   "arquivos": [
-   "midia/fios/F09-dia-fraco/1.jpg",
-   "midia/fios/F09-dia-fraco/2.jpg",
-   "midia/fios/F09-dia-fraco/3.jpg",
-   "midia/fios/F09-dia-fraco/4.jpg",
-   "midia/fios/F09-dia-fraco/5.jpg",
-   "midia/fios/F09-dia-fraco/6.jpg",
-   "midia/fios/F09-dia-fraco/7.jpg"
+   "midia/ND29-17h00/1.jpg",
+   "midia/ND29-17h00/2.jpg",
+   "midia/ND29-17h00/3.jpg",
+   "midia/ND29-17h00/4.jpg",
+   "midia/ND29-17h00/5.jpg",
+   "midia/ND29-17h00/6.jpg",
+   "midia/ND29-17h00/7.jpg"
   ],
-  "legenda": "Antes de vender a primeira pizza do dia, você já tem uma conta pra pagar.\nOs números são de exemplo. O seu: custo fixo do mês ÷ dias abertos ÷ quanto sobra por pizza.\nManda pra quem abre toda segunda torcendo.\n#pizzaria #donodepizzaria #gestaodepizzaria #pizza",
-  "tema": "Quanto custa abrir a porta: a conta do dia fraco",
-  "cta": "seguir",
-  "lote": "fios-nov"
+  "legenda": "O cliente não lembra do seu post mais bonito, lembra de quem apareceu na hora da fome\nPizza é hábito: quem aparece toda semana vira a pizzaria de sempre\nCom post pronto você não precisa escolher entre bonito e constante\nComenta POSTS que eu te respondo com o link\n#pizzaria #donodepizzaria #pizza #constancia",
+  "tema": "Por que constância vence post bonito",
+  "cta": "comenta",
+  "lote": "nov-30dias"
  },
  {
   "id": "ND29-20h00",
