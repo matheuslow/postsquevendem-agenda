@@ -15252,7 +15252,10 @@
   "legenda": "Black Friday na pizzaria: entra ou fica fora?\nEntra. Mas sem 50% em tudo, que queima a margem e lota a cozinha de pedido que não paga a conta.\nVai de brinde: borda grátis, refri grátis, 2ª pizza com desconto ou cupom pra próxima. Faz a conta antes de postar.\nPosts prontos com a sua marca, link na bio\n#pizzaria #donodepizzaria #pizza #blackfriday",
   "tema": "Black Friday na pizzaria: sim ou não? Sim, sem desconto que queima",
   "cta": "bio",
-  "lote": "nov-30dias"
+  "lote": "nov-30dias",
+  "trial": false,
+  "container": "17945885847162872",
+  "publicar_tentado": "2026-11-23T14:02:17.267Z"
  },
  {
   "id": "FIO-F01-queijo",
