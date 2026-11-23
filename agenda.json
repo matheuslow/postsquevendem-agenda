@@ -15416,7 +15416,10 @@
   "legenda": "Seu concorrente posta todo dia. Será que ele tem designer?\nTalvez nem tenha. O que ele tem é constância: post no horário certo, com foto e WhatsApp.\nDá pra fazer o mesmo com post pronto e a sua marca, sem passar a noite no Canva.\nPosts prontos com a sua marca, link na bio\n#pizzaria #donodepizzaria #pizza #instagramparapizzaria",
   "tema": "Seu concorrente posta todo dia: ele tem designer?",
   "cta": "bio",
-  "lote": "nov-30dias"
+  "lote": "nov-30dias",
+  "trial": false,
+  "container": "17945976774162872",
+  "publicar_tentado": "2026-11-23T23:02:37.503Z"
  },
  {
   "id": "ND15-21h30-story",
