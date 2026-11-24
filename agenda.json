@@ -15459,7 +15459,9 @@
   ],
   "legenda": "(story de venda, sem legenda)",
   "lote": "nov-30dias",
-  "arte": "s15"
+  "arte": "s15",
+  "container": "17945990364162872",
+  "publicar_tentado": "2026-11-24T00:31:50.650Z"
  },
  {
   "id": "FIO-F13-pedido-errado",
