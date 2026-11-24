@@ -15542,7 +15542,10 @@
   "legenda": "Terça, 19h. Forno ligado, zap quieto, motoboy olhando o celular.\nTodo dono conhece esse silêncio.\nTerça não se espera, terça se chama: post às 17h com uma promoção que só vale hoje.\nPosts prontos com a sua marca, link na bio\n#pizzaria #donodepizzaria #pizza #vidadedono",
   "tema": "Terça 19h, o forno ligado esperando pedido",
   "cta": "bio",
-  "lote": "nov-30dias"
+  "lote": "nov-30dias",
+  "trial": false,
+  "container": "17946106569162872",
+  "publicar_tentado": "2026-11-24T14:03:17.770Z"
  },
  {
   "id": "FIO-F03-whatsapp",
