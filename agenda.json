@@ -15713,7 +15713,10 @@
   "legenda": "Quanto custa a pizza grande no seu cardápio? Guarda esse número.\nOs Posts Prontos custam R$ 37,80 sem marca ou R$ 67,80 com a sua marca: 90 posts + 90 stories, troca preço e sabor, acesso pra sempre.\nPix ou cartão e 7 dias de garantia.\nComenta POSTS que eu te respondo com o link\n#pizzaria #donodepizzaria #pizza #postsprontos",
   "tema": "O que você recebe por menos que uma pizza",
   "cta": "comenta",
-  "lote": "nov-30dias"
+  "lote": "nov-30dias",
+  "trial": false,
+  "container": "17946189465162872",
+  "publicar_tentado": "2026-11-24T23:03:33.572Z"
  },
  {
   "id": "ND16-21h30-story",
