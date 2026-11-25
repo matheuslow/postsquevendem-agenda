@@ -16040,7 +16040,10 @@
   "legenda": "Você deixaria a vitrine da pizzaria apagada numa sexta à noite?\nO Instagram é a vitrine que o cliente vê antes de pedir. Sem post, ela fica apagada.\nPost pronto com a sua marca acende a vitrine todo dia, sem você parar o forno.\nComenta POSTS que eu te respondo com o link\n#pizzaria #donodepizzaria #pizza #instagramparapizzaria",
   "tema": "Seu Instagram é a vitrine: sem post, a vitrine fica apagada",
   "cta": "comenta",
-  "lote": "nov-30dias"
+  "lote": "nov-30dias",
+  "trial": false,
+  "container": "17946378507162872",
+  "publicar_tentado": "2026-11-25T23:03:02.945Z"
  },
  {
   "id": "ND17-21h30-story",
