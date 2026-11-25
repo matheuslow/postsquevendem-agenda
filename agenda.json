@@ -15756,7 +15756,9 @@
   ],
   "legenda": "(story de venda, sem legenda)",
   "lote": "nov-30dias",
-  "arte": "s04"
+  "arte": "s04",
+  "container": "17946200694162872",
+  "publicar_tentado": "2026-11-25T00:31:51.226Z"
  },
  {
   "id": "FIO-F04-buracos",
