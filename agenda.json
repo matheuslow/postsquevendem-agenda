@@ -15847,7 +15847,10 @@
   "legenda": "Lançou sabor novo e ninguém pediu? Talvez ninguém tenha visto.\nFaz 3 posts: o aviso (tem novidade chegando), a revelação (foto de perto, queijo escorrendo) e quem provou (cliente contando o que achou, com permissão).\nUm por dia, sempre com como pedir.\nPosts prontos com a sua marca, link na bio\n#pizzaria #donodepizzaria #pizza #sabornovo",
   "tema": "Lançou sabor novo? Faça estes 3 posts (aviso, revelação, quem provou)",
   "cta": "bio",
-  "lote": "nov-30dias"
+  "lote": "nov-30dias",
+  "trial": false,
+  "container": "17946303009162872",
+  "publicar_tentado": "2026-11-25T14:02:17.116Z"
  },
  {
   "id": "FIO-F10-refri",
