@@ -16173,7 +16173,10 @@
   "legenda": "Amanhã é Black Friday. O post da sua pizzaria já tá pronto?\nSe não tá, nada de virar a noite no Canva. Abre o app, escolhe a arte de borda grátis, refri grátis ou 2ª pizza com desconto, troca o texto e baixa.\nAmanhã você só posta.\nComenta POSTS que eu te respondo com o link\n#pizzaria #donodepizzaria #pizza #blackfriday",
   "tema": "Esquenta Black Friday: o post de amanhã já tá pronto",
   "cta": "comenta",
-  "lote": "nov-30dias"
+  "lote": "nov-30dias",
+  "trial": false,
+  "container": "17946481284162872",
+  "publicar_tentado": "2026-11-26T14:02:15.376Z"
  },
  {
   "id": "FIO-F05-preco-app",
