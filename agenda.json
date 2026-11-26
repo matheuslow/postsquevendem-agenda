@@ -16343,7 +16343,10 @@
   "legenda": "Véspera de dia cheio. A massa descansa. O dono, nem tanto.\nBola por bola contada, caixa separada, motoboy avisado.\nAmanhã o forno não para. Hoje é dia de deixar tudo pronto, inclusive o post.\nPosts prontos com a sua marca, link na bio\n#pizzaria #donodepizzaria #pizza #bastidores",
   "tema": "Véspera de dia cheio, a massa descansando",
   "cta": "bio",
-  "lote": "nov-30dias"
+  "lote": "nov-30dias",
+  "trial": false,
+  "container": "17946561306162872",
+  "publicar_tentado": "2026-11-26T23:02:13.097Z"
  },
  {
   "id": "ND18-21h30-story",
