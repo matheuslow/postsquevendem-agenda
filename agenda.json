@@ -16083,7 +16083,9 @@
   ],
   "legenda": "(story de venda, sem legenda)",
   "lote": "nov-30dias",
-  "arte": "s07"
+  "arte": "s07",
+  "container": "17946386883162872",
+  "publicar_tentado": "2026-11-26T00:32:30.722Z"
  },
  {
   "id": "FIO-F14-subir-preco",
