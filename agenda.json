@@ -16632,7 +16632,10 @@
   "legenda": "Black Friday, 20h. Hoje o forno não para.\nSai uma, entra outra. Caixa fechando no automático, motoboy nem desce da moto, zap apitando sem parar.\nBom rush pra todo dono que tá no forno agora. Marca quem tá com você hoje.\nPosts prontos com a sua marca, link na bio\n#pizzaria #donodepizzaria #pizza #blackfriday",
   "tema": "Hoje o forno não para",
   "cta": "bio",
-  "lote": "nov-30dias"
+  "lote": "nov-30dias",
+  "trial": false,
+  "container": "17946744591162872",
+  "publicar_tentado": "2026-11-27T23:03:23.035Z"
  },
  {
   "id": "ND19-21h30-story",
