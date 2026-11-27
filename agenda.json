@@ -16462,7 +16462,10 @@
   "legenda": "Hoje é Black Friday. A promoção da sua pizzaria já tá no Instagram?\nCom os Posts Prontos você escolhe a arte (borda grátis, refri grátis, 2ª pizza com desconto), troca texto e preço e baixa com a sua logo e WhatsApp.\nA promoção é da sua pizzaria. O post sai pronto.\nComenta POSTS que eu te respondo com o link\n#pizzaria #donodepizzaria #pizza #blackfriday",
   "tema": "Black Friday da sua pizzaria com post de promoção pronto",
   "cta": "comenta",
-  "lote": "nov-30dias"
+  "lote": "nov-30dias",
+  "trial": false,
+  "container": "17946674610162872",
+  "publicar_tentado": "2026-11-27T14:02:43.856Z"
  },
  {
   "id": "FIO-F12-google",
