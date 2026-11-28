@@ -16720,7 +16720,10 @@
   "legenda": "Manda aquela de sempre. E você já sabe: calabresa, sem cebola, borda de catupiry.\nIsso não é só pedido, é relação. Cliente de casa é o que segura a pizzaria na terça fraca.\nMarca aqui o cliente que pede aquela de sempre.\nPosts prontos com a sua marca, link na bio\n#pizzaria #donodepizzaria #pizza #clientefiel",
   "tema": "O cliente que pede \"aquela de sempre\"",
   "cta": "bio",
-  "lote": "nov-30dias"
+  "lote": "nov-30dias",
+  "trial": false,
+  "container": "17946849075162872",
+  "publicar_tentado": "2026-11-28T14:02:23.362Z"
  },
  {
   "id": "ND20-14h30-story",
